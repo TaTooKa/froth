@@ -18,6 +18,8 @@ These are rules pertaining specifically to games of Dying Sun.
 
 **Item Durability**: Items in Dying Sun have different material qualities, and as an added **risk** to any roll, they could break on Failures or Partial Successes.
 
+**Defense**: Each piece of armor can be broken separately as *Defense* to avoid harm. Some weapons can be broken too, depending on the type of incoming damage (at GM's discretion).
+
 Character creation
 ------------------
 
@@ -128,8 +130,8 @@ Materials
 
 An Item's material can be *Low*, *Medium* or *High* quality.
 
-- Weapons and armor are usually made of **Low quality** readily-available materials like *Bone, Chitin, Stone, Leather, Furs,* etc. These tend to break easily on roll results of FAILURES or PARTIAL SUCCESSES.
-- Items of **Medium quality** (*Strong Bone* or *Hide*, or even *Bronze*)only break on FAILURES, but cost twice ◈ to buy/repair.
+- Weapons and armor are usually made of **Low quality** readily-available materials like *Bone, Chitin, Stone, Leather, Furs,* etc. These tend to break easily on roll results of **FAILURES** or **PARTIAL SUCCESSES**.
+- Items of **Medium quality** (*Strong Bone* or *Hide*, or even *Bronze*) only break on **FAILURES**, but cost twice ◈ to buy/repair.
 - **High quality** material like *True Steel* only breaks if the player chooses so, but costs 5x◈ to buy/repair.
 
 When generating random weapons/armor, first roll for **material quality** (2d6), and optionally roll d6 for the exact material:

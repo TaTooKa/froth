@@ -28,9 +28,9 @@ then check the total:
 Risk
 ----
 
-A risk can be anything from a narrative consequence (something bad happens, the situation worsens, etc), a negative condition that the character receives, or in some dire situations, outright death.
+A risk can be anything from a narrative consequence (something bad happens, the situation worsens, etc), a negative condition that the character receives, or in some dire situations, outright death. GMs must state clearly what the risk is before the dice are rolled.
 
-Negative Conditions give a -1 each to any related roll (in actions in which the condition would adversely affect the character).
+**Negative Conditions** give a -1 each to any related roll (in actions in which the condition would adversely affect the character).
 
 3 or more Conditions usually mean that the character risks death in their next attempt (at GM discretion).
 
@@ -39,7 +39,7 @@ Avoiding Risk
 
 The best way to avoid a risk is to try another course of action. If that's not possible and/or the player still wants to move forward with that action, then they would suffer the full Risk in case of a FAILURE, or a lesser version of it in case of a PARTIAL SUCCESS. Only a full SUCCESS would grant them total avoidance of the Risk.
 
-DEFENSE
+Defense
 ^^^^^^^
 
 For risk of physical harm, characters can defend themselves by breaking some item they carry that could provide some sort of protection for the current situation. A broken item is useless (some could be repaired with time/tools/etc).

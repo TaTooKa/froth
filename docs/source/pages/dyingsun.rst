@@ -16,6 +16,8 @@ These are rules pertaining specifically to games of Dying Sun.
 
 **Load**: Characters can carry as much as makes sense, but more than two *bulky* items (or more than 3 *pieces of armor*) may *hinder* you at times.
 
+**Skill Mastery**: in Dying Sun, characters can be either *adept* (+1) at a *skill*, or a *master* (+2). Write down a +1 or +2 next to your skills to differentiate them.
+
 Character creation
 ------------------
 
@@ -62,17 +64,43 @@ Gear: Roll d6-1 on the *Random Weapons* table, and get 1 random piece of *armor*
 Species
 ~~~~~~~
 
-TODO
+HUMAN
+^^^^^
+
+*The most common amongst the wastelanders.*
+
+Gain 3 extra Skills, or increase some of those you have to *master* (+2), at your choice, in any combination you like.
+
+KREEN'SEKT
+^^^^^^^^^^
+
+*Mantis-like humanoids of the Arid Hills.* 
+
+You have 4 arms (can wield more weapons/ tools, or *help* yourself (+1)). 
+
+You gain the *Jumping* skill; can plunge twice as far/high as humans.
+
+LIZAR'DRAC
+^^^^^^^^^^
+
+*Reptile-men from the Dune Sea.* 
+
+You have the skill *Resistance to heat/fire/thirst/hunger*. 
+
+You can slowly regenerate wounds or missing body parts.
+
 
 Extra Skills
 ~~~~~~~~~~~~
 
-TODO
+Gain 2 extra skills of your choice:
+
+*Athletics, Climbing, Crafting, Deception, Disguise, Forage, Geography, History, Intimidation, Investigation, Marksman, Medicine, Melee, Performance, Persuasion, Religion, Riding, Stealth, Survival, Thievery, Tracking, Traps, Warfare*.
 
 Gear
 ~~~~
 
-TODO
+Metal is too scarce to use as coin. Wastelanders use gems (◈) for currency. You begin with d6 ◈.
 
 Magic
 ~~~~~

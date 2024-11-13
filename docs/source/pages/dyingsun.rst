@@ -48,7 +48,7 @@ Wanderers always have good odds (a circumstantial bonus of +1) when rolling to a
 
 Skills: *Marksman*, *Survival*, *Tracking*. 
 
-Gear: Roll d6 on the *Random Weapons* table, and get 2 random pieces of *armor*. Begin with an extra *ranged weapon* of your choice.
+Gear: Roll d6 on the :hoverxref:`Random Weapons <random-weapons-table>` table, and get 2 random pieces of *armor*. Begin with an extra *ranged weapon* of your choice.
 
 WARLOCK
 ^^^^^^^
@@ -59,7 +59,7 @@ Warlocks are the only ones who can cast *Spells* from their tattoos or execute *
 
 Skills: *Spellcasting*, *Rituals*.
 
-Gear: Roll d6-1 on the *Random Weapons* table, and get 1 random piece of *armor*. Begin knowing 3 *random spells*.
+Gear: Roll d6-1 on the :hoverxref:`Random Weapons <random-weapons-table>` table, and get 1 random piece of *armor*. Begin knowing 3 *random spells*.
 
 Species
 ~~~~~~~
@@ -135,9 +135,9 @@ When generating random weapons/armor, first roll for **material quality** (2d6):
 WEAPONS
 ^^^^^^^
 
-.. _random-weapons-table:
-
 Use this table as a guideline or roll on it as instructed by your Class.
+
+.. _random-weapons-table:
 
 .. list-table:: Weapons
    :widths: 15 70 15

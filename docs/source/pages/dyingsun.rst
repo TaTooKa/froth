@@ -253,10 +253,7 @@ Spells
 
 Spells must be tattooed on the caster's body and recited at the time of execution. To create a Spell, generate a formula with a d6: 1-2: **Effect + Element**, 3-4: **Element + Form**, 5-6: **Effect + Form**. Then define it with the following tables, extrapolating function from its name.
 
-EFFECT
-""""""
-
-Roll d6 twice to generate the Effect.
+Roll d6 twice to generate the **Effect**.
 
 +------------------+--------------------+
 | 1-3              | 4-6                |
@@ -274,10 +271,7 @@ Roll d6 twice to generate the Effect.
 | 6 | Deceiving    | 6 | Corrupting     |
 +---+--------------+---+----------------+
 
-Element
-"""""""
-
-Roll d6 twice to generate the Element.
+Roll d6 twice to generate the **Element**.
 
 +-------------------+-----------------------+
 | 1-3               | 4-6                   |
@@ -295,10 +289,7 @@ Roll d6 twice to generate the Element.
 | 6 | Shadow / Void | 6 | Illusion / Mirage |
 +---+---------------+---+-------------------+
 
-Form
-""""
-
-Roll d6 twice to generate the Form.
+Roll d6 twice to generate the **Form**.
 
 +--------------------+--------------------+
 | 1-3                | 4-6                |

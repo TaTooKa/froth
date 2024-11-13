@@ -102,7 +102,7 @@ Gain 2 extra skills of your choice:
 Gear
 ~~~~
 
-Metal is too scarce to use as coin. Wastelanders use gems (◈) for currency. You begin with d6 ◈.
+Metal is too scarce in the deserts of the Dying Sun to be used as coin. Wastelanders use gems (◈) for currency. You begin with d6 ◈.
 
 MATERIALS
 ^^^^^^^^^
@@ -116,7 +116,7 @@ An Item's material can be Low, Medium or High quality.
 When generating random weapons/armor, first roll for **material quality** (2d6): 2-6: *Low*; 7-10: *Med*; 11-12: *High*.
 
 .. list-table:: Material Quality
-   :widths: 15 70 15
+   :widths: 15 25 60
    :header-rows: 1
 
    * - Roll 2d6
@@ -132,10 +132,12 @@ When generating random weapons/armor, first roll for **material quality** (2d6):
      - High Quality
      - True Steel
 
+------------
+
 WEAPONS
 ^^^^^^^
 
-Use these table as a guideline or roll on it as instructed by your Class.
+Use this table as a guideline or roll on it as instructed by your Class.
 
 .. list-table:: Weapons
    :widths: 15 70 15
@@ -168,6 +170,45 @@ Use these table as a guideline or roll on it as instructed by your Class.
    * - 8
      - Warhammer / Halberd / Zweihänder 
      - 3◈
+
+------------
+
+ARMOR
+^^^^^
+
+Characters can only use one piece of armor in each body part (reroll if repeated during character creation). You are *hindered* if using more than 3.
+
+.. list-table:: Armor
+   :header-rows: 1
+
+   * - Roll d6
+     - Body part
+     - Armor Type
+     - Cost
+   * - 1
+     - Head
+     - Helmet / Coif / Bascinet
+     - 1◈
+   * - 2
+     - Chest
+     - Breastplate / Cuirass / Bandolier
+     - 2◈
+   * - 3
+     - Shoulders
+     - Pauldron / Spaulder
+     - 1◈
+   * - 4
+     - Waist
+     - Belt / Waistband / Loincloth
+     - 1◈
+   * - 5
+     - Arms
+     - Armguard / Vambrace / Gauntlet
+     - 1◈
+   * - 6
+     - Legs
+     - Greaves / Faulds / Cuisses
+     - 1◈
 
 Magic
 ~~~~~

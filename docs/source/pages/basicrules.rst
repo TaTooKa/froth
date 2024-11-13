@@ -5,6 +5,9 @@ Players interpret Characters (AKA *Player-Characters*, or "PCs").
 
 The *Game Master* ("GM") interprets the rest of the world and all *Non-Player-Characters* ("NPCs").
 
+Action Resolution
+-----------------
+
 The game is a conversation. Players take turns to describe what their characters do. Then the GM declares if the action...
 
 - just **happens** as described and what's the outcome
@@ -12,6 +15,9 @@ The game is a conversation. Players take turns to describe what their characters
 - has a **cost**, that the character must pay or suffer in order to perform the action
 - presents a **risk**, that the player must accept before continuing
 - has an **uncertain** outcome, and a failure state is interesting
+
+Rolling the dice
+~~~~~~~~~~~~~~~~
 
 If there is **risk** or **uncertainty** and the player decides to move forward, then they must **roll 2d6**, and:
 

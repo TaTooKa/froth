@@ -37,7 +37,7 @@ Warriors are the only ones who can wear up to 5 pieces of armor without being *o
 
 Skills: *Melee*, *Athletics*.
 
-Gear: Roll d6+2 on the :hoverxref:`Random Weapons <random-weapons-table>` table **twice**, and get 3 random pieces of *armor*.
+Gear: Roll d6+2 on the :hoverxref:`Random Weapons <weapons-table>` table **twice**, and get 3 random pieces of :hoverxref:`armor <armor-table>`.
 
 WANDERER
 ^^^^^^^^
@@ -48,7 +48,7 @@ Wanderers always have good odds (a circumstantial bonus of +1) when rolling to a
 
 Skills: *Marksman*, *Survival*, *Tracking*. 
 
-Gear: Roll d6 on the :hoverxref:`Random Weapons <random-weapons-table>` table, and get 2 random pieces of *armor*. Begin with an extra *ranged weapon* of your choice.
+Gear: Roll d6 on the :hoverxref:`Random Weapons <weapons-table>` table, and get 2 random pieces of :hoverxref:`armor <armor-table>`. Begin with an extra *ranged weapon* of your choice.
 
 WARLOCK
 ^^^^^^^
@@ -59,7 +59,7 @@ Warlocks are the only ones who can cast *Spells* from their tattoos or execute *
 
 Skills: *Spellcasting*, *Rituals*.
 
-Gear: Roll d6-1 on the :hoverxref:`Random Weapons <random-weapons-table>` table, and get 1 random piece of *armor*. Begin knowing 3 *random spells*.
+Gear: Roll d6-1 on the :hoverxref:`Random Weapons <weapons-table>` table, and get 1 random piece of :hoverxref:`armor <armor-table>`. Begin knowing 3 :hoverxref:`random spells <spells-table>`.
 
 Species
 ~~~~~~~
@@ -137,7 +137,7 @@ WEAPONS
 
 Use this table as a guideline or roll on it as instructed by your Class.
 
-.. _random-weapons-table:
+.. _weapons-table:
 
 .. list-table:: Weapons
    :widths: 15 70 15
@@ -177,6 +177,8 @@ ARMOR
 ^^^^^
 
 Characters can only use one piece of armor in each body part (reroll if repeated during character creation). You are *over-encumbered* if using more than 3.
+
+.. _armor-table:
 
 .. list-table:: Armor
    :header-rows: 1

@@ -1,5 +1,5 @@
-Rules
-=====
+Basic Rules
+===========
 
 Players interpret Characters (AKA *Player-Characters*, or "PCs").
 

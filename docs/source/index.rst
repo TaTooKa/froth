@@ -14,4 +14,7 @@ The GM will most likely peruse one of the Worlds and Scenarios provided in this 
 .. toctree::
    :hidden:
 
-   pages/rules
+   pages/basicrules
+   pages/optionalrules
+   pages/principles
+   pages/worlds

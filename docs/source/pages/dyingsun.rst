@@ -148,28 +148,28 @@ Use this table as a guideline or roll on it as instructed by your Class.
      - Cost
    * - 1 or less
      - Club / Staff
-     - 0◈
+     - 0 ◈
    * - 2
      - Blowgun / Sling
-     - 0◈
+     - 0 ◈
    * - 3
      - Dagger / Shiv / Knife
-     - 1◈
+     - 1 ◈
    * - 4
      - Bow / Kunais
-     - 1◈
+     - 1 ◈
    * - 5
      - Spear / Billhook / Pitchfork
-     - 1◈
+     - 1 ◈
    * - 6
      - Hammer / Hand-axe / Short Sword
-     - 2◈
+     - 2 ◈
    * - 7
      - Flail / Great Axe / Long Sword
-     - 2◈
+     - 2 ◈
    * - 8
      - Warhammer / Halberd / Zweihänder 
-     - 3◈
+     - 3 ◈
 
 ------------
 
@@ -190,29 +190,45 @@ Characters can only use one piece of armor in each body part (reroll if repeated
    * - 1
      - Head
      - Helmet / Coif / Bascinet
-     - 1◈
+     - 1 ◈
    * - 2
      - Chest
      - Breastplate / Cuirass / Bandolier
-     - 2◈
+     - 2 ◈
    * - 3
      - Shoulders
      - Pauldron / Spaulder
-     - 1◈
+     - 1 ◈
    * - 4
      - Waist
      - Belt / Waistband / Loincloth
-     - 1◈
+     - 1 ◈
    * - 5
      - Arms
      - Armguard / Vambrace / Gauntlet
-     - 1◈
+     - 1 ◈
    * - 6
      - Legs
      - Greaves / Faulds / Cuisses
-     - 1◈
+     - 1 ◈
 
 .. tip:: The GM can also roll d6 on this table to determine Hit Location for an incoming attack.
+
+------------
+
+OTHER GOODS AND SERVICES
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+Costs may vary depending on supply/demand of each outpost or civilized hub (at GM's discretion).
+
++-------------------------+------------------------------+
+| Goods                   |    Services                  |
++==================+======+=======================+======+
+| 1-week rations   | 1 ◈  | night in hospice      | 1 ◈  |
++------------------+------+-----------------------+------+
+| 1-week rations   | 1 ◈  | night in hospice      | 1 ◈  |
++------------------+------+-----------------------+------+
+
 
 Magic
 ~~~~~

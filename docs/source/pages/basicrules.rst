@@ -49,8 +49,8 @@ Difficulty
 
 Since there is a set range of outcomes for any roll (6-; 7~9; 10+), in order to increase or decrease the difficulty of an action, the GM can impose a modifier of ±X to a roll.
 
-- If the character has some sort of **advantage** from an external circumstance, they gain +1 to the roll.
-- If the character has some sort of **disadvantage** from an external circumstance, they recieve -1 to the roll.
+- If the character has some sort of **advantage** from an external circumstance, or the action would be particularily **easy** for an average person, they gain +1 to the roll.
+- If the character has some sort of **disadvantage** from an external circumstance, or the action would be particularily **hard** for an average person, they recieve -1 to the roll.
 
 These modifiers could increase to ±2 if the GM deems so (specially if there are more than one circumstance affecting the action), but should keep in mind that a ±2 would have a huge impact in a 2d6 roll. 
 

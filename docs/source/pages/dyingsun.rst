@@ -59,7 +59,7 @@ Warlocks are the only ones who can cast *Spells* from their tattoos or execute *
 
 Skills: *Spellcasting*, *Rituals*.
 
-Gear: Roll d6-1 on the :hoverxref:`Random Weapons <weapons-table>` table, and get 1 random piece of :hoverxref:`armor <armor-table>`. Begin knowing 3 :hoverxref:`random spells <spells-table>`.
+Gear: Roll d6-1 on the :hoverxref:`Random Weapons <weapons-table>` table, and get 1 random piece of :hoverxref:`armor <armor-table>`. Begin knowing 3 :hoverxref:`random spells <spells>`.
 
 Species
 ~~~~~~~

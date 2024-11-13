@@ -59,7 +59,7 @@ Warlocks are the only ones who can cast *Spells* from their tattoos or execute *
 
 Skills: *Spellcasting*, *Rituals*.
 
-Gear: Roll d6-1 on the :hoverxref:`Random Weapons <weapons-table>` table, and get 1 random piece of :hoverxref:`armor <armor-table>`. Begin knowing 3 :hoverxref:`random spells <spells>`.
+Gear: Roll d6-1 on the :hoverxref:`Random Weapons <weapons-table>` table, and get 1 random piece of :hoverxref:`armor <armor-table>`. Begin knowing 3 :hoverxref:`random spells <spells-table>`.
 
 Species
 ~~~~~~~
@@ -246,10 +246,10 @@ Magic
 
 Magic takes its energy from the life essence of everything around the caster. A magic-user knows how to tap just enough, to power their spells in a safe way.
 
+.. _spells-table:
+
 Spells
 ^^^^^^
-
-.. _spells-table:
 
 Spells must be tattooed on the caster's body and recited at the time of execution. To create a Spell, generate a formula with a d6: 1-2: **Effect + Element**, 3-4: **Element + Form**, 5-6: **Effect + Form**. Then define it with the following tables, extrapolating function from its name.
 
@@ -315,6 +315,27 @@ Roll d6 twice to generate the Form.
 +---+----------------+---+----------------+
 | 6 | Cloud / Fog    | 6 | Clone / Image  |
 +---+----------------+---+----------------+
+
+Spellcasting
+^^^^^^^^^^^^
+
+The effect of "safe" magic is usually subtle.
+
+**DEFILING MAGIC** is the process to tap more than what's safe for greater power. Plants wither and die, soil goes infertile and dry, and creatures weaken and writhe. When you choose to do so, add +1 to your roll if you defile a few meters around you, or +2 if you desecrate a bigger area. The spell effect is stronger, but if you roll a **FAILURE** (6-) or you obtain a result **equal to or higher than 13**, you trigger a Magical Mishap.
+
+Rituals
+^^^^^^^
+
+Some special or powerful effects cannot be cast instantly (or be encoded as spells), and require a more involved process, known as a **Ritual**. Magic Rituals can potentially achieve any desired effect the caster can imagine. 
+
+The GM sets **1 to 4 conditions** before you roll:
+
+- It's going to take hours/days/weeks/months
+- You must perform it at a special place/time
+- First you must do [X] or get help from [X]
+- The effect will be unreliable or limited
+- You and your allies will risk danger from [X]
+- You'll have to sacrifice or consume [X] to do it
 
 Names
 ~~~~~

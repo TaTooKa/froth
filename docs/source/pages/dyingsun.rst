@@ -26,7 +26,7 @@ Follow these guidelines to create a Character in the world of Dying Sun.
 Class
 ~~~~~
 
-Choose one of WARRIOR, WANDERER or WARLOCK.
+Choose one of **WARRIOR**, **WANDERER** or **WARLOCK**.
 
 WARRIOR
 ^^^^^^^
@@ -55,7 +55,7 @@ WARLOCK
 
 *A clandestine wielder of magick, a fugitive defiler or a rebel spellcaster fighting against the will of the Sorcerer-Kings.*
 
-Warlocks are the only ones who can cast *Spells* from their tattoos or execute *Magic Rituals*.
+Warlocks are the only ones who can cast *Spells* from their tattoos or execute :hoverxref:`Magic Rituals <rituals-section>`.
 
 Skills: *Spellcasting*, *Rituals*.
 
@@ -64,7 +64,7 @@ Gear: Roll d6-1 on the :hoverxref:`Random Weapons <weapons-table>` table, and ge
 Species
 ~~~~~~~
 
-Choose one of HUMAN, KREEN'SEKT or LIZAR'DRAC.
+Choose one of **HUMAN**, **KREEN'SEKT** or **LIZAR'DRAC**.
 
 HUMAN
 ^^^^^
@@ -80,7 +80,7 @@ KREEN'SEKT
 
 You have 4 arms (can wield more weapons/ tools, or *help* yourself (+1) on actions that would benefit from that). 
 
-You gain the *Jumping* skill; can plunge twice as far/high as humans.
+You gain the *Jumping* skill; You can plunge twice as far/high as humans.
 
 LIZAR'DRAC
 ^^^^^^^^^^
@@ -125,7 +125,7 @@ Gear
 
 Metal is too scarce in the deserts of the Dying Sun to be used as coin. Wastelanders use gems (◈) for currency. You begin with d6 ◈.
 
-MATERIALS
+Materials
 ~~~~~~~~~
 
 An Item's material can be *Low*, *Medium* or *High* quality.
@@ -155,7 +155,7 @@ When generating random weapons/armor, first roll for **material quality** (2d6):
 
 ------------
 
-WEAPONS
+Weapons
 ~~~~~~~
 
 Use this table as a guideline or roll on it as instructed by your Class.
@@ -196,7 +196,7 @@ Use this table as a guideline or roll on it as instructed by your Class.
 
 ------------
 
-ARMOR
+Armor
 ~~~~~
 
 Characters can only use one piece of armor in each body part (reroll if repeated during character creation). You are *over-encumbered* if using more than 3.
@@ -239,7 +239,7 @@ Characters can only use one piece of armor in each body part (reroll if repeated
 
 ------------
 
-OTHER GOODS AND SERVICES
+Other Goods and Services
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 Costs may vary depending on supply/demand of each outpost or civilized hub (at GM's discretion).
@@ -263,6 +263,8 @@ Costs may vary depending on supply/demand of each outpost or civilized hub (at G
 +----------------------------+------+----------------------------+------+
 
 .. tip:: Some materials can be gathered in the wild or by carving the corpse of felled beasts. Many wastelanders craft and repair their own gear in the field.
+
+------------
 
 Magic
 -----
@@ -333,12 +335,18 @@ Spells
    | 6 | Cloud / Fog    | 6 | Clone / Image  |
    +---+----------------+---+----------------+
    
+------------
+
 Spellcasting
 ~~~~~~~~~~~~
 
 The effect of "safe" magic is usually subtle.
 
 **DEFILING MAGIC** is the process to tap more than what's safe for greater power. Plants wither and die, soil goes infertile and dry, and creatures weaken and writhe. When you choose to do so, add +1 to your roll if you defile a few meters around you, or +2 if you desecrate a bigger area. The spell effect is stronger, but if you roll a **FAILURE** (6-) or you obtain a result **equal to or higher than 13**, you trigger a Magical Mishap.
+
+------------
+
+.. _rituals-section:
 
 Rituals
 ~~~~~~~

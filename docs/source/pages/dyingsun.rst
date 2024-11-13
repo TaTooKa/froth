@@ -37,7 +37,7 @@ Warriors are the only ones who can wear up to 5 pieces of armor without being *o
 
 Skills: *Melee*, *Athletics*.
 
-Gear: Roll d6+2 on the :hoverxref:`Random Weapons <weapons-table>` table **twice**, and get 3 random pieces of :hoverxref:`armor <armor-table>`.
+Gear: Roll d6+2 on the :hoverxref:`Random Weapons <weapons-table>` table **twice**, and get 3 random pieces of :hoverxref:`armor <armor-table>`. Remember to roll :hoverxref:`material quality <materials-table>` for each item.
 
 WANDERER
 ^^^^^^^^
@@ -48,7 +48,7 @@ Wanderers always have good odds (a circumstantial bonus of +1) when rolling to a
 
 Skills: *Marksman*, *Survival*, *Tracking*. 
 
-Gear: Roll d6 on the :hoverxref:`Random Weapons <weapons-table>` table, and get 2 random pieces of :hoverxref:`armor <armor-table>`. Begin with an extra *ranged weapon* of your choice.
+Gear: Roll d6 on the :hoverxref:`Random Weapons <weapons-table>` table, and get 2 random pieces of :hoverxref:`armor <armor-table>`. Begin with an extra *ranged weapon* of your choice. Remember to roll :hoverxref:`material quality <materials-table>` for each item.
 
 WARLOCK
 ^^^^^^^
@@ -59,7 +59,7 @@ Warlocks are the only ones who can cast *Spells* from their tattoos or execute :
 
 Skills: *Spellcasting*, *Rituals*.
 
-Gear: Roll d6-1 on the :hoverxref:`Random Weapons <weapons-table>` table, and get 1 random piece of :hoverxref:`armor <armor-table>`. Begin knowing 3 :hoverxref:`random spells <spells-section>`.
+Gear: Roll d6-1 on the :hoverxref:`Random Weapons <weapons-table>` table, and get 1 random piece of :hoverxref:`armor <armor-table>`. Remember to roll :hoverxref:`material quality <materials-table>` for each item. Also begin knowing 3 :hoverxref:`random spells <spells-section>`.
 
 Species
 ~~~~~~~
@@ -71,25 +71,23 @@ HUMAN
 
 *The most common amongst the wastelanders.*
 
-Gain 3 extra Skills, or increase some of those you have to *master* (+2), at your choice, in any combination you like.
+- Gain 3 extra Skills, or increase some of those you have to *master* (+2), at your choice, in any combination you like.
 
 KREEN'SEKT
 ^^^^^^^^^^
 
 *Mantis-like humanoids of the Arid Hills.* 
 
-You have 4 arms (can wield more weapons/ tools, or *help* yourself (+1) on actions that would benefit from that). 
-
-You gain the *Jumping* skill; You can plunge twice as far/high as humans.
+- You have 4 arms (can wield more weapons/ tools, or *help* yourself (+1) on actions that would benefit from that). 
+- You gain the *Jumping* skill; You can plunge twice as far/high as humans.
 
 LIZAR'DRAC
 ^^^^^^^^^^
 
 *Reptile-men from the Dune Sea.* 
 
-You have the skill *Resistance to heat/fire/thirst/hunger*. 
-
-You can slowly regenerate wounds or missing body parts.
+- You have the skill *Resistance to heat/fire/thirst/hunger*. 
+- You can slowly regenerate wounds or missing body parts.
 
 
 Extra Skills
@@ -134,7 +132,9 @@ An Item's material can be *Low*, *Medium* or *High* quality.
 - Items of **Medium quality** (*Strong Bone* or *Hide*, or even *Bronze*)only break on FAILURES, but cost twice ◈ to buy/repair.
 - **High quality** material like *True Steel* only breaks if the player chooses so, but costs 5x◈ to buy/repair.
 
-When generating random weapons/armor, first roll for **material quality** (2d6): 2-6: *Low*; 7-10: *Med*; 11-12: *High*.
+When generating random weapons/armor, first roll for **material quality** (2d6), and optionally roll d6 for the exact material:
+
+.. _materials-table:
 
 .. list-table:: Material Quality
    :widths: 15 25 60
@@ -361,4 +361,3 @@ The GM sets **1 to 4 conditions** before you roll:
 - The effect will be unreliable or limited
 - You and your allies will risk danger from [X]
 - You'll have to sacrifice or consume [X] to do it
-

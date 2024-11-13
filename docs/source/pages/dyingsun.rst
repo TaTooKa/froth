@@ -244,7 +244,77 @@ Costs may vary depending on supply/demand of each outpost or civilized hub (at G
 Magic
 ~~~~~
 
-TODO
+Magic takes its energy from the life essence of everything around the caster. A magic-user knows how to tap just enough, to power their spells in a safe way.
+
+Spells
+^^^^^^
+
+.. _spells-table:
+
+Spells must be tattooed on the caster's body and recited at the time of execution. To create a Spell, generate a formula with a d6: 1-2: **Effect + Element**, 3-4: **Element + Form**, 5-6: **Effect + Form**. Then define it with the following tables, extrapolating function from its name.
+
+EFFECT
+""""""
+
+Roll d6 twice to generate the Effect.
+
++------------------+--------------------+
+| 1-3              | 4-6                |
++---+--------------+---+----------------+
+| 1 | Transforming | 1 | Mending        |
++---+--------------+---+----------------+
+| 2 | Attracting   | 2 | Disintegrating |
++---+--------------+---+----------------+
+| 3 | Paralyzing   | 3 | Repelling      |
++---+--------------+---+----------------+
+| 4 | Revealing    | 4 | Spawning       |
++---+--------------+---+----------------+
+| 5 | Shielding    | 5 | Disrupting     |
++---+--------------+---+----------------+
+| 6 | Deceiving    | 6 | Corrupting     |
++---+--------------+---+----------------+
+
+Element
+"""""""
+
+Roll d6 twice to generate the Element.
+
++-------------------+-----------------------+
+| 1-3               | 4-6                   |
++---+---------------+---+-------------------+
+| 1 | Acid / Poison | 1 | Air / Wind        |
++---+---------------+---+-------------------+
+| 2 | Mind / Soul   | 2 | Thunder / Ray     |
++---+---------------+---+-------------------+
+| 3 | Fire / Heat   | 3 | Stone / Earth     |
++---+---------------+---+-------------------+
+| 4 | Flesh / Body  | 4 | Time / Age        |
++---+---------------+---+-------------------+
+| 5 | Water / Ice   | 5 | Nature / Plant    |
++---+---------------+---+-------------------+
+| 6 | Shadow / Void | 6 | Illusion / Mirage |
++---+---------------+---+-------------------+
+
+Form
+""""
+
+Roll d6 twice to generate the Form.
+
++--------------------+--------------------+
+| 1-3                | 4-6                |
++---+----------------+---+----------------+
+| 1 | Armor / Shield | 1 | Cloak / Zone   |
++---+----------------+---+----------------+
+| 2 | Arrow / Bolt   | 2 | Touch / Grasp  |
++---+----------------+---+----------------+
+| 3 | Aura / Sphere  | 3 | Trap / Prison  |
++---+----------------+---+----------------+
+| 4 | Blast / Beam   | 4 | Wall / Barrier |
++---+----------------+---+----------------+
+| 5 | Blade / Slash  | 5 | Vortex / Pit   |
++---+----------------+---+----------------+
+| 6 | Cloud / Fog    | 6 | Clone / Image  |
++---+----------------+---+----------------+
 
 Names
 ~~~~~

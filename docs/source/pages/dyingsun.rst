@@ -99,13 +99,34 @@ Gain 2 extra skills of your choice:
 
 *Athletics, Climbing, Crafting, Deception, Disguise, Forage, Geography, History, Intimidation, Investigation, Marksman, Medicine, Melee, Performance, Persuasion, Religion, Riding, Stealth, Survival, Thievery, Tracking, Traps, Warfare*.
 
+Names
+~~~~~
+
+Roll d6 twice to generate a random name. 
+
++---+--------+---------+---------+---------+--------+-------+
+|   | 1      | 2       | 3       | 4       | 5      | 6     |
++---+--------+---------+---------+---------+--------+-------+
+| 1 | Agor   | Drash   | Klak    | Nal     | Rul    | Teyn  |
++---+--------+---------+---------+---------+--------+-------+
+| 2 | Aris   | Fyra    | Krosh   | Parn    | Shari  | Twil  |
++---+--------+---------+---------+---------+--------+-------+
+| 3 | Ashula | Harn    | Kryss   | Radurak | Shuleh | Tyr   |
++---+--------+---------+---------+---------+--------+-------+
+| 4 | Brom   | Jraati  | Lazra   | Rayn    | Solzak | Zhyrr |
++---+--------+---------+---------+---------+--------+-------+
+| 5 | Cerdak | Karth   | Miralth | Rhan    | Strom  | Zohr  |
++---+--------+---------+---------+---------+--------+-------+
+| 6 | Desh   | Kestria | Muth    | Ribic   | Taarna | Zyl   |
++---+--------+---------+---------+---------+--------+-------+
+
 Gear
-~~~~
+----
 
 Metal is too scarce in the deserts of the Dying Sun to be used as coin. Wastelanders use gems (◈) for currency. You begin with d6 ◈.
 
 MATERIALS
-^^^^^^^^^
+~~~~~~~~~
 
 An Item's material can be *Low*, *Medium* or *High* quality.
 
@@ -135,7 +156,7 @@ When generating random weapons/armor, first roll for **material quality** (2d6):
 ------------
 
 WEAPONS
-^^^^^^^
+~~~~~~~
 
 Use this table as a guideline or roll on it as instructed by your Class.
 
@@ -176,7 +197,7 @@ Use this table as a guideline or roll on it as instructed by your Class.
 ------------
 
 ARMOR
-^^^^^
+~~~~~
 
 Characters can only use one piece of armor in each body part (reroll if repeated during character creation). You are *over-encumbered* if using more than 3.
 
@@ -219,7 +240,7 @@ Characters can only use one piece of armor in each body part (reroll if repeated
 ------------
 
 OTHER GOODS AND SERVICES
-^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Costs may vary depending on supply/demand of each outpost or civilized hub (at GM's discretion).
 
@@ -244,14 +265,14 @@ Costs may vary depending on supply/demand of each outpost or civilized hub (at G
 .. tip:: Some materials can be gathered in the wild or by carving the corpse of felled beasts. Many wastelanders craft and repair their own gear in the field.
 
 Magic
-~~~~~
+-----
 
 Magic takes its energy from the life essence of everything around the caster. A magic-user knows how to tap just enough, to power their spells in a safe way.
 
 .. _spells-section:
 
 Spells
-^^^^^^
+~~~~~~
 
 .. compound::
    
@@ -313,14 +334,14 @@ Spells
    +---+----------------+---+----------------+
    
 Spellcasting
-^^^^^^^^^^^^
+~~~~~~~~~~~~
 
 The effect of "safe" magic is usually subtle.
 
 **DEFILING MAGIC** is the process to tap more than what's safe for greater power. Plants wither and die, soil goes infertile and dry, and creatures weaken and writhe. When you choose to do so, add +1 to your roll if you defile a few meters around you, or +2 if you desecrate a bigger area. The spell effect is stronger, but if you roll a **FAILURE** (6-) or you obtain a result **equal to or higher than 13**, you trigger a Magical Mishap.
 
 Rituals
-^^^^^^^
+~~~~~~~
 
 Some special or powerful effects cannot be cast instantly (or be encoded as spells), and require a more involved process, known as a **Ritual**. Magic Rituals can potentially achieve any desired effect the caster can imagine. 
 
@@ -333,23 +354,3 @@ The GM sets **1 to 4 conditions** before you roll:
 - You and your allies will risk danger from [X]
 - You'll have to sacrifice or consume [X] to do it
 
-Names
-~~~~~
-
-Roll d6 twice to generate a random name. 
-
-+---+--------+---------+---------+---------+--------+-------+
-|   | 1      | 2       | 3       | 4       | 5      | 6     |
-+---+--------+---------+---------+---------+--------+-------+
-| 1 | Agor   | Drash   | Klak    | Nal     | Rul    | Teyn  |
-+---+--------+---------+---------+---------+--------+-------+
-| 2 | Aris   | Fyra    | Krosh   | Parn    | Shari  | Twil  |
-+---+--------+---------+---------+---------+--------+-------+
-| 3 | Ashula | Harn    | Kryss   | Radurak | Shuleh | Tyr   |
-+---+--------+---------+---------+---------+--------+-------+
-| 4 | Brom   | Jraati  | Lazra   | Rayn    | Solzak | Zhyrr |
-+---+--------+---------+---------+---------+--------+-------+
-| 5 | Cerdak | Karth   | Miralth | Rhan    | Strom  | Zohr  |
-+---+--------+---------+---------+---------+--------+-------+
-| 6 | Desh   | Kestria | Muth    | Ribic   | Taarna | Zyl   |
-+---+--------+---------+---------+---------+--------+-------+

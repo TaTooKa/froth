@@ -107,13 +107,30 @@ Metal is too scarce to use as coin. Wastelanders use gems (◈) for currency. Yo
 MATERIALS
 ^^^^^^^^^
 
-Weapons and armor are usually made of **Low quality** readily-available materials like *Bone, Chitin, Stone, Leather, Furs,* etc. These tend to break easily on roll results of FAILURES or PARTIAL SUCCESSES.
+An Item's material can be Low, Medium or High quality.
 
-Items of **Medium quality** (*Strong Bone* or *Hide*, or even *Bronze*)only break on FAILURES, but cost twice ◈ to buy/repair.
+- Weapons and armor are usually made of **Low quality** readily-available materials like *Bone, Chitin, Stone, Leather, Furs,* etc. These tend to break easily on roll results of FAILURES or PARTIAL SUCCESSES.
+- Items of **Medium quality** (*Strong Bone* or *Hide*, or even *Bronze*)only break on FAILURES, but cost twice ◈ to buy/repair.
+- **High quality** material like *True Steel* only breaks if the player chooses so, but costs 5x◈ to buy/repair.
 
-**High quality** material like *True Steel* only breaks if the player chooses so, but costs 5x◈.
+When generating random weapons/armor, first roll for **material quality** (2d6): 2-6: *Low*; 7-10: *Med*; 11-12: *High*.
 
-When generating random weapons/armor, first roll for **material quality** (2d6): 1-6: *Low*; 7-10: *Med*; 11-12: *High*.
+.. list-table:: Material Quality
+   :widths: 15 70 15
+   :header-rows: 1
+
+   * - Roll 2d6
+     - Material Quality
+     - Material
+   * - 2-6
+     - Low Quality
+     - 1: Bone; 2: Chitin; 3: Stone; 4: Leather; 5: Fur/Hide; 6: Wood
+   * - 7-10
+     - Med Quality
+     - 1-2: Strong bone/hide; 3-4: Hardwood/Hardrock; 5-6: Iron/Bronze
+   * - 11-12
+     - High Quality
+     - True Steel
 
 WEAPONS
 ^^^^^^^
@@ -121,8 +138,8 @@ WEAPONS
 Use these table as a guideline or roll on it as instructed by your Class.
 
 .. list-table:: Weapons
-    :widths: 15 70 15
-    :header-rows: 1
+   :widths: 15 70 15
+   :header-rows: 1
 
    * - Roll d6±X
      - Weapon Type

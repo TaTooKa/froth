@@ -12,9 +12,7 @@ New Rules
 
 These are rules pertaining specifically to games of Dying Sun.
 
-**Hindrance**: a hindrance is a **negative condition** (-1), caused by many factors. for example, an encumbered character would be *hindered*.
-
-**Load**: Characters can carry as much as makes sense, but more than two *bulky* items (or more than 3 *pieces of armor*) may *hinder* you at times.
+**Load**: Characters can carry as much as makes sense, but more than two *bulky* items (or more than 3 *pieces of armor*) will make you *overencumbered*: this is a **negative condition** (-1) for any roll that would be affected by it.
 
 **Skill Mastery**: in Dying Sun, characters can be either *adept* (+1) at a *skill*, or a *master* (+2). Write down a +1 or +2 next to your skills to differentiate them.
 
@@ -35,7 +33,7 @@ WARRIOR
 
 *An adept fighter, a barbarian of the Jagged Wastes, a gladiator of the arena of Zihm or a brigand in search of bloody battle.*
 
-Warriors are the only ones who can wear up to 5 pieces of armor without being *hindered*.
+Warriors are the only ones who can wear up to 5 pieces of armor without being *overencumbered*.
 
 Skills: *Melee*, *Athletics*.
 
@@ -176,7 +174,7 @@ Use this table as a guideline or roll on it as instructed by your Class.
 ARMOR
 ^^^^^
 
-Characters can only use one piece of armor in each body part (reroll if repeated during character creation). You are *hindered* if using more than 3.
+Characters can only use one piece of armor in each body part (reroll if repeated during character creation). You are *overencumbered* if using more than 3.
 
 .. list-table:: Armor
    :header-rows: 1
@@ -209,6 +207,10 @@ Characters can only use one piece of armor in each body part (reroll if repeated
      - Legs
      - Greaves / Faulds / Cuisses
      - 1◈
+
+.. admonition:: Optional
+
+The GM can also roll d6 on this table to determine Hit Location for an incoming attack.
 
 Magic
 ~~~~~

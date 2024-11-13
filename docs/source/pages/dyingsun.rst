@@ -208,9 +208,7 @@ Characters can only use one piece of armor in each body part (reroll if repeated
      - Greaves / Faulds / Cuisses
      - 1◈
 
-.. tip:: Optional
-
-The GM can also roll d6 on this table to determine Hit Location for an incoming attack.
+.. tip:: The GM can also roll d6 on this table to determine Hit Location for an incoming attack.
 
 Magic
 ~~~~~

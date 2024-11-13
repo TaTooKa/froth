@@ -12,9 +12,16 @@ In order to play, you will need at least two six-sided dice (preferrably a pair 
 The GM will most likely peruse one of the Worlds and Scenarios provided in this site or document, as a guide to kickstart a gaming session (or multiple ones) of Erzählspiel.
 
 .. toctree::
+   :caption: Rules
    :hidden:
 
    pages/basicrules
    pages/optionalrules
    pages/principles
-   pages/worlds
+
+.. toctree::
+   :caption: Worlds
+   :hidden:
+
+   pages/galaxyfaraway
+   pages/dyingsun

@@ -43,3 +43,15 @@ Defense
 ^^^^^^^
 
 For risk of physical harm, characters can defend themselves by breaking some item they carry that could provide some sort of protection for the current situation. A broken item is useless (some could be repaired with time/tools/etc).
+
+Difficulty
+----------
+
+Since there is a set range of outcomes for any roll (6-; 7~9; 10+), in order to increase or decrease the difficulty of an action, the GM can impose a modifier of ±X to a roll.
+
+- If the character has some sort of **advantage** from an external circumstance, they gain +1 to the roll.
+- If the character has some sort of **disadvantage** from an external circumstance, they recieve -1 to the roll.
+
+These modifiers could increase to ±2 if the GM deems so (specially if there are more than one circumstance affecting the action), but should keep in mind that a ±2 would have a huge impact in a 2d6 roll. 
+
+**Negative Conditions** already impose negative modifiers to character actions, which is another factor for the GM to consider when imposing difficulty penalties.

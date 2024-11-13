@@ -221,14 +221,25 @@ OTHER GOODS AND SERVICES
 
 Costs may vary depending on supply/demand of each outpost or civilized hub (at GM's discretion).
 
-+-------------------------+------------------------------+
-| Goods                   |    Services                  |
-+==================+======+=======================+======+
-| 1-week rations   | 1 ◈  | night in hospice      | 1 ◈  |
-+------------------+------+-----------------------+------+
-| 1-week rations   | 1 ◈  | night in hospice      | 1 ◈  |
-+------------------+------+-----------------------+------+
++-----------------------------------+-----------------------------------+
+| Goods                             |    Services                       |
++============================+======+============================+======+
+| 1-week rations             | 1 ◈  | night in hospice           | 1 ◈  |
++----------------------------+------+----------------------------+------+
+| medicine supplies          | 2 ◈  | hired guide p/day          | 2 ◈  |
++----------------------------+------+----------------------------+------+
+| adventuring gear           | 3 ◈  | hired guard p/day          | 3 ◈  |
++----------------------------+------+----------------------------+------+
+| ammo bag/quiver            | 1 ◈  | bribe a guard              | 3 ◈  |
++----------------------------+------+----------------------------+------+
+| chunk of X material        | 1 ◈  | get a spell tattoo         | 5 ◈  |
++----------------------------+------+----------------------------+------+
+| shield                     | 1 ◈  | repair weapon              | 2 ◈  |
++----------------------------+------+----------------------------+------+
+| Relic                      | 20+ ◈| repair armor               | 3 ◈  |
++----------------------------+------+----------------------------+------+
 
+.. tip:: Some materials can be gathered in the wild or by carving the corpse of felled beasts. Many wastelanders craft and repair their own gear in the field.
 
 Magic
 ~~~~~

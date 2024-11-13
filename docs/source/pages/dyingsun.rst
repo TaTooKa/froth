@@ -18,6 +18,8 @@ These are rules pertaining specifically to games of Dying Sun.
 
 **Skill Mastery**: in Dying Sun, characters can be either *adept* (+1) at a *skill*, or a *master* (+2). Write down a +1 or +2 next to your skills to differentiate them.
 
+**Item Durability**: Items in Dying Sun have different material qualities, and as an added **risk** to any roll, they could break on Failures or Partial Successes.
+
 Character creation
 ------------------
 
@@ -76,7 +78,7 @@ KREEN'SEKT
 
 *Mantis-like humanoids of the Arid Hills.* 
 
-You have 4 arms (can wield more weapons/ tools, or *help* yourself (+1)). 
+You have 4 arms (can wield more weapons/ tools, or *help* yourself (+1) on actions that would benefit from that). 
 
 You gain the *Jumping* skill; can plunge twice as far/high as humans.
 
@@ -101,6 +103,54 @@ Gear
 ~~~~
 
 Metal is too scarce to use as coin. Wastelanders use gems (◈) for currency. You begin with d6 ◈.
+
+MATERIALS
+^^^^^^^^^
+
+Weapons and armor are usually made of **Low quality** readily-available materials like *Bone, Chitin, Stone, Leather, Furs,* etc. These tend to break easily on roll results of FAILURES or PARTIAL SUCCESSES.
+
+Items of **Medium quality** (*Strong Bone* or *Hide*, or even *Bronze*)only break on FAILURES, but cost twice ◈ to buy/repair.
+
+**High quality** material like *True Steel* only breaks if the player chooses so, but costs 5x◈.
+
+When generating random weapons/armor, first roll for **material quality** (2d6): 1-6: *Low*; 7-10: *Med*; 11-12: *High*.
+
+WEAPONS
+^^^^^^^
+
+Use these table as a guideline or roll on it as instructed by your Class.
+
+.. list-table:: Weapons
+    :widths: 15 70 15
+    :header-rows: 1
+
+   * - Roll d6±X
+     - Weapon Type
+     - Cost
+   * - 1 or less
+     - Club / Staff
+     - 0◈
+   * - 2
+     - Blowgun / Sling
+     - 0◈
+   * - 3
+     - Dagger / Shiv / Knife
+     - 1◈
+   * - 4
+     - Bow / Kunais
+     - 1◈
+   * - 5
+     - Spear / Billhook / Pitchfork
+     - 1◈
+   * - 6
+     - Hammer / Hand-axe / Short Sword
+     - 2◈
+   * - 7
+     - Flail / Great Axe / Long Sword
+     - 2◈
+   * - 8
+     - Warhammer / Halberd / Zweihänder 
+     - 3◈
 
 Magic
 ~~~~~

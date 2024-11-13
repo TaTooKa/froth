@@ -37,7 +37,7 @@ Warriors are the only ones who can wear up to 5 pieces of armor without being *o
 
 Skills: *Melee*, *Athletics*.
 
-Gear: Roll d6+2 on the *Random Weapons* table **twice**, and get 3 random pieces of *armor*.
+Gear: Roll d6+2 on the :hoverxref:`Random Weapons <random-weapons-table>` table **twice**, and get 3 random pieces of *armor*.
 
 WANDERER
 ^^^^^^^^
@@ -105,7 +105,7 @@ Metal is too scarce in the deserts of the Dying Sun to be used as coin. Wastelan
 MATERIALS
 ^^^^^^^^^
 
-An Item's material can be Low, Medium or High quality.
+An Item's material can be *Low*, *Medium* or *High* quality.
 
 - Weapons and armor are usually made of **Low quality** readily-available materials like *Bone, Chitin, Stone, Leather, Furs,* etc. These tend to break easily on roll results of FAILURES or PARTIAL SUCCESSES.
 - Items of **Medium quality** (*Strong Bone* or *Hide*, or even *Bronze*)only break on FAILURES, but cost twice ◈ to buy/repair.
@@ -134,6 +134,8 @@ When generating random weapons/armor, first roll for **material quality** (2d6):
 
 WEAPONS
 ^^^^^^^
+
+.. _random-weapons-table:
 
 Use this table as a guideline or roll on it as instructed by your Class.
 

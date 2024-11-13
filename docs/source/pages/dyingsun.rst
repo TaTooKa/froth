@@ -64,6 +64,8 @@ Gear: Roll d6-1 on the :hoverxref:`Random Weapons <weapons-table>` table, and ge
 Species
 ~~~~~~~
 
+Choose one of HUMAN, KREEN'SEKT or LIZAR'DRAC.
+
 HUMAN
 ^^^^^
 
@@ -246,14 +248,14 @@ Magic
 
 Magic takes its energy from the life essence of everything around the caster. A magic-user knows how to tap just enough, to power their spells in a safe way.
 
-.. _spells-table:
-
 Spells
 ^^^^^^
 
 Spells must be tattooed on the caster's body and recited at the time of execution. To create a Spell, generate a formula with a d6: 1-2: **Effect + Element**, 3-4: **Element + Form**, 5-6: **Effect + Form**. Then define it with the following tables, extrapolating function from its name.
 
 Roll d6 twice to generate the **Effect**.
+
+.. _spells-table:
 
 +------------------+--------------------+
 | 1-3              | 4-6                |

@@ -18,6 +18,7 @@ The GM will most likely peruse one of the Worlds and Scenarios provided in this 
    pages/basicrules
    pages/optionalrules
    pages/principles
+   pages/about
 
 .. toctree::
    :caption: Worlds

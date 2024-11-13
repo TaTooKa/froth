@@ -250,10 +250,10 @@ Magic takes its energy from the life essence of everything around the caster. A 
 
 .. _spells-section:
 
-.. compound::
+Spells
+^^^^^^
 
-   Spells
-   ^^^^^^
+.. compound::
    
    Spells must be tattooed on the caster's body and recited at the time of execution. To create a Spell, generate a formula with a d6: 1-2: **Effect + Element**, 3-4: **Element + Form**, 5-6: **Effect + Form**. Then define it with the following tables, extrapolating function from its name.
    

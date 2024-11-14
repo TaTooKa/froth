@@ -390,10 +390,40 @@ The GM sets **1 to 4 conditions** before you roll:
 The World of Dying Sun
 ----------------------
 
+.. image:: ../_static/images/dying-sun-map.jpg
+
+- **Tarnath**: "City of Thieves".
+- **Zihm**: TODO
+- **Mÿr**: TODO
+- **The Jagged Ranges**: TODO
+- **The Ashen Wastes**: TODO
+- **The Dry Lands**: TODO
+- **The Dune Sea**: TODO
+- **The Arid Hills**: TODO
+- **The Endless Peaks**: TODO
+- **The Red Wastelands**: TODO
+- **The Barren Mudflats**: TODO
+
 Locations
 ~~~~~~~~~
 
-Todo
+Use this table as a guideline or to pick a random location in the wastelands.
+
++------------------------------------------------------------------+----------------------------------------------------------------+
+|  1-3                                                             | 4-6                                                            |
++---+--------------------------------------------------------------+---+------------------------------------------------------------+
+| 1 | The narrow streets of **Tarnath**, *city of thieves*.        | 1 | The remains of a raided caravan in the **Red Wastelands**. |
++---+--------------------------------------------------------------+---+------------------------------------------------------------+
+| 2 | The central plaza of **Mÿr**, the largest city-state.        | 2 | Inside a giant skeleton in the **Barren Mudflat**.         |
++---+--------------------------------------------------------------+---+------------------------------------------------------------+
+| 3 | The Museum-Mecca in **Zihm**, holy-state of the *Relicants*. | 3 | An underground labyrinth in a remote, forgotten ruin.      |
++---+--------------------------------------------------------------+---+------------------------------------------------------------+
+| 4 | An abandoned **outpost** in the middle of the **Dune Sea**.  | 4 | A **forsaken city**, recently unearthed from the sand.     |
++---+--------------------------------------------------------------+---+------------------------------------------------------------+
+| 5 | A clearing in the dead forest of the **Ashen Wastes**.       | 5 | An **oasis**, somewhere in the **Dune Sea**.               |
++---+--------------------------------------------------------------+---+------------------------------------------------------------+
+| 6 | A hidden spot in a crevice in the **Jagged Ranges**.         | 6 | An encampment and market hub in the **Arid Hills**.        |
++---+--------------------------------------------------------------+---+------------------------------------------------------------+
 
 Quests
 ~~~~~~

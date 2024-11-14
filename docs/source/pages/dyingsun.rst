@@ -349,7 +349,7 @@ The effect of "safe" magic is usually subtle.
 Magical Mishaps
 ^^^^^^^^^^^^^^^
 
-A Magical Mishap occurs when you are *Defiling* and get a result of **6-** or **13+**. 
+A Magical Mishap occurs when you are *Defiling* and get a result of **6-** or **13+**. When that happens, roll d6 twice in the following table:
 
 +----------------------------------------------------------------+-----------------------------------------------------------+
 |  1-3                                                           | 4-6                                                       |
@@ -386,3 +386,31 @@ The GM sets **1 to 4 conditions** before you roll:
 - The effect will be unreliable or limited
 - You and your allies will risk danger from [X]
 - You'll have to sacrifice or consume [X] to do it
+
+The World of Dying Sun
+----------------------
+
+Locations
+~~~~~~~~~
+
+Todo
+
+Quests
+~~~~~~
+
+Todo
+
+Encounters
+~~~~~~~~~~
+
+Todo
+
+Carving Creatures
+~~~~~~~~~~~~~~~~~
+
+Todo
+
+Relics
+~~~~~~
+
+Todo

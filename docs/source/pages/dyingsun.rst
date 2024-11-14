@@ -364,7 +364,7 @@ A Magical Mishap occurs when you are *Defiling* and get a result of **6-** or **
 +---+------------------------------------------------------------+---+-------------------------------------------------------+
 | 5 | The weather worsens locally, following you around.         | 5 | Your mind switches bodies with that of a nearby ally. |
 +---+------------------------------------------------------------+---+-------------------------------------------------------+
-| 6 | An arcane nexus beacon triggers at your location.          | 6 | You can hear people’s thoughts. Very loud.            |
+| 6 | An arcane nexus beacon triggers at your location.          | 6 | You can hear people's thoughts. Very loud.            |
 +---+------------------------------------------------------------+---+-------------------------------------------------------+
 
 Most of these effects act as *injuries* (a *negative condition* (-1)); they heal over time (or with proper rest), but **always leave a scar**.

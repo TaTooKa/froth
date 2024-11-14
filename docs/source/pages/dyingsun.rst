@@ -344,7 +344,7 @@ Spellcasting
 
 The effect of "safe" magic is usually subtle.
 
-**DEFILING MAGIC** is the process to tap more than what's safe for greater power. Plants wither and die, soil goes infertile and dry, and creatures weaken and writhe. When you choose to do so, add +1 to your roll if you defile a few meters around you, or +2 if you desecrate a bigger area. The spell effect is stronger, but if you roll a **FAILURE** (6-) or you obtain a result **equal to or higher than 13**, you trigger a Magical Mishap.
+**DEFILING MAGIC** is the process to tap more than what's safe for greater power. Plants wither and die, soil goes infertile and dry, and creatures weaken and writhe. When you choose to do so, add +1 to your roll if you defile a few meters around you, or +2 if you desecrate a bigger area. The spell effect is stronger, but if you roll a **FAILURE** (6-) or you obtain a result **equal to or higher than 13**, you trigger a *Magical Mishap*.
 
 Magical Mishaps
 ^^^^^^^^^^^^^^^

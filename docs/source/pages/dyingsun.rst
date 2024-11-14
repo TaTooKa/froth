@@ -346,6 +346,29 @@ The effect of "safe" magic is usually subtle.
 
 **DEFILING MAGIC** is the process to tap more than what's safe for greater power. Plants wither and die, soil goes infertile and dry, and creatures weaken and writhe. When you choose to do so, add +1 to your roll if you defile a few meters around you, or +2 if you desecrate a bigger area. The spell effect is stronger, but if you roll a **FAILURE** (6-) or you obtain a result **equal to or higher than 13**, you trigger a Magical Mishap.
 
+Magical Mishaps
+^^^^^^^^^^^^^^^
+
+A Magical Mishap occurs when you are *Defiling* and get a result of **6-** or **13+**. 
+
++----------------------------------------------------------------+-----------------------------------------------------------+
+|  1-3                                                           | 4-6                                                       |
++---+------------------------------------------------------------+---+-------------------------------------------------------+
+| 1 | The spell affects much more/less than intended.            | 1 | Your eyes (or ears) bleed; you are blind (or deaf).   |
++---+------------------------------------------------------------+---+-------------------------------------------------------+
+| 2 | You are physically *sapped* (a *negative condition* (-1)). | 2 | You lose the ability to understand any spoken word.   |
++---+------------------------------------------------------------+---+-------------------------------------------------------+
+| 3 | A nearby ally/item is adversely affected by the spell.     | 3 | Everyone you see looks and sounds like yourself.      |
++---+------------------------------------------------------------+---+-------------------------------------------------------+
+| 4 | An entity of horror is summoned. It has no master.         | 4 | You suffer memory loss and blackouts.                 |
++---+------------------------------------------------------------+---+-------------------------------------------------------+
+| 5 | The weather worsens locally, following you around.         | 5 | Your mind switches bodies with that of a nearby ally. |
++---+------------------------------------------------------------+---+-------------------------------------------------------+
+| 6 | An arcane nexus beacon triggers at your location.          | 6 | You can hear people’s thoughts. Very loud.            |
++---+------------------------------------------------------------+---+-------------------------------------------------------+
+
+Most of these effects act as *injuries* (a *negative condition* (-1)); they heal over time (or with proper rest), but **always leave a scar**.
+
 ------------
 
 .. _rituals-section:

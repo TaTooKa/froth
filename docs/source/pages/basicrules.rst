@@ -8,6 +8,8 @@ The *Game Master* ("GM") interprets the rest of the world and all *Non-Player-Ch
 Action Resolution
 -----------------
 
+.. image:: ../_static/images/rpg-image-2.jpg
+
 The game is a conversation. Players take turns to describe what their characters do. Then the GM declares if the action...
 
 - just **happens** as described and what's the outcome
@@ -34,6 +36,8 @@ then check the total:
 Risk
 ----
 
+.. image:: ../_static/images/rpg-image-3.jpeg
+
 A risk can be anything from a narrative consequence (something bad happens, the situation worsens, etc), a negative condition that the character receives, or in some dire situations, outright death. GMs must state clearly what the risk is before the dice are rolled.
 
 **Negative Conditions** give a -1 each to any related roll (in actions in which the condition would adversely affect the character).
@@ -52,6 +56,10 @@ For risk of physical harm, characters can defend themselves by breaking some ite
 
 Difficulty
 ----------
+
+.. image:: ../_static/images/rpg-image-4.jpg
+   :width: 400
+   :align: center
 
 Since there is a set range of outcomes for any roll (6-; 7~9; 10+), in order to increase or decrease the difficulty of an action, the GM can impose a modifier of ±X to a roll.
 

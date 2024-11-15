@@ -3,6 +3,8 @@ Optional Rules
 
 This is a collection of advanced rules and procedures that are by no means necessary to run a game of Erzählspiel, but can be added as needed.
 
+.. image:: ../_static/images/rpg-image-5.jpg
+
 Fate Die 
 --------
 

@@ -5,6 +5,10 @@ What's expected of both Players and GM to play Erzählspiel as intended.
 
 Player Principles
 -----------------
+
+.. image:: ../_static/images/rpg-image-6.jpg
+   :align: center
+
 **Be proactive; seek to fulfill objectives on your own.**
 Don’t wait for the GM to give you a mission or a “call to
 adventure”; you can come up with something on your
@@ -66,6 +70,9 @@ detrimental to their plans.
 
 Game Master Principles
 ----------------------
+
+.. image:: ../_static/images/rpg-image-7.jpg
+   :align: center
 
 **Play worlds, not rules.** Game mechanics should never
 prevail over in-world logic or genre tropes. Don’t

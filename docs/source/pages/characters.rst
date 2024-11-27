@@ -3,7 +3,9 @@ Characters
 
 Characters are usually the player avatars, the protagonists of the story.
 
-Characters begin at Level 1. They have a number of Resistance Points (RP) equal to 10+Level. Receiving “damage” reduces that amount of RP. When their RP reaches 0 or less, they are defeated.
+.. _resistancepoints:
+
+Characters begin at Level 1. They have a number of **Resistance Points** (RP) equal to **10 + Level**. Receiving “damage” reduces that amount of RP. When their RP reaches 0 or less, they are defeated.
 
 .. admonition:: What does Resistance represent?
 
@@ -11,3 +13,8 @@ Characters begin at Level 1. They have a number of Resistance Points (RP) equal 
 
    The GM usually telegraphs the outcome of an action in case of failure. When "death" is on the table, the GM should warn it clearly so that the player can correct course or risk their chances knowingly.
 
+When a character is the target of a :hoverxref:`Negative Effect <effect>`, their player can choose between losing Resistance Points (RP) or taking a :hoverxref:`Condition <conditions>`:
+
+- Effect 5 or less: lose that amount of RP, or receive a *Mild* Condition.
+- Effect between 6 and 10: lose that amount of RP, or receive a *Moderate* Condition.
+- Effect greater than 10: lose that amount of RP, or receive a *Severe* Condition.

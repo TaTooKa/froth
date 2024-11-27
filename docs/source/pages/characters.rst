@@ -61,10 +61,14 @@ When you level up, you gain a new Bonus, provided you can justify its acquisitio
 Sample Characters
 ~~~~~~~~~~~~~~~~~
 
-+---------------------------+-------------------------+
-| **Nanoc the barbarian**   | **Greyhound the thief** |
-| Level 1 - RP 11           | Level 1 - RP 11         |
-| Adept Swordmaster (+1)    | Lockpicking Expert (+3) |
-| Masterwork Longsword (+3) | Mundane Dagger (+1)     |
-| Adept Survivalist (+1)    | Pickpocket Adept (+1)   |
-+---------------------------+-------------------------+
+| **Nanoc the barbarian**  
+| Level 1 - RP 11          
+| Adept Swordmaster (+1)   
+| Masterwork Longsword (+3)
+| Adept Survivalist (+1)   
+
+| **Greyhound the thief**
+| Level 1 - RP 11        
+| Lockpicking Expert (+3)
+| Mundane Dagger (+1)    
+| Pickpocket Adept (+1)  

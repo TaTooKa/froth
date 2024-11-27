@@ -11,7 +11,7 @@ Adversaries can be sentient opponents, but they could also be obstacles of some 
 
    When a character attacks an adversary, the Difficulty is equal to the base of **10 + the adversary’s level** (+Bonuses/-Maluses that adversary might have). A :hoverxref:`Positive Effect <effect>` reduces the adversary’s RP. A :hoverxref:`Negative Effect <effect>` might mean that the adversary counterattacks and hurts the character’s RP by that amount.
 
-   When a character is attacked, the adversary rolls (+Bonuses/-Maluses of that adversary) against a Difficulty of **10 + the character's Level** (+Bonuses/-Maluses of the character).  Again, the difference in Effect usually translates to RP lost by one of those sides of the conflict.
+   When a character is attacked, the adversary rolls (+Bonuses/-Maluses of that adversary) against a Difficulty of **10 + the character's Level** (+Bonuses/-Maluses of the character).  Again, the difference in Effect usually translates to RP lost by one of those sides of the conflict. **OR** the character can roll against a Difficulty set by **10 + the adversary's level** (+Bonuses/-Maluses that adversary might have).
 
    This means that rolls are symmetrical; The game can be "player-facing" (in which only the players roll for their characters, both to attack and defend), or it can be played as traditionally, with the GM also rolling for the Adversaries against a Difficulty set by the Character (and their level, and any other relevant mods).
 
@@ -34,15 +34,22 @@ A **Nemesis** is an important adversary that is harder to take down, or a notori
 Sample Adversaries
 ~~~~~~~~~~~~~~~~~~
 
-+------------------------------+--------------------------+
-| **Goblin**                   | **Goblin Minion**        |
-| Level 1 - RP 11              | Level 1 - RP 1           |
-| Mundane chainmail armor (+1) | Mundane short sword (+1) |
-| Mundane short sword (+1)     |                          |
-+------------------------------+--------------------------+
-| **Ork**                      | **Troll Nemesis**        |
-| Level 2 - RP 12              | Level 1 - RP 22          |
-| Mundane leather armor (+1)   | Mundane Big Club (+1)    |
-| Expert Melee Combatant (+3)  | Mundane Thick Skin (+1)  |
-| Mundane Falchion (+1)        |                          |
-+------------------------------+--------------------------+
+| **Goblin**                  
+| Level 1 - RP 11             
+| Mundane chainmail armor (+1)
+| Mundane short sword (+1)    
+
+| **Goblin Minion**       
+| Level 1 - RP 1          
+| Mundane short sword (+1)
+
+| **Ork**                    
+| Level 2 - RP 12            
+| Mundane leather armor (+1) 
+| Expert Melee Combatant (+3)
+| Mundane Falchion (+1)      
+
+| **Troll Nemesis**      
+| Level 1 - RP 22        
+| Mundane Big Club (+1)  
+| Mundane Thick Skin (+1)

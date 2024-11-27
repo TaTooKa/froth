@@ -17,6 +17,9 @@ This website hosts **MY** FROTH systems and procedures, but anyone can create th
    :hidden:
 
    pages/basicrules
+   pages/bonusesmaluses
+   pages/characters
+   pages/adversaries
 
 .. toctree::
    :caption: Optional Rules

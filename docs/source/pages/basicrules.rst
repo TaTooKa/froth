@@ -7,9 +7,9 @@ Basic Rules
 
 The game is a conversation in which a collaborative story unfolds. Players create characters to be the protagonists in the narrative. One player is the Game Master (GM), who controls the non-player characters, environmental factors, passage of time, etc. The GM sets the scene, players say what their characters do, then the GM responds with the reaction of the world, and so forth. When a character attempts something whose outcome might be uncertain, the GM asks for a dice roll to see if the action succeeds or fails, and by how much.
 
-.. note::
+.. admonition:: Types of Dice
 
-   This system uses primarily a twenty-sided die for action resolution, although all of the other typical polyhedral dice can be used for different randomizers and weird specific rolls.
+   This system uses primarily a twenty-sided die for action resolution (the "d20"), although all of the other typical polyhedral dice can be used for different randomizers and weird specific rolls.
 
 Action resolution
 -----------------

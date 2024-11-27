@@ -16,9 +16,9 @@ Action resolution
 
 Roll **d20** + Your :hoverxref:`Level <level>` ± :hoverxref:`modifiers <bonusesmaluses>` vs **Difficulty**.
 
-- **Result = DN**: a ``stalemate``; no progress is made, time passes, etc
-- **Result > DN**: ``success!`` The difference between the result and the DN is the *Positive Effect* (used for damage dealt, progress made, decrease in task duration, etc)
-- **Result < DN**: ``failure!`` The difference between the DN and the result is the *Negative Effect* (used for damage received, progress unmade, increase in task duration, etc)
+- **Result = Difficulty**: a ``stalemate``; no progress is made, time passes, etc
+- **Result > Difficulty**: ``success!`` The difference between the result and the Difficulty is the *Positive Effect* (used for damage dealt, progress made, decrease in task duration, etc)
+- **Result < Difficulty**: ``failure!`` The difference between the Difficulty and the result is the *Negative Effect* (used for damage received, progress unmade, increase in task duration, etc)
 
 **Difficulty** = **10** + **Level** of obstacle / adversary / situation, ± :hoverxref:`modifiers <bonusesmaluses>`.
 

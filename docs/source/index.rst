@@ -33,3 +33,5 @@ This website hosts **MY** FROTH systems and procedures, but anyone can create th
 
    pages/dyingsun
    pages/galaxyfaraway
+   pages/nightofthezombies
+   pages/interplanetary

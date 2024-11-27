@@ -3,9 +3,11 @@
 Modifiers
 ---------
 
-.. compound::
+.. container:: modifiers
 
-   Modifiers, AKA **Bonuses** & **Maluses**, are things that a character has (or affects them) and give a modifier to their rolls or its Difficulty for certain actions. They have 3 different ranks:
+   Modifiers, AKA **Bonuses** & **Maluses**, are things that a character has (or affects them) and give a modifier to their rolls or its Difficulty for certain actions. 
+   
+   They have 3 different ranks:
 
    +-----------+--------------+-----------+
    | MINOR: ±1 | MODERATE: ±3 | MAJOR: ±5 |
@@ -41,3 +43,5 @@ Bonuses & Maluses have different keywords, depending on their type and rank:
 .. note::
 
    Apart from (or instead of) giving a ±modifier to related actions, Bonuses and Maluses can sometimes give or take *narrative permission* to do something that would be impossible/possible otherwise.
+
+   i.e.: you cannot chop down a tree if you don't have an axe. Any attempt would automatically fail (no roll required). If you do have it, you have *narrative permission* to attempt chopping down the tree, and if the Item is a **Mundane Axe (+1)**, you would also get a +1 modifier to your roll.

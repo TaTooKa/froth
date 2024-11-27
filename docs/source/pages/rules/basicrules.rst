@@ -28,10 +28,10 @@ Roll **d20** + Your :hoverxref:`Level <level>` ± :hoverxref:`modifiers <bonuses
 | Difficulty | Low | Medium | Hard | Extreme |
 +------------+-----+--------+------+---------+
 
-.. _effect:
-
 Positive and Negative Effect
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. _effect:
 
 When a player rolls the die, they need to add their Level + modifiers (see :hoverxref:`Bonuses & Maluses <bonusesmaluses>`) to that result and compare it to the Difficulty (The Difficulty might also have modifiers of its own, besides the Level). If they beat that number, they succeed and that difference in the Effect is “how well” they did (this amount is the *Positive Effect*). If they roll lower than the Difficulty, the difference is “how bad” they performed (this amount is the *Negative Effect*). 
 

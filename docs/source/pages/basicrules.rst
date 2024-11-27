@@ -35,6 +35,8 @@ Positive and Negative Effect
 
 When a player rolls the die, they need to add their Level + modifiers (see :hoverxref:`Bonuses & Maluses <bonusesmaluses>`) to that result and compare it to the Difficulty (The Difficulty might also have modifiers of its own, besides the Level). If they beat that number, they succeed and that difference in the Effect is “how well” they did (this amount is the *Positive Effect*). If they roll lower than the Difficulty, the difference is “how bad” they performed (this amount is the *Negative Effect*). 
 
-The GM is free to interpret these numbers following their gut, but as a rule of thumb, consider that a difference of 5 or less is not that big of a deal; a difference of 5~10 is important; a difference of 10+ is huge.
+.. tip::
+
+   The GM is free to interpret these numbers following their gut, but as a rule of thumb, consider that a difference of 5 or less is not that big of a deal; a difference of 5~10 is important; a difference of 10+ is huge.
 
 This amount of Effect is also used when dealing damage to a target's :hoverxref:`Resistance <resistancepoints>`, or when applying a :hoverxref:`Condition <conditions>`.

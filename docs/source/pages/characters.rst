@@ -20,4 +20,4 @@ When a character is the target of a :hoverxref:`Negative Effect <effect>`, their
 
 - Effect 5 or less: lose that amount of RP, or receive a *Mild* Condition.
 - Effect between 6 and 10: lose that amount of RP, or receive a *Moderate* Condition.
-- Effect greater than 10: lose that amount of RP, or receive a *Severe* Condition.
+- Effect 11 or more: lose that amount of RP, or receive a *Severe* Condition.

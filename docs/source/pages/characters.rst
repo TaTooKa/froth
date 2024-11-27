@@ -37,7 +37,7 @@ Recovery
 
 characters recover RP at a rate of 1 per hour, or 2 per hour if resting properly (a good night’s sleep, a safe place, etc).
 
-Conditions recover diegetically, meaning that the character needs to take action to “heal” that condition in a proper way… and it takes time, defined by the GM depending on the nature and the severity of the Condition: Mild ones could be removed after treatment and a single scene; Severe ones could take months of in-game time. Some Conditions could be super-transient, for example, a Grappled (Moderate, -3) Condition could be easily removed if the character takes action to stop being held by an enemy.
+:hoverxref:`Conditions <conditions>` recover diegetically, meaning that the character needs to take action to “heal” that condition in a proper way… and it takes time, defined by the GM depending on the nature and the severity of the Condition: Mild ones could be removed after treatment and a single scene; Severe ones could take months of in-game time. Some Conditions could be super-transient, for example, a Grappled (Moderate, -3) Condition could be easily removed if the character takes action to stop being held by an enemy.
 
 Experience
 ~~~~~~~~~~
@@ -55,4 +55,4 @@ When you level up, you gain a new Bonus, provided you can justify its acquisitio
 
 .. admonition:: Which Bonuses to Improve
 
-   Some Bonuses are good candidates to be improved to the next rank―for instance, a player could easily explain that their character trains a :hoverxref:`skill <skills>` in their free time, raising it from Adept (+1) to Expert (+3). Other Bonuses wouldn’t make much sense to be improved; for instance, if a character has a Mundane Sword (+1), how would they explain evolving it to Masterwork Sword (+3)? Maybe they can find an excuse (a blacksmith improves the quality, or they discover that the sword is actually an important heirloom) but this has to have some semblance of logic, and the GM has final word on what is acceptable or what’s too much of a stretch.
+   Some Bonuses are good candidates to be improved to the next rank―for instance, a player could easily explain that their character trains a :hoverxref:`skill <skills>` in their free time, raising it from *Adept (+1)* to *Expert (+3)*. Other Bonuses wouldn’t make much sense to be improved; for instance, if a character has a *Mundane Sword (+1)*, how would they explain evolving it to *Masterwork Sword (+3)*? Maybe they can find an excuse (a blacksmith improves the quality, or they discover that the sword is actually an important heirloom) but this has to have some semblance of logic, and the GM has final word on what is acceptable or what’s too much of a stretch.

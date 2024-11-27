@@ -9,8 +9,8 @@ This website hosts **MY** FROTH systems and procedures, but anyone can create th
    :caption: Meta
    :hidden:
 
-   pages/philosophy
-   pages/about
+   pages/meta/philosophy
+   pages/meta/about
 
 .. toctree::
    :caption: Rules
@@ -26,6 +26,7 @@ This website hosts **MY** FROTH systems and procedures, but anyone can create th
    :hidden:
 
    pages/optionalrules
+   pages/diceandrolls
 
 .. toctree::
    :caption: Worlds

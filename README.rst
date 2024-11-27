@@ -1,6 +1,8 @@
-Erzählspiel
-===========
+F.R.O.T.H.
+==========
 
-Erzählspiel is a universal, rules-light tabletop roleplaying game.
+Fantasy Rules of the House.
+
+common TTRPG systems, procedures and practices.
 
 created by @tatooka. 2024.

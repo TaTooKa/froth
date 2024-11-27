@@ -1,6 +1,8 @@
 Modifiers
 ---------
 
+.. _bonusesmaluses:
+
 Modifiers, AKA **Bonuses** & **Maluses**, are things that a character has (or affects them) and give a modifier to their rolls or its Difficulty for certain actions. They have 3 different ranks:
 
 +-----------+--------------+-----------+

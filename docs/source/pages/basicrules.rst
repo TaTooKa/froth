@@ -14,13 +14,13 @@ The game is a conversation in which a collaborative story unfolds. Players creat
 Action resolution
 -----------------
 
-Roll **d20** + Your **Level** ± :hoverxref:`**modifiers** <modifiers>` vs **Difficulty**.
+Roll **d20** + Your **Level** ± :hoverxref:`modifiers <bonusesmaluses>` vs **Difficulty**.
 
 - **Result = DN**: a ``stalemate``; no progress is made, time passes, etc
 - **Result > DN**: ``success!`` The difference between the result and the DN is the *Positive Effect* (used for damage dealt, progress made, decrease in task duration, etc)
 - **Result < DN**: ``failure!`` The difference between the DN and the result is the *Negative Effect* (used for damage received, progress unmade, increase in task duration, etc)
 
-**Difficulty** = **10** + **Level** of obstacle / adversary / situation, ± :hoverxref:`**modifiers** <modifiers>`.
+**Difficulty** = **10** + **Level** of obstacle / adversary / situation, ± :hoverxref:`modifiers <bonusesmaluses>`.
 
 +------------+-----+--------+------+---------+
 |    Level   | 1-3 |   4-6  |  7-9 |   10+   |
@@ -30,6 +30,6 @@ Roll **d20** + Your **Level** ± :hoverxref:`**modifiers** <modifiers>` vs **Dif
 
 .. admonition:: Rolling the Die
 
-   When a player rolls the die, they need to add their Level + modifiers (see :hoverxref:`*Bonuses & Maluses* <modifiers>`) to that result and compare it to the Difficulty (The Difficulty might also have modifiers of its own, besides the Level). If they beat that number, they succeed and that difference in the Effect is “how well” they did. If they roll lower than the Difficulty, the difference is “how bad” they performed. 
+   When a player rolls the die, they need to add their Level + modifiers (see :hoverxref:`Bonuses & Maluses <bonusesmaluses>`) to that result and compare it to the Difficulty (The Difficulty might also have modifiers of its own, besides the Level). If they beat that number, they succeed and that difference in the Effect is “how well” they did. If they roll lower than the Difficulty, the difference is “how bad” they performed. 
 
    The GM is free to interpret these numbers following their gut, but as a rule of thumb, consider that a difference of 5 or less is not that big of a deal; a difference of 5~10 is important; a difference of 10+ is huge.

@@ -14,7 +14,7 @@ The game is a conversation in which a collaborative story unfolds. Players creat
 Action resolution
 -----------------
 
-Roll **d20** + Your **Level** ± :hoverxref:`modifiers <bonusesmaluses>` vs **Difficulty**.
+Roll **d20** + Your :hoverxref:`Level <level>` ± :hoverxref:`modifiers <bonusesmaluses>` vs **Difficulty**.
 
 - **Result = DN**: a ``stalemate``; no progress is made, time passes, etc
 - **Result > DN**: ``success!`` The difference between the result and the DN is the *Positive Effect* (used for damage dealt, progress made, decrease in task duration, etc)

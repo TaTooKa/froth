@@ -16,17 +16,17 @@ This website hosts **MY** FROTH systems and procedures, but anyone can create th
    :caption: Rules
    :hidden:
 
-   pages/basicrules
-   pages/bonusesmaluses
-   pages/characters
-   pages/adversaries
+   pages/rules/basicrules
+   pages/rules/bonusesmaluses
+   pages/rules/characters
+   pages/rules/adversaries
 
 .. toctree::
    :caption: Optional Rules
    :hidden:
 
-   pages/optionalrules
-   pages/diceandrolls
+   pages/optionalrules/optionalrules
+   pages/optionalrules/diceandrolls
 
 .. toctree::
    :caption: Worlds

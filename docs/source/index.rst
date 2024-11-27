@@ -6,7 +6,7 @@ F.R.O.T.H. stands for **"Fantasy Rules of the House"**. It means any TTRPG hack 
 This website hosts **MY** FROTH systems and procedures, but anyone can create their own FROTH game based on these or already existing rules systems.
 
 .. toctree::
-   :caption: Philosophy
+   :caption: Meta
    :hidden:
 
    pages/philosophy

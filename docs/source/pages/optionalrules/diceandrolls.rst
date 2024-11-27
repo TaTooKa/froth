@@ -29,6 +29,6 @@ This means that there's always a 5% chance of succeeding and a 5% of failing in 
    
    For extra impact, you can have a **Critical** multiply the amount of Effect by 2. 
    
-   For example, if the Difficulty is 15 and a player rolls a 20 (for a total of 23 because of their modifiers), the regular *Positive Effect* of that roll would've been 8, but with this rule it would be duplicated, up to a 16!.  
+   For example, if the Difficulty is 15 and a player rolls a 20 (for a total of 23 because of their modifiers), the regular *Positive Effect* of that roll would've been 8, but with this rule it would be duplicated, up to a 16!  
 
    The same can be applied to Critical Failures (the *Negative Effect* is duplicated).

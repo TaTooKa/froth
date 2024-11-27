@@ -41,4 +41,6 @@ When a player rolls the die, they need to add their Level + modifiers (see :hove
 
 This amount of Effect is also used when dealing damage to a target's :hoverxref:`Resistance <resistancepoints>`, or when applying a :hoverxref:`Condition <conditions>`.
 
+----------
+
 .. [#] On an exact match of your result and the Difficulty, a ``stalemate`` occurs. Some people interpret this as *"nothing happens"*. That's not my intention. I consider this result neither a success nor a failure. Sometimes I interpret this as a **partial success** (you get what you intended but partially, or with an indirect complication). Most of the time I just tell the player that they are working towards their objective but didn't get there yet, which means time is lost (and depending on the context, that could have considerable impact on the narrative).

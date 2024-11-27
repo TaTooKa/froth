@@ -7,7 +7,7 @@ Adversaries can also have :hoverxref:`Bonuses or Maluses <bonusesmaluses>` that 
 
 Adversaries can be sentient opponents, but they could also be obstacles of some sort. For example, a *locked door* could be represented by the GM by setting a Level (which defines its Difficulty to be unlocked). If the lock is of Level 3, then a character needs to roll over a Difficulty of 13, and reduce its RP of 13 to 0 in order to successfully unlock it (this might take several turns or different attempts, which is intended).
 
-.. tip::
+.. admonition:: Symmetrical rolls
 
    When a character attacks an adversary, the Difficulty is equal to the base of **10 + the adversary’s level** (+Bonuses/-Maluses that adversary might have). A :hoverxref:`Positive Effect <effect>` reduces the adversary’s RP. A :hoverxref:`Negative Effect <effect>` might mean that the adversary counterattacks and hurts the character’s RP by that amount.
 
@@ -30,3 +30,19 @@ A **Nemesis** is an important adversary that is harder to take down, or a notori
 .. tip::
 
    The GM can represent any type of challenge as an Adversary (a puzzle to solve, a chase, a social debate) by abstracting it with a Level and a type (minion/regular/nemesis) and using its RP as its duration.
+
+Sample Adversaries
+~~~~~~~~~~~~~~~~~~
+
++------------------------------+--------------------------+
+| **Goblin**                   | **Goblin Minion**        |
+| Level 1 - RP 11              | Level 1 - RP 1           |
+| Mundane chainmail armor (+1) | Mundane short sword (+1) |
+| Mundane short sword (+1)     |                          |
++------------------------------+--------------------------+
+| **Ork**                      | **Troll Nemesis**        |
+| Level 2 - RP 12              | Level 1 - RP 22          |
+| Mundane leather armor (+1)   | Mundane Big Club (+1)    |
+| Expert Melee Combatant (+3)  | Mundane Thick Skin (+1)  |
+| Mundane Falchion (+1)        |                          |
++------------------------------+--------------------------+

@@ -13,6 +13,9 @@ Characters begin at Level 1. They have a number of **Resistance Points** (RP) eq
 
    The GM usually telegraphs the outcome of an action in case of failure. When "death" is on the table, the GM should warn it clearly so that the player can correct course or risk their chances knowingly.
 
+Damage and Conditions
+~~~~~~~~~~~~~~~~~~~~~
+
 When a character is the target of a :hoverxref:`Negative Effect <effect>`, their player can choose between losing Resistance Points (RP) or taking a :hoverxref:`Condition <conditions>`:
 
 - Effect 5 or less: lose that amount of RP, or receive a *Mild* Condition.

@@ -1,7 +1,7 @@
+.. _bonusesmaluses:
+
 Modifiers
 ---------
-
-.. _bonusesmaluses:
 
 .. compound::
 

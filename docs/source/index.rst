@@ -37,10 +37,26 @@ This website hosts **MY** FROTH systems and procedures, but anyone can create th
    pages/magicsystems/materialcomponentmagic
 
 .. toctree::
-   :caption: Worlds
+   :caption: Vanilla Fantasy
    :hidden:
 
-   pages/dyingsun
-   pages/galaxyfaraway
-   pages/nightofthezombies
-   pages/interplanetary
+   pages/worlds/vanillafantasy/characters
+
+
+.. toctree::
+   :caption: Interplanetary
+   :hidden:
+
+   pages/worlds/interplanetary/characters
+
+.. toctree::
+   :caption: Zombie Apocalypse
+   :hidden:
+
+   pages/worlds/zombieapocalypse/characters
+
+.. toctree::
+   :caption: Dying Sun
+   :hidden:
+
+   pages/worlds/dyingsun/characters

@@ -20,6 +20,8 @@ Roll **d20** + Your :hoverxref:`Level <level>` ± :hoverxref:`modifiers <bonuses
 - **Result > Difficulty**: ``success!`` The difference between the result and the Difficulty is the *Positive Effect* (used for damage dealt, progress made, decrease in task duration, etc)
 - **Result < Difficulty**: ``failure!`` The difference between the Difficulty and the result is the *Negative Effect* (used for damage received, progress unmade, increase in task duration, etc)
 
+.. [#] On an exact match of your result and the Difficulty, a ``stalemate`` occurs. Some people interpret this as *"nothing happens"*. That's not my intention. I consider this result neither a success nor a failure. Sometimes I interpret this as a **partial success** (you get what you intended but partially, or with an indirect complication). Most of the time I just tell the player that they are working towards their objective but didn't get there yet, which means time is lost (and depending on the context, that could have considerable impact on the narrative).
+
 **Difficulty** = **10** + **Level** of obstacle / adversary / situation, ± :hoverxref:`modifiers <bonusesmaluses>`.
 
 +------------+-----+--------+------+---------+
@@ -45,7 +47,3 @@ Positive and Negative Effect
       The GM is free to interpret these numbers following their gut, but as a rule of thumb, consider that a difference of 5 or less is not that big of a deal; a difference of 5~10 is important; a difference of 10+ is huge.
 
    This amount of Effect is also used when dealing damage to a target's :hoverxref:`Resistance <resistancepoints>`, or when applying a :hoverxref:`Condition <conditions>`.
-
-----------
-
-.. [#] On an exact match of your result and the Difficulty, a ``stalemate`` occurs. Some people interpret this as *"nothing happens"*. That's not my intention. I consider this result neither a success nor a failure. Sometimes I interpret this as a **partial success** (you get what you intended but partially, or with an indirect complication). Most of the time I just tell the player that they are working towards their objective but didn't get there yet, which means time is lost (and depending on the context, that could have considerable impact on the narrative).

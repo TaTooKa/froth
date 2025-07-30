@@ -24,3 +24,17 @@ Sample Weapon DMGs
 +--------------------------------------------+----------+
 | zweihänder, daiklaive                      |     4    |
 +--------------------------------------------+----------+
+
+Uncertain Death
+===============
+
+When a character's :hoverxref:`RP <resistancepoints>` are reduced to 0 or less (from a source of damage that could be deadly), they are defeated, taken out, fall unconcious, etc, but it is still **uncertain** if they are dead or alive.
+
+Place a d20 inside an opaque cup, shake it and place it face down on the table, without revealing the result. Once another ally goes to the character and checks their vitals, then you uncover the die and announce the result, which is modified by their current negative RP [#]_.
+
+.. [#] The lower into the negatives the character was, the more likely they are dead. If they had exactly 0 RP, then their chances are 50/50. But if they had, for example, -4 RP, then the die result must be modified by -4, which is a 20% less, which ends in a 30% chance of surviving.
+
+- **9 or less**: The character is dead.
+- **10 or more**: The character is unconcious, but still alive [#]_.
+
+.. [#] You can represent this with a Condition that the character got instead of dying, so that they don't get out of it unscathed. The severity of the Condition is left at GM's discretion depending on the amount of RP lost and contextual circumstances.

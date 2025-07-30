@@ -8,6 +8,8 @@ Instead of a d20, roll 3d6 (roll three six-sided dice and add the results togeth
 
 .. image:: ../../_static/images/3d6.jpg
 
+------------
+
 .. image:: ../../_static/images/curve.jpg
 
 This means that is more likely to get a result in the middle of the range, which avoids the "swingyness" of the d20, for more expected results. Very low and very high outcomes are much more unlikely.

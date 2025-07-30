@@ -46,4 +46,4 @@ Positive and Negative Effect
 
       The GM is free to interpret these numbers following their gut, but as a rule of thumb, consider that a difference of 5 or less is not that big of a deal; a difference of 5~10 is important; a difference of 10+ is huge.
 
-   This amount of Effect is also used when dealing damage to a target's :hoverxref:`Resistance <resistancepoints>`, or when applying a :hoverxref:`Condition <conditions>`.
+   This amount of Effect is also used when dealing damage to a target's :hoverxref:`Resistance <heartpoints>`, or when applying a :hoverxref:`Condition <conditions>`.

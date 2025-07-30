@@ -28,17 +28,17 @@ Sample Weapon DMGs
 Uncertain Death
 ===============
 
-When a character's :hoverxref:`RP <resistancepoints>` are reduced to 0 or less (from a source of damage that could be deadly), they are defeated, taken out, fall unconcious, etc, but it is still **uncertain** if they are dead or alive.
+When a character's :hoverxref:`HP <heartpoints>` are reduced to 0 or less (from a source of damage that could be deadly), they are defeated, taken out, fall unconcious, etc, but it is still **uncertain** if they are dead or alive.
 
-Place a d20 inside an opaque cup, shake it and place it face down on the table, without revealing the result. Once another ally goes to the character and checks their vitals, then you uncover the die and announce the result, which is modified by their current negative RP [#]_.
+Place a d20 inside an opaque cup, shake it and place it face down on the table, without revealing the result. Once another ally goes to the character and checks their vitals, then you uncover the die and announce the result, which is modified by their current negative HP [#]_.
 
-.. [#] The lower into the negatives the character was, the more likely they are dead. If they had exactly 0 RP, then their chances are 50/50. But if they had, for example, -4 RP, then the die result must be modified by -4, which is a -20% probability, and ends in a 30% chance of surviving.
+.. [#] The lower into the negatives the character was, the more likely they are dead. If they had exactly 0 HP, then their chances are 50/50. But if they had, for example, -4 HP, then the die result must be modified by -4, which is a -20% probability, and ends in a 30% chance of surviving.
 
 - **9 or less**: The character is dead.
 - **10 or more**: The character is unconcious, but still alive.
 
 .. tip::
    
-   If a character is still alive, you can give them a :hoverxref:`Condition <conditions>` that the character got instead of dying, so that they don't get out of it unscathed. The severity of the Condition is left at GM's discretion depending on the amount of RP lost and contextual circumstances.
+   If a character is still alive, you can give them a :hoverxref:`Condition <conditions>` that the character got instead of dying, so that they don't get out of it unscathed. The severity of the Condition is left at GM's discretion depending on the amount of HP lost and contextual circumstances.
 
-   Some GMs don't give Conditions to characters that survive the **Uncertain Death** check *on purpose*—this emphasises the gamble of it: You :hoverxref:`could've taken a Condition instead of losing RPs <damageandconditions>` and risking death, but you chose to risk a roll, which is *all or nothing*.
+   Some GMs don't give Conditions to characters that survive the **Uncertain Death** check *on purpose*—this emphasises the gamble of it: You :hoverxref:`could've taken a Condition instead of losing HP <damageandconditions>` and risking death, but you chose to risk a roll, which is *all or nothing*.

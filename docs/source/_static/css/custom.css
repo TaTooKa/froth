@@ -38,7 +38,7 @@ code {
     column-gap: 20px;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (width <= 600px) {
     .three-columns {
         -moz-column-count: 2;
         -moz-column-gap: 20px;

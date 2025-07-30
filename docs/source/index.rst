@@ -42,7 +42,6 @@ This website hosts **MY** FROTH systems and procedures, but anyone can create th
 
    pages/worlds/vanillafantasy/characters
 
-
 .. toctree::
    :caption: Interplanetary
    :hidden:
@@ -60,3 +59,21 @@ This website hosts **MY** FROTH systems and procedures, but anyone can create th
    :hidden:
 
    pages/worlds/dyingsun/characters
+
+.. toctree::
+   :caption: Neon and Chrome
+   :hidden:
+
+   pages/worlds/neonandchrome/characters
+
+.. toctree::
+   :caption: Atomic Wasteland
+   :hidden:
+
+   pages/worlds/atomicwasteland/characters
+
+.. toctree::
+   :caption: Super Powers
+   :hidden:
+
+   pages/worlds/superpowers/characters

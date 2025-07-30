@@ -55,11 +55,11 @@ Level Up
 
 .. _levelup:
 
-When you level up, you gain a new Bonus, provided you can justify its acquisition in the fiction, or Improve an existing Bonus (Minor -> Moderate -> Major), as long as it makes sense and you can explain how that happens. Also remember that since your max RP is 10 + Level, it increases by 1.
+When you level up, you gain a new :hoverxref:`Bonus <bonusesmaluses>`, provided you can justify its acquisition in the fiction, or Improve an existing Bonus (*Minor* -> *Moderate* -> *Major*), as long as it makes sense and you can explain how that happens. Also remember that since your max :hoverxref:`RP <resistancepoints>` is 10 + Level, it increases by 1.
 
 .. admonition:: Which Bonuses to Improve
 
-   Some Bonuses are good candidates to be improved to the next rank―for instance, a player could easily explain that their character trains a :hoverxref:`skill <skills>` in their free time, raising it from *Adept (+1)* to *Expert (+3)*. Other Bonuses wouldn’t make much sense to be improved; for instance, if a character has a *Mundane Sword (+1)*, how would they explain evolving it to *Masterwork Sword (+3)*? Maybe they can find an excuse (a blacksmith improves the quality, or they discover that the sword is actually an important heirloom) but this has to have some semblance of logic, and the GM has final word on what is acceptable or what’s too much of a stretch.
+   Some Bonuses are good candidates to be improved to the next rank―for instance, a player could easily explain that their character trains a :hoverxref:`skill <skills>` in their free time, raising it from *Adept (+1)* to *Expert (+3)*. Other Bonuses wouldn’t make much sense to be improved; for instance, if a character has a ``Mundane Sword (+1)``, how would they explain evolving it to ``Masterwork Sword (+3)``? Maybe they can find an excuse (a blacksmith improves the quality, or they discover that the sword is actually an important heirloom) but this has to have some semblance of logic, and the GM has final word on what is acceptable or what’s too much of a stretch.
 
 
 Sample Characters

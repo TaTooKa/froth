@@ -9,3 +9,10 @@
 figure figcaption {
     opacity: 35%;
 }
+
+code {
+ background: #fff8b9;
+ background-image: linear-gradient(90deg,#fff386 0,#fff8b9 60%,#fff386);
+ border-radius: 2px;
+ color: black;
+}

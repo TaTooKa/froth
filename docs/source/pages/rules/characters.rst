@@ -30,16 +30,18 @@ Damage and Conditions
 
 When a character is the target of a :hoverxref:`Negative Effect <effect>`, their player can choose between losing Resistance Points (RP) or taking a :hoverxref:`Condition <conditions>`:
 
-- Effect 5 or less: lose that amount of RP, or receive a *Mild* Condition.
-- Effect between 6 and 10: lose that amount of RP, or receive a *Moderate* Condition.
-- Effect 11 or more: lose that amount of RP, or receive a *Severe* Condition.
+- **Effect 5 or less**: lose that amount of RP, or receive a *Mild* Condition.
+- **Effect between 6 and 10**: lose that amount of RP, or receive a *Moderate* Condition.
+- **Effect 11 or more**: lose that amount of RP, or receive a *Severe* Condition.
+
+.. _recovery:
 
 Recovery
 ~~~~~~~~
 
 characters recover RP at a rate of 1 per hour, or 2 per hour if resting properly (a good night’s sleep, a safe place, etc).
 
-:hoverxref:`Conditions <conditions>` recover diegetically, meaning that the character needs to take action to “heal” that condition in a proper way… and it takes time, defined by the GM depending on the nature and the severity of the Condition: Mild ones could be removed after treatment and a single scene; Severe ones could take months of in-game time. Some Conditions could be super-transient, for example, a Grappled (Moderate, -3) Condition could be easily removed if the character takes action to stop being held by an enemy.
+:hoverxref:`Conditions <conditions>` recover diegetically, meaning that the character needs to take action to “heal” that condition in a proper way… and it takes time, defined by the GM depending on the nature and the severity of the Condition: *Mild* ones could be removed after treatment and a single scene; *Severe* ones could take months of in-game time. Some Conditions could be super-transient, for example, a ``Grappled (Moderate, -3)`` Condition could be easily removed if the character takes action to stop being held by an enemy.
 
 Experience
 ~~~~~~~~~~

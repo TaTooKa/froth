@@ -34,22 +34,29 @@ A **Nemesis** is an important adversary that is harder to take down, or a notori
 Sample Adversaries
 ~~~~~~~~~~~~~~~~~~
 
-| **Goblin**                  
-| Level 1 - RP 11             
-| Mundane chainmail armor (+1)
-| Mundane short sword (+1)    
+.. list-table::
+   :widths: 50, 50
 
-| **Goblin Minion**       
-| Level 1 - RP 1          
-| Mundane short sword (+1)
+   * - .. container:: adversary1
 
-| **Ork**                    
-| Level 2 - RP 12            
-| Mundane leather armor (+1) 
-| Expert Melee Combatant (+3)
-| Mundane Falchion (+1)      
+            | **Goblin**                  
+            | Level 1 - RP 11             
+            | ``Mundane chainmail armor (+1)``
+            | ``Mundane short sword (+1)``    
 
-| **Troll Nemesis**      
-| Level 1 - RP 22        
-| Mundane Big Club (+1)  
-| Mundane Thick Skin (+1)
+            | **Goblin Minion**       
+            | Level 1 - RP 1          
+            | ``Mundane short sword (+1)``
+
+     - .. container:: adversary2
+
+            | **Ork**                    
+            | Level 2 - RP 12            
+            | ``Mundane leather armor (+1)`` 
+            | ``Expert Melee Combatant (+3)``
+            | ``Mundane Falchion (+1)``      
+
+            | **Troll Nemesis**      
+            | Level 1 - RP 22        
+            | ``Mundane Big Club (+1)``  
+            | ``Mundane Thick Skin (+1)``

@@ -72,14 +72,14 @@ Sample Characters
 
             | **Nanoc the barbarian**  
             | Level 1 - RP 11          
-            | Adept Swordmaster (+1)   
-            | Masterwork Longsword (+3)
-            | Adept Survivalist (+1)   
+            | ``Adept Swordmaster (+1)``   
+            | ``Masterwork Longsword (+3)``
+            | ``Adept Survivalist (+1)``   
 
      - .. container:: character2
 
             | **Greyhound the thief**
             | Level 1 - RP 11        
-            | Lockpicking Expert (+3)
-            | Mundane Dagger (+1)    
-            | Pickpocket Adept (+1)  
+            | ``Lockpicking Expert (+3)``
+            | ``Mundane Dagger (+1)``    
+            | ``Pickpocket Adept (+1)``  

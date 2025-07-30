@@ -74,6 +74,8 @@ Power List
 
 Roll a d100 or choose:
 
+.. rst-class:: three-columns
+
 #. ADHERENCE
 #. ANATOMIC SEPARATION
 #. ANIMAL CONTROL

@@ -18,6 +18,8 @@ Modifiers
    - Anything that gives you an advantage (a skill, an item, a special ability, a favorable circumstance) can be considered a **Bonus**, and adds its value to your roll result (or Difficulty if defending).
    - Anything that gives you a disadvantage (a transient negative effect or debuff, a wound, a detrimental circumstance) can be considered a **Malus**, and subtracts its value from your roll result (or Difficulty if defending).
 
+.. _bonusesmaluseskeywords:
+
 Bonuses & Maluses have different keywords, depending on their type and rank:
 
 +--------------+------------+---------------+------------+

@@ -41,4 +41,4 @@ Place a d20 inside an opaque cup, shake it and place it face down on the table, 
    
    If a character is still alive, you can give them a :hoverxref:`Condition <conditions>` that the character got instead of dying, so that they don't get out of it unscathed. The severity of the Condition is left at GM's discretion depending on the amount of RP lost and contextual circumstances.
 
-   Some GMs don't give Conditions to characters that survive the **Uncertain Death** check on purpose--this emphasises the gamble of it: You could've taken a Condition instead of losing RPs and risking death, but you chose to risk a roll, which is *all or nothing*.
+   Some GMs don't give Conditions to characters that survive the **Uncertain Death** check *on purpose*—this emphasises the gamble of it: You :hoverxref:`could've taken a Condition instead of losing RPs <damageandconditions>` and risking death, but you chose to risk a roll, which is *all or nothing*.

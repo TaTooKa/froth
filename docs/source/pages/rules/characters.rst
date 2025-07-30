@@ -23,6 +23,8 @@ Characters have a number of **Resistance Points** (RP) equal to **10 + Level**. 
 
    The GM usually telegraphs the outcome of an action in case of failure. When "death" is on the table, the GM should warn it clearly so that the player can correct course or risk their chances knowingly.
 
+.. _damageandconditions:
+
 Damage and Conditions
 ~~~~~~~~~~~~~~~~~~~~~
 

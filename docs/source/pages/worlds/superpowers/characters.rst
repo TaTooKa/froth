@@ -160,6 +160,8 @@ Superpower Elements
 
 Roll d12 or choose:
 
+.. rst-class:: three-columns
+
 #. Air
 #. Darkness
 #. Earth
@@ -179,6 +181,8 @@ Superpower Materials
 ^^^^^^^^^^^^^^^^^^^^
 
 Roll d12 or choose:
+
+.. rst-class:: three-columns
 
 #. Wood
 #. Metal

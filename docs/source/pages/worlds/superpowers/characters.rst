@@ -75,84 +75,84 @@ Power List
 Roll a d100 or choose:
 
 .. hlist::
-    :columns: 2
+   :columns: 2
 
-    #. ADHERENCE
-    #. ANATOMIC SEPARATION
-    #. ANIMAL CONTROL
-    #. ANIMAL FORM
-    #. ANIMAL MIMICRY
-    #. AQUATIC
-    #. ASTRAL PROJECTION
-    #. BODY OF :hoverxref:`ELEMENT <superpower-elements>`
-    #. BODY OF :hoverxref:`MATERIAL <superpower-materials>`
-    #. BURROWING
-    #. CAMOUFLAGE
-    #. CYBERKINESIS
-    #. DANGER SENSE
-    #. DENSITY CONTROL
-    #. DIMENSIONAL TRAVEL
-    #. DREAM CONTROL
-    #. DUPLICATION
-    #. ELASTICITY
-    #. :hoverxref:`ELEMENT <superpower-elements>` CONTROL
-    #. :hoverxref:`ELEMENT <superpower-elements>` AURA
-    #. EMOTION CONTROL
-    #. ENERGY ABSORPTION
-    #. ENERGY AURA
-    #. ENERGY BLAST
-    #. ENERGY CONTROL
-    #. ETHEREALNESS
-    #. EXTRA BODY PARTS
-    #. FLIGHT
-    #. FORCE FIELD
-    #. FRICTION CONTROL
-    #. GADGETS
-    #. GRAVITY CONTROL
-    #. HEALING
-    #. ILLUSIONS
-    #. IMMORTALITY
-    #. IMMUNITY TO [X]
-    #. INVISIBILITY
-    #. LEAPING
-    #. LIFE SUPPORT
-    #. LUCK CONTROL
-    #. MAGIC
-    #. MAGNETIC CONTROL
-    #. MARTIAL ARTS
-    #. :hoverxref:`MATERIAL <superpower-materials>` CONTROL
-    #. METAMORPHOSIS
-    #. MIMICRY
-    #. MIND CONTROL
-    #. PETRIFICATION
-    #. PHASING
-    #. POISON
-    #. POSTCOGNITION
-    #. POWER ABSORPTION
-    #. POWER AUGMENTATION
-    #. POWER NULLIFICATION
-    #. PRECOGNITION
-    #. REGENERATION
-    #. SHIELD
-    #. SIZE CONTROL
-    #. SPINNING
-    #. SUMMONING
-    #. SUPER-AGILITY
-    #. SUPER-INTELLIGENCE
-    #. SUPER-RESISTANCE
-    #. SUPER-SENSES
-    #. SUPER-SPEED
-    #. SUPER-STRENGTH
-    #. TELEKINESIS
-    #. TELEPATHY
-    #. TELEPORT
-    #. TIME CONTROL
-    #. TIME TRAVEL
-    #. TRANSMUTATION
-    #. VEHICLE
-    #. WEAPON
-    #. WEATHER CONTROL
-    #. Roll again!
+   #. ADHERENCE
+   #. ANATOMIC SEPARATION
+   #. ANIMAL CONTROL
+   #. ANIMAL FORM
+   #. ANIMAL MIMICRY
+   #. AQUATIC
+   #. ASTRAL PROJECTION
+   #. BODY OF :hoverxref:`ELEMENT <superpower-elements>`
+   #. BODY OF :hoverxref:`MATERIAL <superpower-materials>`
+   #. BURROWING
+   #. CAMOUFLAGE
+   #. CYBERKINESIS
+   #. DANGER SENSE
+   #. DENSITY CONTROL
+   #. DIMENSIONAL TRAVEL
+   #. DREAM CONTROL
+   #. DUPLICATION
+   #. ELASTICITY
+   #. :hoverxref:`ELEMENT <superpower-elements>` CONTROL
+   #. :hoverxref:`ELEMENT <superpower-elements>` AURA
+   #. EMOTION CONTROL
+   #. ENERGY ABSORPTION
+   #. ENERGY AURA
+   #. ENERGY BLAST
+   #. ENERGY CONTROL
+   #. ETHEREALNESS
+   #. EXTRA BODY PARTS
+   #. FLIGHT
+   #. FORCE FIELD
+   #. FRICTION CONTROL
+   #. GADGETS
+   #. GRAVITY CONTROL
+   #. HEALING
+   #. ILLUSIONS
+   #. IMMORTALITY
+   #. IMMUNITY TO [X]
+   #. INVISIBILITY
+   #. LEAPING
+   #. LIFE SUPPORT
+   #. LUCK CONTROL
+   #. MAGIC
+   #. MAGNETIC CONTROL
+   #. MARTIAL ARTS
+   #. :hoverxref:`MATERIAL <superpower-materials>` CONTROL
+   #. METAMORPHOSIS
+   #. MIMICRY
+   #. MIND CONTROL
+   #. PETRIFICATION
+   #. PHASING
+   #. POISON
+   #. POSTCOGNITION
+   #. POWER ABSORPTION
+   #. POWER AUGMENTATION
+   #. POWER NULLIFICATION
+   #. PRECOGNITION
+   #. REGENERATION
+   #. SHIELD
+   #. SIZE CONTROL
+   #. SPINNING
+   #. SUMMONING
+   #. SUPER-AGILITY
+   #. SUPER-INTELLIGENCE
+   #. SUPER-RESISTANCE
+   #. SUPER-SENSES
+   #. SUPER-SPEED
+   #. SUPER-STRENGTH
+   #. TELEKINESIS
+   #. TELEPATHY
+   #. TELEPORT
+   #. TIME CONTROL
+   #. TIME TRAVEL
+   #. TRANSMUTATION
+   #. VEHICLE
+   #. WEAPON
+   #. WEATHER CONTROL
+   #. Roll again!
 
 .. _superpower-elements:
 
@@ -162,20 +162,20 @@ Superpower Elements
 Roll d12 or choose:
 
 .. hlist::
-    :columns: 3
+   :columns: 3
 
-    #. Air
-    #. Darkness
-    #. Earth
-    #. Electricity
-    #. Energy
-    #. Fire
-    #. Force
-    #. Hellfire
-    #. Ice
-    #. Iron
-    #. Sound
-    #. Water
+   #. Air
+   #. Darkness
+   #. Earth
+   #. Electricity
+   #. Energy
+   #. Fire
+   #. Force
+   #. Hellfire
+   #. Ice
+   #. Iron
+   #. Sound
+   #. Water
 
 .. _superpower-materials:
 
@@ -185,20 +185,20 @@ Superpower Materials
 Roll d12 or choose:
 
 .. hlist::
-    :columns: 3
+   :columns: 3
 
-    #. Wood
-    #. Metal
-    #. Flesh
-    #. Gas
-    #. Rock
-    #. Lava
-    #. Liquid
-    #. Acid
-    #. Plant
-    #. Fungi
-    #. Antimatter
-    #. Bone
+   #. Wood
+   #. Metal
+   #. Flesh
+   #. Gas
+   #. Rock
+   #. Lava
+   #. Liquid
+   #. Acid
+   #. Plant
+   #. Fungi
+   #. Antimatter
+   #. Bone
 
 .. _extras-and-limits:
 

@@ -20,17 +20,19 @@ Modifiers
 
 .. _bonusesmaluseskeywords:
 
-Bonuses & Maluses have different keywords, depending on their type and rank:
+.. container:: bonusesmaluseskeywords
 
-+--------------+------------+---------------+------------+
-|  Type / Rank | Minor (±1) | Moderate (±3) | Major (±5) |
-+==============+============+===============+============+
-|     Skill    |    Adept   |     Expert    |   Master   |
-+--------------+------------+---------------+------------+
-| Item Quality |   Mundane  |   Masterwork  |  Legendary |
-+--------------+------------+---------------+------------+
-|   Condition  |    Mild    |    Moderate   |   Severe   |
-+--------------+------------+---------------+------------+
+   Bonuses & Maluses have different keywords, depending on their type and rank:
+
+   +--------------+------------+---------------+------------+
+   |  Type / Rank | Minor (±1) | Moderate (±3) | Major (±5) |
+   +==============+============+===============+============+
+   |     Skill    |    Adept   |     Expert    |   Master   |
+   +--------------+------------+---------------+------------+
+   | Item Quality |   Mundane  |   Masterwork  |  Legendary |
+   +--------------+------------+---------------+------------+
+   |   Condition  |    Mild    |    Moderate   |   Severe   |
+   +--------------+------------+---------------+------------+
 
 .. _skills:
 

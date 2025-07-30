@@ -25,7 +25,6 @@ This website hosts **MY** FROTH systems and procedures, but anyone can create th
    :caption: Optional Rules
    :hidden:
 
-   pages/optionalrules/optionalrules
    pages/optionalrules/diceandrolls
    pages/optionalrules/combat
 

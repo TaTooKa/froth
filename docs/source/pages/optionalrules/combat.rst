@@ -52,7 +52,7 @@ Instinct Checks
 
    art © `Geoffroy Thoorens <https://www.artstation.com/djahal>`_
 
-**Instinct Checks** are triggered in situations of extreme fear or pain, or life-threatening damage or danger. The result dictates if you can maintain your composure or are forced to act in a certain way. Roll and add any modifiers (skills/items/abilities/etc) [#]_ that would help keeping your cool in the specific situation:
+**Instinct Checks** are triggered in situations of extreme fear or pain, or life-threatening damage or danger. The result dictates if you can maintain your composure or are forced to act in a certain way. Roll and add any modifiers (skills/items/abilities/etc) that would help keeping your cool in the specific situation:
 
 .. csv-table:: Instinct Check Results
  :widths: 20, 80

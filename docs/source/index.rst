@@ -65,6 +65,7 @@ This website hosts **MY** FROTH systems and procedures, but anyone can create th
    :hidden:
 
    pages/worlds/neonandchrome/characters
+   pages/worlds/neonandchrome/runningontheedge
 
 .. toctree::
    :caption: Atomic Wasteland

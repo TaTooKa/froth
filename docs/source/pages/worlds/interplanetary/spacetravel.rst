@@ -80,7 +80,7 @@ In order to calculate time and Δv cost for a Partial Brachistochrone, first dec
 
 .. epigraph:: Partial Brachistochrone Transit Example
 
-   The character realizes that his trip to the Mars System is unattainable on his Light Freighter (that has a maximum Δv of 500 km/s). He decides to do a Partial Brachistochrone instead, at the same acceleration of 0.5g but with only 20% of the trip under thrust. The player needs to convert that fraction into decimal (0.2, divided by two because he needs the value for each thrust segment, which gives a 0.1). Plugging all of those values into the equations gives him a highly reduced Δv cost of 411.74 Km/s (33.3% of the original cost), but an increased total transit time of 4.9 days (almost two days more than if under full burn), and the character’s vessel will be most of that trip coasting at zero-G.
+   *The character realizes that his trip to the Mars System is unattainable on his Light Freighter (that has a maximum Δv of 500 km/s). He decides to do a Partial Brachistochrone instead, at the same acceleration of 0.5g but with only 20% of the trip under thrust. The player needs to convert that fraction into decimal (0.2, divided by two because he needs the value for each thrust segment, which gives a 0.1). Plugging all of those values into the equations gives him a highly reduced Δv cost of 411.74 Km/s (33.3% of the original cost), but an increased total transit time of 4.9 days (almost two days more than if under full burn), and the character’s vessel will be most of that trip coasting at zero-G.*
 
 The advantages of a Partial Brachistochrone are that you save lots of Δv for a relatively small increase in total transit time, and that spacecraft with lesser MΔv capabilities can make trips that could be prohibitive at full burn, by taking a little bit more of time. Many spacers would consider at least short-coasting (10%, 20%) Partial Brachistochrones because they are way more cost-effective than Full Brachistochrones.
 
@@ -107,3 +107,26 @@ The simplified formula is:
 .. math::
 
    Increased\ Transit\ Time = original\ transit\ time * (coasting\ time\ percentage * 2) 
+
+Distance between Planetary Systems
+----------------------------------
+
+.. csv-table:: Average distance between planetary systems in astronomical units
+   :align: center
+
+   "","EARTH SYSTEM","MARS SYSTEM","ASTEROID BELT","JOVIAN SYSTEM","SATURNIAN SYSTEM"
+   "EARTH SYSTEM","〰","0.52 AU","1.77 AU","4.2 AU","8.54 AU"
+   "MARS SYSTEM","0.52 AU","〰","1.24 AU","3.68 AU","8.02 AU"
+   "ASTEROID BELT","1.77 AU","1.24 AU","〰","2.44 AU","6.79 AU"
+   "JOVIAN SYSTEM","4.2 AU","3.68 AU","2.44 AU","〰","4.34 AU"
+   "SATURNIAN SYSTEM","8.54 AU","8.02 AU","6.79 AU","4.34 AU","〰"
+
+Communication Delay between Planetary Systems
+---------------------------------------------
+
+TODO
+
+Travel Times and DeltaV Costs
+-----------------------------
+
+TODO

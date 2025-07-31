@@ -138,8 +138,10 @@ Make a dice roll modified by any skill that might help you resist a burst of Hig
 - On a **failure**...:
 
  - If the :hoverxref:`Negative Effect <effect>` is 5 or less, you lose 1 HP and gain the ``Tunnel Vision (Mild, -1)`` Condition for [Effect] minutes. 
- - If the :hoverxref:`Negative Effect <effect>` is 6 to 10, you lose 5 HP and pass out **(G-LOC)** for [Effect/2] minutes.
+ - If the :hoverxref:`Negative Effect <effect>` is 6 to 10, you lose 5 HP and pass out **(G-LOC)** [#]_ for [Effect/2] minutes.
  - If the :hoverxref:`Negative Effect <effect>` is 11 or more, you lose 10 HP and gain the ``Cerebral Hypoxia (Severe, -5)`` Condition for [Effect] minutes. 
+
+.. [#] **G-LOC** stands for *G-Force Induced Loss-of-Conciousness*, originally used in aerospace engineering and piloting.
 
 **High-G exposure** can leave lasting effects in the form of more permanent Conditions (like bruising, muscle pain, or even bone fractures) at GM discretion, using the amount of HP lost or Conditions gained as a guidance. These effects can only be partially countered with these two methods:
 

@@ -50,7 +50,7 @@ If you wish to calculate the Δv cost and transit times on your own, you can use
 
 .. epigraph:: Full Brachistochrone Transit Example
 
-   *A character wants to get from the Earth system to Mars (0.52 AU) at a leisure 0.5g of acceleration. The player converts those values for the calculations into metric units and gets a distance of 7,779,089,2764m and an acceleration of 4.9 m/s². Plugging those values into the aforementioned equations solves for a Δv cost of 1,235,206 m/s (1.2M m/s) and a transit time of 251,912s (70 hours, or 2.9 days).*
+   *A character wants to get from the Earth system to Mars (0.52 AU) at a leisure 0.5g of acceleration. The player converts those values for the calculations into metric units and gets a distance of 7,779,089,2764m and an acceleration of 4.9 m/s². Plugging those values into the aforementioned equations solves for a Δv cost of 1,235,206 m/s (1.2Mm/s) and a transit time of 251,912s (70 hours, or 2.9 days).*
 
 The advantages of a Full Brachistochrone are many: The crew is under stable gravity because of constant thrust, that they can set to a comfortable one and avoid all of the problems of long exposure to zero-G; Transit time is reduced, which is not only convenient for those in a hurry, but also reduces time exposure to background radiation and potential Solar Storms or Flares.
 
@@ -72,3 +72,33 @@ In order to calculate time and Δv cost for a Partial Brachistochrone, first dec
    Increased \ Transit \ Time = \sqrt{\frac{distance}{acceleration * thrust\ \% * (1 - thrust\ \%)}}
 
 **Δv cost** is in m/s; **distance** is in m; **acceleration** is in m/s; **Transit time** is in s; **thrust %** is in decimal form (i.e: 30% is 0.3) for **each** thrust segment.
+
+.. epigraph:: Partial Brachistochrone Transit Example
+
+   The character realizes that his trip to the Mars System is unattainable on his Light Freighter (that has a maximum Δv of 500 km/s). He decides to do a Partial Brachistochrone instead, at the same acceleration of 0.5g but with only 20% of the trip under thrust. The player needs to convert that fraction into decimal (0.2, divided by two because he needs the value for each thrust segment, which gives a 0.1). Plugging all of those values into the equations gives him a highly reduced Δv cost of 411.74 Km/s (33.3% of the original cost), but an increased total transit time of 4.9 days (almost two days more than if under full burn), and the character’s vessel will be most of that trip coasting at zero-G.
+
+The advantages of a Partial Brachistochrone are that you save lots of Δv for a relatively small increase in total transit time, and that spacecraft with lesser MΔv capabilities can make trips that could be prohibitive at full burn, by taking a little bit more of time. Many spacers would consider at least short-coasting (10%, 20%) Partial Brachistochrones because they are way more cost-effective than Full Brachistochrones.
+
+The disadvantages are, of course, longer total transit time (submitting the crew to more background radiation exposure and increasing the possibility of living through a Solar Storm in space) and longer time in zero-G, which is not only inconvenient or uncomfortable, but can be a health issue in itself.
+
+Partial Brachistochrone Transit (simplified)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This optional formula is a simplified approximation you can use instead of the previous one. It is not as involved or accurate as the previous one, but will reduce the amount of math required in the game table, while still giving increased transit times for reduced Δv costs.
+
+First decide what percentage of the trip you will be under thrust, and what percentage you will be coasting at 0g. Then multiply the total travel time by 2X the coasting percentage, and divide the DeltaV cost by that thrust percentage. 
+
+
+.. admonition:: Example of Simplified calculations
+
+   If you travel from Earth to Mars at 0.3g and decide to do 20% burn and 80% coasting, it will take 234.8 hours (90.3 * (1+ (0.8 * 2)), or 160% the duration) and it will cost 191.4 km/s of Δv budget (957 * 0.2, 20% of the original cost).
+
+The simplified formula is:
+
+.. math:: 
+
+   Reduced \Delta v \ cost = \frac{original \Delta v \ cost}{thrust\ time\ percentage}
+
+.. math::
+
+   Increased\ Transit\ Time = original\ transit\ time * (coasting\ time\ percentage * 2) 

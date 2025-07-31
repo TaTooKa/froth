@@ -28,6 +28,10 @@ Characters have a number of **Heart Points** (HP) equal to **10 + Level**. Recei
 Damage and Conditions
 ~~~~~~~~~~~~~~~~~~~~~
 
+.. figure:: /_static/images/rpg-image-14.jpg
+
+   art © `Marco Checchetto <https://www.instagram.com/mchecc18>`_
+
 When a character is the target of a :hoverxref:`Negative Effect <effect>`, their player can choose between losing *Heart Points* (HP) or taking a :hoverxref:`Condition <conditions>`:
 
 - **Effect 5 or less**: lose that amount of HP, or receive a *Mild* (-1) Condition.

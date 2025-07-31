@@ -14,6 +14,10 @@ The game is a conversation in which a collaborative story unfolds. Players creat
 Action resolution
 -----------------
 
+.. figure:: /_static/images/rpg-image-2.jpg
+
+   art © `Alex Mordovets <https://aem.artstation.com/projects/dyQzJ>`_
+
 Roll **d20** + Your :hoverxref:`Level <level>` ± :hoverxref:`modifiers <bonusesmaluses>` vs **Difficulty**.
 
 - **Result = Difficulty**: a ``stalemate``; no progress is made, time passes, etc [#]_

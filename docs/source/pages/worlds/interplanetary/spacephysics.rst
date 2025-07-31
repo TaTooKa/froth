@@ -147,9 +147,9 @@ High-G Burst Check
    - On a **stalemate** or a **success**, you resist the effects of the High-G burst.
    - On a **failure**...:
 
-    - If the :hoverxref:`Negative Effect <effect>` is 5 or less, you lose 1 HP and gain the ``Tunnel Vision (Mild, -1)`` Condition for [Effect] minutes. 
-    - If the :hoverxref:`Negative Effect <effect>` is 6 to 10, you lose 5 HP and pass out **(G-LOC)** [#]_ for [Effect/2] minutes.
-    - If the :hoverxref:`Negative Effect <effect>` is 11 or more, you lose 10 HP and gain the ``Cerebral Hypoxia (Severe, -5)`` Condition for [Effect] minutes. 
+     - If the :hoverxref:`Negative Effect <effect>` is 5 or less, you lose 1 HP and gain the ``Tunnel Vision (Mild, -1)`` Condition for [Effect] minutes. 
+     - If the :hoverxref:`Negative Effect <effect>` is 6 to 10, you lose 5 HP and pass out **(G-LOC)** [#]_ for [Effect/2] minutes.
+     - If the :hoverxref:`Negative Effect <effect>` is 11 or more, you lose 10 HP and gain the ``Cerebral Hypoxia (Severe, -5)`` Condition for [Effect] minutes. 
 
 .. [#] **G-LOC** stands for *G-Force Induced Loss-of-Conciousness*, originally used in aerospace engineering and piloting.
 

@@ -124,28 +124,32 @@ Each character has a :hoverxref:`native gravity <nativegravity>` they are accust
    
    - **Short burst**: although discomforting, negligible for most people.
    - **Long period**: Gain the ``Hindered by High-G (Moderate, -3)`` Condition, and lose 1 HP immediately and 1 HP for every hour of continuous exposure."
-   "3x your native gravity", "- **Short burst**: make a **high-G burst check**.
+   "3x your native gravity", "- **Short burst**: make a :hoverxref:`high-G burst check <highgburstcheck>`.
    - **Long period**: Gain the ``Restrained by High-G (Severe, -5)`` Condition. Lose 2 HP immediately and 2 HP for every hour of continuous exposure."
-   "4x your native gravity", "- **Short burst**: Lose 1 HP. Make a **high-G burst check**.
+   "4x your native gravity", "- **Short burst**: Lose 1 HP. Make a :hoverxref:`high-G burst check <highgburstcheck>`.
    - **Long period**: You cannot move (maybe a little bit if you make extreme effort, otherwise you are prostrate in place). Lose 3 HP immediately and 3 HP for every hour of continuous exposure."
-   "5x your native gravity", "- **Short burst**: Lose 3 HP. Make a **high-G burst check**.
+   "5x your native gravity", "- **Short burst**: Lose 3 HP. Make a :hoverxref:`high-G burst check <highgburstcheck>`.
    - **Long period**: You cannot move ― you are prostrate in place and in severe pain. Lose 4 HP Immediately and 4 HP for every hour of continuous exposure."
-   "10x your native gravity, or more", "- **Short burst**: Lose 5 HP. Make a **high-G burst check**.
+   "10x your native gravity, or more", "- **Short burst**: Lose 5 HP. Make a :hoverxref:`high-G burst check <highgburstcheck>`.
    - **Long period**: You cannot move ― you are prostrate in place and in severe pain. Lose 5 HP Immediately and 5 HP for every hour of continuous exposure."
 
-High-G Burst Check
-^^^^^^^^^^^^^^^^^^
+.. _highgburstcheck:
 
-Make a dice roll modified by any skill that might help you resist a burst of High-G, with a difficulty set by the amount of Gs resisted in relation to your native gravity [#]_. 
+.. container:: highgburstcheck
 
-.. [#] For example, if exposed to *4x your native gravity*, the Level would be 4, thus the difficulty would be 10+4 = 14. 
+   High-G Burst Check
+   ^^^^^^^^^^^^^^^^^^
 
-- On a **stalemate** or a **success**, you resist the effects of the High-G burst.
-- On a **failure**...:
+   Make a dice roll modified by any skill that might help you resist a burst of High-G, with a difficulty set by the amount of Gs resisted in relation to your native gravity [#]_. 
 
- - If the :hoverxref:`Negative Effect <effect>` is 5 or less, you lose 1 HP and gain the ``Tunnel Vision (Mild, -1)`` Condition for [Effect] minutes. 
- - If the :hoverxref:`Negative Effect <effect>` is 6 to 10, you lose 5 HP and pass out **(G-LOC)** [#]_ for [Effect/2] minutes.
- - If the :hoverxref:`Negative Effect <effect>` is 11 or more, you lose 10 HP and gain the ``Cerebral Hypoxia (Severe, -5)`` Condition for [Effect] minutes. 
+   .. [#] For example, if exposed to *4x your native gravity*, the Level would be 4, thus the difficulty would be 10+4 = 14. 
+
+   - On a **stalemate** or a **success**, you resist the effects of the High-G burst.
+   - On a **failure**...:
+
+    - If the :hoverxref:`Negative Effect <effect>` is 5 or less, you lose 1 HP and gain the ``Tunnel Vision (Mild, -1)`` Condition for [Effect] minutes. 
+    - If the :hoverxref:`Negative Effect <effect>` is 6 to 10, you lose 5 HP and pass out **(G-LOC)** [#]_ for [Effect/2] minutes.
+    - If the :hoverxref:`Negative Effect <effect>` is 11 or more, you lose 10 HP and gain the ``Cerebral Hypoxia (Severe, -5)`` Condition for [Effect] minutes. 
 
 .. [#] **G-LOC** stands for *G-Force Induced Loss-of-Conciousness*, originally used in aerospace engineering and piloting.
 

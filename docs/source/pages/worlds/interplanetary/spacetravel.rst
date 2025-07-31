@@ -30,3 +30,18 @@ Before the current advancements in engine types, spacecraft would use every tric
 Luckily, in the 22nd century, all of that is no longer necessary. Any space-worthy vessel has the means to basically travel in a straight line from planetary system to system, either by accelerating+coasting+decelerating, or by constantly accelerating+decelerating to their destination. All of the techniques from the past are still used from time to time, but only by specific craft or missions that can afford longer times of arrival or that don’t have the economic means to pay for better engines or their fuel (these are mostly educational or science craft from developing nations or crafty enthusiasts).
 
 Outside of those earlier techniques, nowadays most if not all spacecraft use what is called a **Full** or **Partial Brachistochrone**.
+
+Full Brachistochrone Transit
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The vessel accelerates at a constant **g** until the midpoint, turns around and decelerates at the same constant g until its destination. Consult the tables on the following pages of this chapter for already calculated figures and Δv costs for common transit routes and Gs.
+
+If you wish to calculate the Δv cost and transit times on your own, you can use these kinematic formulas:
+
+.. math:: 
+
+   \Delta v \ cost = 2\sqrt{distance * acceleration}
+
+.. math:: 
+
+   \mathcal{Transit \ Time} = 2\sqrt{distance/acceleration}

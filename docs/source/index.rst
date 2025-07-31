@@ -53,6 +53,9 @@ This website hosts **MY** FROTH systems and procedures, but anyone can create th
 
    pages/worlds/interplanetary/characters
    pages/worlds/interplanetary/spacephysics
+   pages/worlds/interplanetary/spacetravel
+   pages/worlds/interplanetary/spacecraft
+   pages/worlds/interplanetary/solsystem
 
 .. toctree::
    :caption: Zombie Apocalypse

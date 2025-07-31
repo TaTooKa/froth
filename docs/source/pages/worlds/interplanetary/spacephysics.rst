@@ -328,7 +328,9 @@ Spacers are constantly near some sort of nuclear reactor, like those powering sa
 Solar Flares and Solar Storms
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-A **Solar Flare** is a deadly wave of radioactive particles ejected into a specific direction through space from the sun’s surface. They can disrupt communications, interrupt power sources, corrode solar panels, and give you extreme doses of radiation. During a Solar Flare there are few safe places to be, such as a planet with a magnetosphere like Earth, behind lots of shielding in a space station or in a vessel’s anti-rad chamber, or underground with several meters of rock over your head [#]_. Solar Flares can be 500 Mm wide, although the average is a third of that size [#]_. 
+A **Solar Flare** is a deadly wave of radioactive particles ejected into a specific direction through space from the sun’s surface. They can disrupt communications, interrupt power sources, corrode solar panels, and give you extreme doses of radiation. During a Solar Flare there are few safe places to be, such as a planet with a magnetosphere like Earth, behind lots of shielding in a space station or in a vessel’s anti-rad chamber, or underground with several meters of rock over your head [#]_.
+
+Solar Flares can be 500 Mm wide, although the average is a third of that size [#]_. 
 
 .. [#] If behind partial cover (like not-so-thick shielding), reduce the Sv received by half.
 .. [#] for reference, Jupiter’s diameter is 140 Mm.
@@ -344,5 +346,47 @@ Temperature
 .. figure:: /_static/images/rpg-image-20.jpg
 
    art © `Maciej Rebisz <https://www.artstation.com/mac>`_
+
+Inside a Spaceship or Space Station, temperatures are usually kept warm enough to reduce its inhabitants’ metabolic load, but cool enough to avoid unnecessary sweating. This ideal temperature turns out to be somewhere between 18° and 24° C.
+
+Heat in Space
+~~~~~~~~~~~~~
+
+The vacuum of space is usually at near absolute zero (0°K, or -273°C), but still, spaceships generate heat, and instead of freezing, they have the problem of overheating. How is this possible?
+
+There are three primary methods of heat transfer: **conduction**, **convection**, and **radiation**.
+
+**Conduction** occurs when heat is transferred from one solid object to another through direct contact, like when your hand becomes burned if you touch a hot stove.
+
+**Convection** occurs when heat is transferred through a medium such as air or water. For example, you can cool down the temperature of your body by turning on a fan or jumping in a swimming pool. But this is not an option for spacecraft, because space is a vacuum and there is no medium to allow heat to be transferred away from the spacecraft.
+
+Finally, there is **radiation**―and this is really the only means of releasing heat in space. Radiation occurs when heat energy is emitted away from an object in the form of electromagnetic or thermal energy through waves of photons.
+
+Spaceships and Space Stations make use of huge heat radiators that are usually deployed coplanar (in opposite sides), facing outwards, and they are commonly filled with tubes that circulate some sort of liquid that transfers heat out from the hotter parts of the craft. At the highest temperatures, these radiators glow in a dull red color.
+
+.. figure:: /_static/images/rpg-image-23.jpg
+
+   art © `Theo Bouvier <https://www.artstation.com/theo_bouvier>`_
+
+There are other techniques to reduce heat generation and transfer: Ships and stations are usually painted white or in a silvery metallic coating, to reflect as much sunlight as possible. Another trick is to rotate the craft regularly to change the side that is being hit by sunlight, letting the other cool off while “in the shade”.
+
+Waste Heat
+^^^^^^^^^^
+
+Any craft under normal operation will still have to get rid of some amount of waste heat (even the human body at rest generates heat!). Sunlight alone can increase the temperature of a vessel to 120°C in 10 minutes if not properly cooled.
+
+During stress or moments of high consumption of energy (think under high burn with reactors at peak capacity, or when laser cannons are activated), any excess heat that the radiators cannot reject will start to build up on the craft itself, increasing the temperature of the hull and its interiors.
+
+.. csv-table:: Heat Management
+   :header: "Craft/Station Activity", "Craft/Station Temperature"
+
+   "Moderate energy consumption (Normal Operations)", "18°~24° C (baseline comfortable temperature)"
+   "High energy consumption (Reactor/thrusters at high capacity or active laser cannon)", "+10° C (almost instant; reverts in 10 minutes after back to baseline consumption)"
+   "Extreme energy consumption (Reactor/thrusters at peak capacity AND active laser cannon(s))", "+20° C (almost instant; reverts in 10 minutes after back to baseline consumption)"
+   "Half of Heat Radiators damaged/offline", "+5° C per minute"
+   "All Heat Radiators damaged/offline", "+10° C per minute"
+
+Heat Sinks
+^^^^^^^^^^
 
 TODO

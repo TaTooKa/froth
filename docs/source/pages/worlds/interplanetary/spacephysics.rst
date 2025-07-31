@@ -257,13 +257,16 @@ Radiation effects
 Players must tally each specific amount of Sv their characters gain. They will acquire :hoverxref:`Conditions <conditions>` on certain occasions, related to the amount of radiation they have been exposed to.
 
 .. csv-table:: Radiation Effects
+   :header: "Sv Acquired", "Radiation Sickness Effects"
    :widths: 20, 80
 
    "0 ~ 500 mSv", "None ― somewhat safe radiation levels"
    "500 mSv ~ 1 Sv", "Gain the ``Cell Mutations (permanent, -0)`` Condition. It only affects your offspring, increasing their chance of genetic disorders. 
    
    If received in a **short time span**, also gain the ``Mild Nausea (-1)`` Condition."
-   "1 Sv", "Gain the ``Minor Cancer (permanent, -0)`` Condition. It’s early stage and can be treated by simple treatments (usually taking anti-cancer pills keeps it at bay). If received in a **short time span**, also gain the ``Vomiting (Moderate, -3)`` Condition."
+   "1 Sv", "Gain the ``Minor Cancer (permanent, -0)`` Condition. It’s early stage and can be treated by simple treatments (usually taking anti-cancer pills keeps it at bay). 
+   
+   If received in a **short time span**, also gain the ``Vomiting (Moderate, -3)`` Condition."
    "2 Sv", "Gain the ``Cataracts (Moderate, -3)`` Condition. You will gradually become blind, unless corrected via simple surgery. 
    
    If received in a **short time span**, also gain ``Fever and Headaches (Moderate, -3)``."
@@ -298,7 +301,7 @@ Since Background Radiation is only dangerous if accumulated over long periods of
 .. [#] This means the total exposure time of a spacer during their life or career. If the individual is mostly living in small space stations or spacecraft, then count the total time exposed. If, instead, they live or work mostly in underground habitats or ones with strong radiation shielding, only count the “time of service” they were exposed to Background Radiation.
 
 .. csv-table:: Background Radiation Exposure Time
-   :widths: 50, 50
+   :header: "Total time exposed to Background Radiation", "Sieverts acquired"
 
    "1 month", "25 mSv"
    "6 months", "150 mSv"

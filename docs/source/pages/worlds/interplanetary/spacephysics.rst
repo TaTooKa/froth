@@ -5,6 +5,14 @@ Space Physics
 
    art © `Maciej Rebisz <https://www.artstation.com/artwork/8BW5DE>`_
 
+INTERPLANETARY is a roleplaying game setting that attempts to create an immersive and educational experience.
+
+By integrating accurate scientific principles, players are encouraged to engage with the complexities of space travel, such as gravitational forces, orbital mechanics, and the effects of different propulsion systems. This not only enhances the realism of the game but also fosters a deeper understanding of the universe. Players must think critically about their actions, calculating transit times or considering the implications of gravity, radiation, pressure, and other physical and chemical phenomena, which adds a layer of strategy and intellectual challenge to the gameplay.
+
+Moreover, emphasizing space physics allows for richer storytelling and character development within the game. As players navigate challenges based on real scientific concepts, they can explore themes of exploration, survival, and innovation in a scientifically plausible context. This approach not only captivates players who are fans of science fiction but also attracts those interested in science and technology. By grounding the narrative in hard science, INTERPLANETARY can serve as a platform for education and inspiration, sparking curiosity about space exploration and the scientific principles that govern it.
+
+Which is why this section goes full-on *hard-sci-fi* concepts and space physics.
+
 Gravity
 -------
 

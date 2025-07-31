@@ -44,4 +44,6 @@ If you wish to calculate the Δv cost and transit times on your own, you can use
 
 .. math:: 
 
-   \mathcal{Transit \ Time} = 2\sqrt{distance/acceleration}
+   Transit \ Time = 2\sqrt{\frac{distance}{acceleration}}
+
+**Δv cost** will be in m/s; **distance** is in m; **acceleration** is in m/s; **Transit time** is in s.

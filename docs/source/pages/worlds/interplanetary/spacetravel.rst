@@ -31,6 +31,11 @@ Luckily, in the 22nd century, all of that is no longer necessary. Any space-wort
 
 Outside of those earlier techniques, nowadays most if not all spacecraft use what is called a **Full** or **Partial Brachistochrone**.
 
+.. figure:: /_static/images/rpg-image-25.jpg
+
+   art © `Glenn Clovis <https://www.artstation.com/glenn_clovis>`_
+
+
 Full Brachistochrone Transit
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

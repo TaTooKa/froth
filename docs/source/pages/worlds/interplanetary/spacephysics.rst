@@ -347,6 +347,7 @@ Temperature
 
    art © `Maciej Rebisz <https://www.artstation.com/mac>`_
 
+
 Inside a Spaceship or Space Station, temperatures are usually kept warm enough to reduce its inhabitants’ metabolic load, but cool enough to avoid unnecessary sweating. This ideal temperature turns out to be somewhere between 18° and 24° C.
 
 Heat in Space
@@ -356,11 +357,9 @@ The vacuum of space is usually at near absolute zero (0°K, or -273°C), but sti
 
 There are three primary methods of heat transfer: **conduction**, **convection**, and **radiation**.
 
-**Conduction** occurs when heat is transferred from one solid object to another through direct contact, like when your hand becomes burned if you touch a hot stove.
-
-**Convection** occurs when heat is transferred through a medium such as air or water. For example, you can cool down the temperature of your body by turning on a fan or jumping in a swimming pool. But this is not an option for spacecraft, because space is a vacuum and there is no medium to allow heat to be transferred away from the spacecraft.
-
-Finally, there is **radiation**―and this is really the only means of releasing heat in space. Radiation occurs when heat energy is emitted away from an object in the form of electromagnetic or thermal energy through waves of photons.
+- **Conduction** occurs when heat is transferred from one solid object to another through direct contact, like when your hand becomes burned if you touch a hot stove.
+- **Convection** occurs when heat is transferred through a medium such as air or water. For example, you can cool down the temperature of your body by turning on a fan or jumping in a swimming pool. But this is not an option for spacecraft, because space is a vacuum and there is no medium to allow heat to be transferred away from the spacecraft.
+- Finally, there is **radiation**―and this is really the only means of releasing heat in space. Radiation occurs when heat energy is emitted away from an object in the form of electromagnetic or thermal energy through waves of photons.
 
 Spaceships and Space Stations make use of huge heat radiators that are usually deployed coplanar (in opposite sides), facing outwards, and they are commonly filled with tubes that circulate some sort of liquid that transfers heat out from the hotter parts of the craft. At the highest temperatures, these radiators glow in a dull red color.
 
@@ -380,9 +379,21 @@ During stress or moments of high consumption of energy (think under high burn wi
 .. csv-table:: Heat Management
    :header: "Craft/Station Activity", "Craft/Station Temperature"
 
-   "Moderate energy consumption (Normal Operations)", "18°~24° C (baseline comfortable temperature)"
-   "High energy consumption (Reactor/thrusters at high capacity or active laser cannon)", "+10° C (almost instant; reverts in 10 minutes after back to baseline consumption)"
-   "Extreme energy consumption (Reactor/thrusters at peak capacity AND active laser cannon(s))", "+20° C (almost instant; reverts in 10 minutes after back to baseline consumption)"
+   "Moderate energy consumption
+   
+   (Normal Operations)", "18°~24° C 
+   
+   (baseline comfortable temperature)"
+   "High energy consumption 
+   
+   (Reactor/thrusters at high capacity or active laser cannon)", "+10° C 
+   
+   (almost instant; reverts in 10 minutes after back to baseline consumption)"
+   "Extreme energy consumption 
+   
+   (Reactor/thrusters at peak capacity AND active laser cannon(s))", "+20° C 
+   
+   (almost instant; reverts in 10 minutes after back to baseline consumption)"
    "Half of Heat Radiators damaged/offline", "+5° C per minute"
    "All Heat Radiators damaged/offline", "+10° C per minute"
 

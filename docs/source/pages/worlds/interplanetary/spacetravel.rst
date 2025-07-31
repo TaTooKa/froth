@@ -152,6 +152,7 @@ Travel Times and DeltaV Costs
    :align: center
    :header-rows: 1
    :stub-columns: 1
+   :widths: 10, 18, 18, 18, 18, 18
 
    * - 0.01g
      - EARTH SYSTEM

@@ -294,9 +294,9 @@ The 3 major sources of Radiation in space (or anywhere without a strong magnetos
 
 Cosmic and Background Radiation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Cosmic rays are clusters of high-energy particles that move through space at nearly the speed of light. They originate from the Sun, from outside of the Solar System in our own galaxy, and from distant galaxies. They are basically everywhere, like a constant invisible shower that you expose to whenever you are not in an underground or heavily-reinforced habitat.
+**Cosmic rays** are clusters of high-energy particles that move through space at nearly the speed of light. They originate from the Sun, from outside of the Solar System in our own galaxy, and from distant galaxies. They are basically everywhere, like a constant invisible shower that you expose to whenever you are not in an underground or heavily-reinforced habitat.
 
-Since Background Radiation is only dangerous if accumulated over long periods of time, GM and players should not concern themselves with immediate effects, but consult the following table for long-term exposure [#]_, and then apply the effects when a notorious amount of Sieverts is acquired:
+Since **Background Radiation** is only dangerous if accumulated over long periods of time, GM and players should not concern themselves with immediate effects, but consult the following table for long-term exposure [#]_, and then apply the effects when a notorious amount of Sieverts is acquired:
 
 .. [#] This means the total exposure time of a spacer during their life or career. If the individual is mostly living in small space stations or spacecraft, then count the total time exposed. If, instead, they live or work mostly in underground habitats or ones with strong radiation shielding, only count the “time of service” they were exposed to Background Radiation.
 
@@ -310,6 +310,36 @@ Since Background Radiation is only dangerous if accumulated over long periods of
    "5 years", "1.5 Sv"
    "10 years", "3 Sv"
    "20 years", "6 Sv"
+
+
+Nuclear power plants and Fusion Drives
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Spacers are constantly near some sort of nuclear reactor, like those powering satellites or space stations, surface habitats, and spacecraft fusion drives. Any of those can fail at any time, and if there is an accident, they could expose nearby humans to nuclear radiation. When this happens, use the following table:
+
+.. csv-table:: Background Radiation Exposure Time
+   :header: "Type or amount of exposure", "Sieverts acquired"
+
+   "Far away / exposed to fallout", "100 mSv per minute"
+   "Close by / behind some sort of protection", "500 mSv per minute"
+   "Very close / inside reactor building or module", "1 Sv per minute"
+   "Extremely close / exposed to the reactor core", "10 Sv per minute"
+
+Solar Flares and Solar Storms
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+A **Solar Flare** is a deadly wave of radioactive particles ejected into a specific direction through space from the sun’s surface. They can disrupt communications, interrupt power sources, corrode solar panels, and give you extreme doses of radiation. During a Solar Flare there are few safe places to be, such as a planet with a magnetosphere like Earth, behind lots of shielding in a space station or in a vessel’s anti-rad chamber, or underground with several meters of rock over your head. Solar Flares can be 500 Mm wide, although the average is a third of that size [#]_. 
+
+.. [#] for reference, Jupiter’s diameter is 140 Mm.
+
+Solar Flares are very rare, but there are warning devices all over the Solar System that can give at least two hours notice that one is building up. Most emergency channels and news outlets are very serious about distributing this information as fast as possible for spacers all over the system. **Solar Flares** usually last for 3 to 6 hours. **Solar Storms** are weaker versions that last longer (taking up to 10 days).
+
+- A character fully exposed to a **Solar Flare** will receive 5 Sv immediately, plus 5 Sv every minute.
+- For **Solar Storms**, exposure grants 500 mSv immediately and 500 mSv more each minute.
+
+.. admonition:: Partial Cover
+
+   If behind partial cover (like not-so-thick shielding), reduce these amounts by half.
 
 Temperature
 -----------

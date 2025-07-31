@@ -6,6 +6,8 @@
 
  *The year 20XX. MegaCorporations are more powerful than nation states. Technology is everywhere, powering the surveillance state and the consumerism machine of the inescapable technofeudalist dystopia. The billonaires and the 1-percent live like kings, while the middle class is almost extinguished. The rest are drowned in debt and poverty, under the mantra of "High Tech and Low Life". You are a cyberpunk: A societal anomaly; A glitch in the system. You fight against the megacorps and injustice while trying to survive to live another day.*
 
+**TOUCHSTONES and INSPIRATIONS**: *Neuromancer* and the *Sprawl Trilogy* by William Gibson. *Blade Runner* by Ridley Scott. *Cyberpunk 2020* by R. Talsorian Games. *Ghost In The Shell* by Masamune Shirow. *Cyberpunk 2077* by CD Projekt Red. *Snatcher* and *Policenauts* by Hideo Kojima.
+
 Character Creation
 ==================
 

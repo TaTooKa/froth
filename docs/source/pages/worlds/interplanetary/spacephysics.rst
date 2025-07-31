@@ -155,17 +155,58 @@ Pressure and Atmosphere
    art © `Maciej Rebisz <https://www.artstation.com/mac>`_
 
 
-TODO
+For a human body to function, there’s also the need for the right pressure and atmospheric composition.
+
+What’s known as “breathable air” on Earth is usually composed of 75% Nitrogen, 24% Oxygen and other gasses. In space, the composition may vary slightly (depending on pressure, helium might be added to the mix, or oxygen levels could be increased).
+
+Most stations and habitats that have hydroponic farms must also closely control their CO₂ levels, in order to guarantee proper plant growth (and to sustain a good cycle of 0₂ - C0₂ exchange).
 
 Running out of oxygen
 ~~~~~~~~~~~~~~~~~~~~~
 
-TODO
+One of the dangers humans face when in space is oxygen deprivation. This might be caused by lots of reasons, like air recycler malfunctions, atmo mix going bad, oxygen supply running out, etc. When this happens but there is no pressure loss, it might be difficult to tell if air is running out or is just stuffy. The time it takes for oxygen to run out depends on many factors like volume of the environment, amount of people breathing it, etc, so the exact duration is left to GM discretion. When the time finally comes, a human can suffer the following effects:
+
+.. csv-table:: Losing Oxygen
+   :widths: 20, 80
+
+   "1 Hour of Oxygen left", "Air is hard to breathe. Someone with an appropriate Skill might be allowed a roll to notice."
+   "30 minutes of Oxygen left", "It’s getting hard not to hyperventilate. Everyone affected gains the ``Hard to breathe (Mild, -1)`` Condition, and loses 1 HP per minute."
+   "5 minutes of Oxygen left", "Everyone can notice the first telltales of asphyxiation. Everyone affected gains the ``Asphyxiating (Moderate, -3)`` Condition, and loses 3 HP per minute."
+   "All Oxygen gone", "Everyone automatically passes out. They lose 5 HP per minute until dead."
 
 Losing pressure
 ~~~~~~~~~~~~~~~
 
-TODO
+Even with the right mix of gasses available, there has to be enough pressure in order to breathe. And that’s not even taking into account the myriad of problems caused to the human body in high or low pressure environments (especially if the change is abrupt!).
+
+Regular pressure used in most space habitats is 1 bar. Pressure loss can occur at the environment level or at the personal level (your vac-suit). It might happen because the habitat or vessel hull/structure was somehow punctured or exposed to vacuum. In the case of a space-suit, a gash or perforation might do it.
+
+**For every 2 cm of hole, you will lose 10 m³ of atmo each 10 seconds**. Keep in mind that small, room-sized modules have a volume of 30 m³, medium ones range from 50 m³ to 150 m³. Larger stations are usually divided in sections by “pressure doors” or hatches, with pressure sensors that automatically seal whatever module that is below ¾ atmo.
+
+.. admonition:: Depressurization Example
+
+   Someone was stupid enough to fire a gun inside a pressurized module (with a volume of 100m³) and puncture its hull. A 4 cm hole is punched through the thin wall. This means that the compartment will lose 10 m³ of air in the first 10 seconds. 20 seconds later, when the total air is down to 70m³ (below ¾ total), the pressure door automatically closes to avoid depressurization in the rest of the vessel. If noone patches the hole, the compartment will be fully depressurized in a total of 1 minute and 40 seconds.
+
+**Space-suits** have much less air volume circulating inside, but they also compensate by operating at much lower pressures (0.3 bar) and higher oxygen concentrations. Although most vac-suits have automated systems that increase oxygen output and sound alarms if they detect pressure loss, if the astronaut doesn’t plug or at least quickly cover the fissure, they will most likely fall unconscious in 10 seconds (see the effects *Zero Pressure* in the :hoverxref:`Effects of Pressure Loss <effectsofpressureloss>` table).
+
+Patching holes
+^^^^^^^^^^^^^^
+
+Most spacers have at hand a bunch of life-saving **Slap Patches**, which are folded circles of sticky plastic with a diameter of 15 to 30 cm. Just peel the backing away and adhere the patch to any hole. Of course, in an emergency, anything that can seal a puncture can be used. Most flat implements will be held in place by pressure alone. For longer-term solutions, soldering a plasteel slab or attaching a carbon-fiber mesh will do the trick.
+
+.. _effectsofpressureloss:
+
+.. csv-table:: Effects of Pressure Loss
+   :widths: 20, 80
+
+   "¾ of Normal Pressure", "No apparent effects other than eardrums popping. Anyone not accustomed to living/working in space will automatically lose 1 HP and do an :hoverxref:`Instinct Check <instinct-checks>`. Habitats or vessels that have pressure sensors will detect pressure loss and attempt to close hatches, if available."
+   "½ of Normal Pressure", "The air in the area is becoming hard to breathe. Anyone without a respirator or vac-suit gains the ``Hard to breathe (Mild, -1)`` Condition."
+   "¼ of Normal Pressure", "The oxygen in the volume is less than required to remain conscious. If the depressurization was abrupt, everyone exposed gains the ``Asphyxiating (Moderate, -3)`` Condition. If it took a while, everyone affected automatically falls unconscious. Additionally, characters affected will lose 5 HP per minute, and gain the ``The Bends (Moderate, -3)`` Condition, as nitrogen boils out of the blood, until *Zero Pressure* is reached."
+   "Zero Pressure", "The compartment is airless and in a vacuum. Anyone exposed begins to suffer extreme pain; huge bruises begin to form all over their bodies, their blood boils, surface capillaries begin to burst, their eardrums rupture, and their noses and ears bleed. They gain ``The Bends (Moderate, -3)`` Condition if they didn’t already have it. Additionally, each character loses 1 HP per second until dead."
+ 
+When someone is *“spaced”* (thrown out of an airlock without a vac-suit), they immediately begin to suffer the effects of **Zero Pressure**.
+
+If someone somehow survives depressurization and returns to a living environment in time, the Conditions turn into all the nasty consequences they suffered (bruising, burns, hemorrhage, deafness, etc), which take months and special treatment to recover from.
 
 Radiation
 ---------

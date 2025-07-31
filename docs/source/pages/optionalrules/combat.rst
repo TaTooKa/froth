@@ -56,7 +56,9 @@ Instinct Checks
 
    art © `Geoffroy Thoorens <https://www.artstation.com/djahal>`_
 
-**Instinct Checks** are triggered in situations of extreme fear or pain, or life-threatening damage or danger. The result dictates if you can maintain your composure or are forced to act in a certain way. Roll and add any modifiers (skills/items/abilities/etc) that would help keeping your cool in the specific situation:
+**Instinct Checks** are triggered in situations of extreme fear or pain, or life-threatening damage or danger. The result dictates if you can maintain your composure or are forced to act in a certain way. Roll and add any modifiers (skills/items/abilities/etc) that would help keeping your cool in the specific situation, vs a :hoverxref:`Difficulty Level <difficulty>` according to the gravity of the context [#]_:
+
+.. [#] The GM defines the Difficulty Level based on the fictional context, without taking into account the affected character (they will use their own modifiers for the dice roll, that represent their tolerance or instinctual abilities). The GM can increase the Difficulty Level for subsequent Instinct Checks if they deem the situation being increasingly more dire.
 
 .. csv-table:: Instinct Check Results
  :widths: 20, 80

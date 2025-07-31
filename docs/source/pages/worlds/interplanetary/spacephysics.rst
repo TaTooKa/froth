@@ -260,13 +260,25 @@ Players must tally each specific amount of Sv their characters gain. They will a
    :widths: 20, 80
 
    "0 ~ 500 mSv", "None ― somewhat safe radiation levels"
-   "500 mSv ~ 1 Sv", "Gain the ``Cell Mutations (permanent, -0)`` Condition. It only affects your offspring, increasing their chance of genetic disorders. If received in a **short time span**, also gain the ``Mild Nausea (-1)`` Condition."
+   "500 mSv ~ 1 Sv", "Gain the ``Cell Mutations (permanent, -0)`` Condition. It only affects your offspring, increasing their chance of genetic disorders. 
+   
+   If received in a **short time span**, also gain the ``Mild Nausea (-1)`` Condition."
    "1 Sv", "Gain the ``Minor Cancer (permanent, -0)`` Condition. It’s early stage and can be treated by simple treatments (usually taking anti-cancer pills keeps it at bay). If received in a **short time span**, also gain the ``Vomiting (Moderate, -3)`` Condition."
-   "2 Sv", "Gain the ``Cataracts (Moderate, -3)`` Condition. You will gradually become blind, unless corrected via simple surgery. If received in a **short time span**, also gain ``Fever and Headaches (Moderate, -3)``."
-   "3 Sv", "Gain the ``Infertility Disorder (permanent, -0)`` Condition. Your chances of conception are reduced to 30%. If female, chances of spontaneous abortion are severely increased. If received in a **short time span**, also gain the ``Hair loss (permanent, -0)`` Condition."
-   "4 Sv", "Gain the ``Moderate Cancer (permanent, -0)`` Condition. Fortunately, medical science has advanced a lot, and these types of cancers are easily kept at bay with a monthly treatment session. You can mostly continue living a normal life if you maintain your medical schedule. If received in a **short time span**, also gain ``Bloody Vomits (Severe, -5)``."
-   "5 Sv", "Gain the ``Sterile (permanent, -0)`` Condition. Your chances of conception are nil, and there is no known treatment at this level of radiation poisoning. If received in a **short time span**, also gain ``Internal Bleeding (Severe, -5)``."
-   "6+ Sv", "Gain the ``Severe Cancer (permanent, -0)`` Condition. Even if caught at an early stage, this type of cancer requires regular weekly treatment sessions to avoid death. It might go into remission for a period of 6 months before inevitably coming back. If untreated, the character dies in 6 months. If received in a **short time span**, also gain ``Skin Blistering (Severe, -5)``."
+   "2 Sv", "Gain the ``Cataracts (Moderate, -3)`` Condition. You will gradually become blind, unless corrected via simple surgery. 
+   
+   If received in a **short time span**, also gain ``Fever and Headaches (Moderate, -3)``."
+   "3 Sv", "Gain the ``Infertility Disorder (permanent, -0)`` Condition. Your chances of conception are reduced to 30%. If female, chances of spontaneous abortion are severely increased. 
+   
+   If received in a **short time span**, also gain the ``Hair loss (permanent, -0)`` Condition."
+   "4 Sv", "Gain the ``Moderate Cancer (permanent, -0)`` Condition. Fortunately, medical science has advanced a lot, and these types of cancers are easily kept at bay with a monthly treatment session. You can mostly continue living a normal life if you maintain your medical schedule. 
+   
+   If received in a **short time span**, also gain ``Bloody Vomits (Severe, -5)``."
+   "5 Sv", "Gain the ``Sterile (permanent, -0)`` Condition. Your chances of conception are nil, and there is no known treatment at this level of radiation poisoning. 
+
+   If received in a **short time span**, also gain ``Internal Bleeding (Severe, -5)``."
+   "6+ Sv", "Gain the ``Severe Cancer (permanent, -0)`` Condition. Even if caught at an early stage, this type of cancer requires regular weekly treatment sessions to avoid death. It might go into remission for a period of 6 months before inevitably coming back. If untreated, the character dies in 6 months. 
+   
+   If received in a **short time span**, also gain ``Skin Blistering (Severe, -5)``."
 
 Temperature
 -----------

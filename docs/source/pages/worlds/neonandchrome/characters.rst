@@ -278,27 +278,27 @@ Archetype
 Your Archetype defines your starting skills and what role you fulfill in a group of runners. Choose one:
 
 ▸ The **Tech Wiz** is a master hacker, pro netrunner and specialist in all sorts of electronics and technology.
-Expert at *Hacking*, Skilled at *Electronics*, *Security*.
+``Hacking Expert (+3)``, ``Electronics Adept (+1)``, ``Security Adept (+1)``.
 
 ▸ The **Drone Jock** is an ace pilot, gearhead and puppeteer of flying drones and other vehicles.
-Expert at *Piloting*, Skilled at *Electronics* and *Mechanics*.
+``Piloting Expert (+3)``, ``Electronics Adept (+1)``, ``Mechanics Adept (+1)``.
 
 ▸ The **Street Samurai** is a professional combatant, hardened mercenary or hired muscle.
-Expert at *Shooting*, Skilled at *Melee* and *Intimidation*.
+``Shooting Expert (+3)``, ``Melee Adept (+1)``, ``Intimidation Adept (+1)``.
 
 ▸ The **Cyber Ninja** is the ultimate spy, a master of infiltration and covert ops, or an invisible assassin.
-Expert at *Stealth*, Skilled at *Melee*, *Climbing*.
+``Stealth Expert (+3)``, ``Melee Adept (+1)``, ``Climbing Adept (+1)``.
 
 ▸ The **Rebel Face** is the voice of revolution, an influencer that calls to action or a rockstar turned into freedom fighter.
-Expert at *Persuasion*, Skilled at *Connections*, *Deception*.
+``Persuasion Expert (+3)``, ``Connections Adept (+1)``, ``Deception Adept (+1)``.
 
 ▸ The **Hardboiled Sleuth** is an ex-cop turned gumshoe, an investigative journalist or an avenging vigilante.
-Expert at *Reading People*, Skilled at *Tracking*, *Intimidation*.
+``Reading People Expert (+3)``, ``Tracking Adept (+1)``, ``Intimidation Adept (+1)``.
 
 Etiquette
 ~~~~~~~~~
 
-Get an etiquette-related skill depending on your Lifepath’s **Family Background** and **Childhood Environment**:
+Get an etiquette-related skill (at *Adept* (+1) level) depending on your Lifepath’s **Family Background** and **Childhood Environment**:
 
 +----------------------+------------------+
 | **Background**       | **Skill gained** |
@@ -314,7 +314,7 @@ Get an etiquette-related skill depending on your Lifepath’s **Family Backgroun
 Other Skills
 ~~~~~~~~~~~~
 
-Also pick another 3 skills of your choice.
+Also pick another 3 skills at Adept (+1) level.
 
 +--------------+-----------------+
 | Academics    | Melee           |

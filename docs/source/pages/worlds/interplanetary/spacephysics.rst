@@ -185,7 +185,7 @@ Regular pressure used in most space habitats is 1 bar. Pressure loss can occur a
 
 .. epigraph:: Depressurization Example
 
-   Someone was stupid enough to fire a gun inside a pressurized module (with a volume of 100m³) and puncture its hull. A 4 cm hole is punched through the thin wall. This means that the compartment will lose 10 m³ of air in the first 10 seconds. 20 seconds later, when the total air is down to 70m³ (below ¾ total), the pressure door automatically closes to avoid depressurization in the rest of the vessel. If noone patches the hole, the compartment will be fully depressurized in a total of 1 minute and 40 seconds.
+   *Someone was stupid enough to fire a gun inside a pressurized module (with a volume of 100m³) and puncture its hull. A 4 cm hole is punched through the thin wall. This means that the compartment will lose 10 m³ of air in the first 10 seconds. 20 seconds later, when the total air is down to 70m³ (below ¾ total), the pressure door automatically closes to avoid depressurization in the rest of the vessel. If noone patches the hole, the compartment will be fully depressurized in a total of 1 minute and 40 seconds.*
 
 **Space-suits** have much less air volume circulating inside, but they also compensate by operating at much lower pressures (0.3 bar) and higher oxygen concentrations. Although most vac-suits have automated systems that increase oxygen output and sound alarms if they detect pressure loss, if the astronaut doesn’t plug or at least quickly cover the fissure, they will most likely fall unconscious in 10 seconds (see the effects of *Zero Pressure* in the :hoverxref:`Effects of Pressure Loss <effectsofpressureloss>` table).
 

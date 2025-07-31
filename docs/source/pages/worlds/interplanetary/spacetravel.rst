@@ -262,79 +262,79 @@ Choose the amount of Gs of acceleration you want to burn at, and check how much 
      - | 
        | 〰
        |
-     - | 
-       | 
-       | 
-     - | 
-       | 
-       | 
-     - | 
-       | 
-       | 
-     - | 
-       | 
-       | 
+     - | 156.4 h 
+       | (6.5 days)
+       | Δv 552.5 km/s
+     - | 288.6 h
+       | (12.0 days)
+       | Δv 1.0 Mm/s
+     - | 444.6 h
+       | (18.5 days)
+       | Δv 1.6 Mm/s
+     - | 634.0 h
+       | (26.4 days) 
+       | Δv 2.2 Mm/s
    * - MARS SYSTEM
-     - | 
-       | 
-       | 
+     - | 156.4 h 
+       | (6.5 days)
+       | Δv 552.5 km/s
      - | 
        | 〰
        | 
-     - | 
-       | 
-       | 
-     - | 
-       | 
-       | 
-     - | 
-       | 
-       | 
+     - | 241.6 h
+       | (10.1 days)
+       | Δv 853.2 km/s
+     - | 416.2 h
+       | (17.3 days)
+       | Δv 1.5 Mm/s 
+     - | 614.4 h
+       | (25.6 days)
+       | Δv 2.2 Mm/s
    * - ASTEROID BELT
-     - | 
-       | 
-       | 
-     - | 
-       | 
-       | 
+     - | 288.6 h
+       | (12.0 days)
+       | Δv 1.0 Mm/s
+     - | 241.6 h
+       | (10.1 days)
+       | Δv 853.2 km/s
      - | 
        | 〰
        | 
-     - | 
-       | 
-       | 
-     - | 
-       | 
-       | 
+     - | 338.9 h
+       | (14.1 days) 
+       | Δv 1.2 Mm/s
+     - | 565.3 h
+       | (23.6 days)
+       | Δv 2.0 Mm/s
    * - JOVIAN SYSTEM
-     - | 
-       | 
-       | 
-     - | 
-       | 
-       | 
-     - | 
-       | 
-       | 
+     - | 444.6 h
+       | (18.5 days)
+       | Δv 1.6 Mm/s
+     - | 416.2 h
+       | (17.3 days)
+       | Δv 1.5 Mm/s
+     - | 338.9 h
+       | (14.1 days)
+       | Δv 1.2 Mm/s
      - | 
        | 〰
        | 
-     - | 
-       | 
-       | 
+     - | 452.0 h
+       | (18.8 days)
+       | Δv 1.6 Mm/s
    * - SATURNIAN SYSTEM
-     - | 
-       | 
-       | 
-     - | 
-       | 
-       | 
-     - | 
-       | 
-       | 
-     - | 
-       | 
-       | 
+     - | 634.0 h
+       | (26.4 days)
+       | Δv 2.2 Mm/s
+     - | 614.4 h
+       | (25.6 days)
+       | Δv 2.2 Mm/s
+     - | 565.3 h
+       | (23.6 days)
+       | Δv 2.0 Mm/s
+     - | 452.0 h
+       | (18.8 days)
+       | Δv 1.6 Mm/s
      - | 
        | 〰
        | 

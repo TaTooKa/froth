@@ -3,4 +3,4 @@ Characters
 
 TODO
 
-.. figure:: /_static/images/skills-scifi.drawio.png
+.. figure:: /_static/images/skills-scifi.svg

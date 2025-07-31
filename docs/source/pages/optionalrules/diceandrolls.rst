@@ -17,6 +17,8 @@ This means that is more likely to get a result in the middle of the range, which
 When a character has many positive modifiers, the results tend to be consistent towards the upper end, meaning more successes and less surprise fumbles.
 
 
+.. _criticals:
+
 Criticals
 ~~~~~~~~~
 

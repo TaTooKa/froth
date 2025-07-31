@@ -1,5 +1,5 @@
-Combat Rules
-------------
+Combat and Damage
+-----------------
 
 Base Damage
 ===========

@@ -28,6 +28,7 @@ This website hosts **MY** FROTH systems and procedures, but anyone can create th
 
    pages/optionalrules/diceandrolls
    pages/optionalrules/combat
+   pages/optionalrules/equipment
 
 .. toctree::
    :caption: Magic Systems

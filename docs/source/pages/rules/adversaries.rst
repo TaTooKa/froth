@@ -1,3 +1,5 @@
+.. _adversaries:
+
 Adversaries
 -----------
 
@@ -27,9 +29,11 @@ A **regular** Adversary or obstacle, just like a normal character, has max HP eq
 
 A **Nemesis** is an important adversary that is harder to take down, or a notorious obstacle that takes much more effort to bypass. They have double the usual HP. For instance, a Dragon Nemesis of Level 4 would have 28 HP (2 x 14, which would be the default value for regular adversaries of 4th Level).
 
+.. _challenges:
+
 .. tip::
 
-   The GM can represent any type of challenge as an Adversary (a puzzle to solve, a chase, a social debate) by abstracting it with a Level and a type (minion/regular/nemesis) and using its HP as its duration.
+   The GM can represent any type of **challenge** as an Adversary (a puzzle to solve, a chase, a social debate) by abstracting it with a Level and a type (minion/regular/nemesis) and using its HP as its duration.
 
 Sample Adversaries
 ~~~~~~~~~~~~~~~~~~

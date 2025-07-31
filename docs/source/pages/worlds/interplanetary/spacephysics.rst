@@ -328,18 +328,15 @@ Spacers are constantly near some sort of nuclear reactor, like those powering sa
 Solar Flares and Solar Storms
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-A **Solar Flare** is a deadly wave of radioactive particles ejected into a specific direction through space from the sun’s surface. They can disrupt communications, interrupt power sources, corrode solar panels, and give you extreme doses of radiation. During a Solar Flare there are few safe places to be, such as a planet with a magnetosphere like Earth, behind lots of shielding in a space station or in a vessel’s anti-rad chamber, or underground with several meters of rock over your head. Solar Flares can be 500 Mm wide, although the average is a third of that size [#]_. 
+A **Solar Flare** is a deadly wave of radioactive particles ejected into a specific direction through space from the sun’s surface. They can disrupt communications, interrupt power sources, corrode solar panels, and give you extreme doses of radiation. During a Solar Flare there are few safe places to be, such as a planet with a magnetosphere like Earth, behind lots of shielding in a space station or in a vessel’s anti-rad chamber, or underground with several meters of rock over your head [#]_. Solar Flares can be 500 Mm wide, although the average is a third of that size [#]_. 
 
+.. [#] If behind partial cover (like not-so-thick shielding), reduce the Sv received by half.
 .. [#] for reference, Jupiter’s diameter is 140 Mm.
 
 Solar Flares are very rare, but there are warning devices all over the Solar System that can give at least two hours notice that one is building up. Most emergency channels and news outlets are very serious about distributing this information as fast as possible for spacers all over the system. **Solar Flares** usually last for 3 to 6 hours. **Solar Storms** are weaker versions that last longer (taking up to 10 days).
 
 - A character fully exposed to a **Solar Flare** will receive 5 Sv immediately, plus 5 Sv every minute.
 - For **Solar Storms**, exposure grants 500 mSv immediately and 500 mSv more each minute.
-
-.. admonition:: Partial Cover
-
-   If behind partial cover (like not-so-thick shielding), reduce these amounts by half.
 
 Temperature
 -----------

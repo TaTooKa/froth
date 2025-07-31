@@ -176,7 +176,6 @@ Pressure and Atmosphere
 
    art © `Maciej Rebisz <https://www.artstation.com/mac>`_
 
-
 For a human body to function, there’s also the need for the right pressure and atmospheric composition.
 
 What’s known as “breathable air” on Earth is usually composed of 75% Nitrogen, 24% Oxygen and other gasses. In space, the composition may vary slightly (depending on pressure, helium might be added to the mix, or oxygen levels could be increased).
@@ -240,6 +239,7 @@ Radiation
 ---------
 
 .. figure:: /_static/images/rpg-image-19.jpg
+
 
    art © `Maciej Rebisz <https://www.artstation.com/artwork/L3a5NR>`_
 

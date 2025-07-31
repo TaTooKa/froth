@@ -113,6 +113,8 @@ Distance between Planetary Systems
 
 .. csv-table:: Average distance between planetary systems in astronomical units
    :align: center
+   :header-rows: 1
+   :stub-columns: 1
 
    "","EARTH SYSTEM","MARS SYSTEM","ASTEROID BELT","JOVIAN SYSTEM","SATURNIAN SYSTEM"
    "EARTH SYSTEM","〰","0.52 AU","1.77 AU","4.2 AU","8.54 AU"

@@ -1,12 +1,12 @@
 Space Physics
 =============
 
-GRAVITY
+Gravity
 -------
 
 In space there is no gravity, unless you make it artificially by centrifugal force or thrust.
 
-ARTIFICIAL GRAVITY
+Artificial gravity
 ~~~~~~~~~~~~~~~~~~
 
 There are two methods to generate artificial gravity: **Thrust** and **Centrifugal force**.
@@ -18,14 +18,14 @@ There are two methods to generate artificial gravity: **Thrust** and **Centrifug
 
 **Centrifugal Force** is achieved by rotating the vessel or habitat around a central axis. This way, everything inside it would experience a force pushing it towards the outside boundaries (away from the center). This is the most commonly used method of artificial gravity in most space stations and even some vessels. The main drawback is the *Coriolis Effect* (a sideways motion created by the spin). The smaller the vessel (or the closer to the central axis), the more pronounced this effect is, and it can be powerful enough to cause dizziness or nausea (represented as a Condition like ``Coriolis vertigo (Mild, -1)``). This force can also cause unwanted physical side-effects, for example, throwing a ball spinward would make it fall faster, but throwing it anti-spinward would make it float for longer. Pouring water out of a kettle will cause the water to fall slightly anti-spinward, etc.
 
-ZERO GRAVITY
+Zero gravity
 ~~~~~~~~~~~~
 
 The human anatomy (specially if grown on Earth, Mars, or other gravity wells) is not made for microgravity, or Zero-G. The body slowly deteriorates and it can be fatal after 5 years if no measures are taken. This is represented mechanically by the character gaining an increasing number of stacking Conditions over time, specially after 1 year of exposure [#]_.
 
 .. [#] Due to the amount of Conditions, the character becomes unplayable. Retire it and create a new one.
 
-.. csv-table:: Extended effects of Zero-G in the human body
+.. csv-table:: Extended effects of Zero-G on the human body
    :header: "Time in Zero-G","Effect / Condition"
    :widths: 20, 80
 
@@ -45,7 +45,7 @@ The human anatomy (specially if grown on Earth, Mars, or other gravity wells) is
    "5 years","Your body completely collapses. You will imminently die of cardiac arrest, circulatory system collapse, ischemic stroke or similar causes."
 
 
-.. admonition:: LOW GRAVITY
+.. admonition:: Low gravity
 
    If exposed to gravity greater than 0 but lower than half your :hoverxref:`native gravity <nativegravity>`, the effects of Zero-G still apply, but take 4X the time to kick in.
 
@@ -84,7 +84,7 @@ These effects can be countered or postponed by doing one or more of the followin
 
  The Condition ``Zero-G discomfort (Mild, -1)`` (which is automatically gained by anyone exposed to Zero-G for the first time) also represents the awkwardness of operating in free-fall: The need to accustom oneself to use anchor points, hand-holds, tethers or thrusters; the miscalculations of your body movements and misjudgements in applied strength; the inexperience in constantly being upside down or bumping into everything; etc. Thus, having **Zero-G Experience** cancels this Condition altogether.
 
-HIGH GRAVITY
+High gravity
 ~~~~~~~~~~~~
 
 Just like low or zero gravity is detrimental to human health in the long term, so is high gravity exposure… It just affects you much, much faster.
@@ -92,4 +92,50 @@ Just like low or zero gravity is detrimental to human health in the long term, s
 There are not many places in the Solar System with High Gravity (or where other factors won’t kill you first). The only realistic way to expose oneself to High-Gs is to be in a vessel that is constantly accelerating (long periods) or doing hard maneuvers (short bursts).
 
 Each character has a :hoverxref:`native gravity <nativegravity>` they are accustomed to (because it’s how they grew, or because of years of experience). Check on the following table to see what are the effects of High-G exposure, depending on your “native gravity”:
+
+.. csv-table:: effects of High-G on the human body
+   :header: "Exposed to High-G","Effect / Condition"
+   :widths: 20, 80
+
+   "2x your native gravity", "everything feels like it weighs double as normal (even your body, clothes, tools, etc).
+   
+   - **Short burst**: although discomforting, negligible for most people.
+   - **Long period**: Gain the ``Hindered by High-G (Moderate, -3)`` Condition, and lose 1 HP immediately and 1 HP for every hour of continuous exposure."
+   "3x your native gravity", "- **Short burst**: make a **high-G burst check**.
+   - **Long period**: Gain the ``Restrained by High-G (Severe, -5)`` Condition. Lose 2 HP immediately and 2 HP for every hour of continuous exposure."
+   "4x your native gravity", "- **Short burst**: Lose 1 HP. Make a **high-G burst check**.
+   - **Long period**: You cannot move (maybe a little bit if you make extreme effort, otherwise you are prostrate in place). Lose 3 HP immediately and 3 HP for every hour of continuous exposure."
+   "5x your native gravity", "- **Short burst**: Lose 3 HP. Make a **high-G burst check**.
+   - **Long period**: You cannot move ― you are prostrate in place and in severe pain. Lose 4 HP Immediately and 4 HP for every hour of continuous exposure."
+   "10x your native gravity, or more", "- **Short burst**: Lose 5 HP. Make a **high-G burst check**.
+   - **Long period**: You cannot move ― you are prostrate in place and in severe pain. Lose 5 HP Immediately and 5 HP for every hour of continuous exposure."
+
+High-G Burst Check
+^^^^^^^^^^^^^^^^^^
+
+Make a dice roll modified by any skill that might help you resist a burst of High-G, with a difficulty set by the amount of Gs resisted in relation to your native gravity. 
+
+For example, if exposed to *4x your native gravity*, the Level would be 4, thus the difficulty would be 10+4 = 14. 
+
+- On a **stalemate** or a **success**, you resist the effects of the High-G burst.
+- On a **failure**...:
+
+ - If the :hoverxref:`Negative Effect <effect>` is 5 or less, you lose 1 HP and gain the ``Tunnel Vision (Mild, -1)`` Condition for [Effect] minutes. 
+ - If the :hoverxref:`Negative Effect <effect>` is 6 to 10, you lose 5 HP and pass out **(G-LOC)** for [Effect/2] minutes.
+ - If the :hoverxref:`Negative Effect <effect>` is 11 or more, you lose 10 HP and gain the ``Cerebral Hypoxia (Severe, -5)`` Condition for [Effect] minutes. 
+
+**High-G exposure** can leave lasting effects in the form of more permanent Conditions (like bruising, muscle pain, or even bone fractures) at GM discretion, using the amount of HP lost or Conditions gained as a guidance. These effects can only be partially countered with these two methods:
+
+**Crash Couch**: These are specialized implements that resemble a mixture of a bean bag and a pilot seat. They are usually equipped in military vessels or spacecraft that are expected to do High-G maneuvers. They have a cushiony viscoelastic surface and an ergonomic build that softens your body from the high forces in an active fashion, with special gyroscope sensors.
+
+- While seated in a Crash Couch during High-G exposure, consider the effects suffered (both **long period** and **short burst** effects) to be one level lower in the previous tables.
+
+**G-Juice**: Pilots or passengers that expect High-G exposure can inject hypodermic needle implements in their arm or neck veins. These are connected with tubes to a G-Juice dispenser, that pours this substance into the body to mitigate the discomforts of exposure to High-G. The apparatus can be connected to an expanded health monitoring system that can check the user’s vitals and administer the G-Juice as needed.
+
+- While connected to a G-Juice dispenser during High-G exposure, ignore the effects of the Conditions gained from High-G. You still lose HP as normal.
+
+G-Juice can also be injected with a regular needle from a standard vial, but the dose tends to be minimal, and its effect can last 10~30 minutes tops.
+
+Alternatively, if on a true gravity well, a person accustomed to a very low gravity (that is suffering from the higher gravity of the planet or moon they are on) can be submitted to a water-tank treatment. They are placed in a literal tank of water or similar liquid, with a respirator and/or a wetsuit. Floating in that liquid will mitigate considerably the effects of High-G exposure for them (in game terms, they ignore the effects of High-G while they are inside the tank).
+ 
 

@@ -145,6 +145,8 @@ Communication Delay between Planetary Systems
 Travel Times and DeltaV Costs
 -----------------------------
 
+Choose the amount of Gs of acceleration you want to burn at, and check how much time it will take to traverse between Planetary Systems and at what Δv cost.
+
 0.01g of Acceleration
 ~~~~~~~~~~~~~~~~~~~~~
 
@@ -240,3 +242,100 @@ Travel Times and DeltaV Costs
      - | 
        | 〰
        | 
+
+0.1g of Acceleration
+~~~~~~~~~~~~~~~~~~~~~
+
+.. list-table:: Average Travel Time and Δv Cost between planetary systems at 0.1G
+   :align: center
+   :header-rows: 1
+   :stub-columns: 1
+   :widths: 10, 18, 18, 18, 18, 18
+
+   * - 0.1g
+     - EARTH SYSTEM
+     - MARS SYSTEM
+     - ASTEROID BELT
+     - JOVIAN SYSTEM
+     - SATURNIAN SYSTEM
+   * - EARTH SYSTEM
+     - | 
+       | 〰
+       |
+     - | 
+       | 
+       | 
+     - | 
+       | 
+       | 
+     - | 
+       | 
+       | 
+     - | 
+       | 
+       | 
+   * - MARS SYSTEM
+     - | 
+       | 
+       | 
+     - | 
+       | 〰
+       | 
+     - | 
+       | 
+       | 
+     - | 
+       | 
+       | 
+     - | 
+       | 
+       | 
+   * - ASTEROID BELT
+     - | 
+       | 
+       | 
+     - | 
+       | 
+       | 
+     - | 
+       | 〰
+       | 
+     - | 
+       | 
+       | 
+     - | 
+       | 
+       | 
+   * - JOVIAN SYSTEM
+     - | 
+       | 
+       | 
+     - | 
+       | 
+       | 
+     - | 
+       | 
+       | 
+     - | 
+       | 〰
+       | 
+     - | 
+       | 
+       | 
+   * - SATURNIAN SYSTEM
+     - | 
+       | 
+       | 
+     - | 
+       | 
+       | 
+     - | 
+       | 
+       | 
+     - | 
+       | 
+       | 
+     - | 
+       | 〰
+       | 
+

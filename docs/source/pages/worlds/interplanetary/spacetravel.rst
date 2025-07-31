@@ -1,6 +1,11 @@
 Space Travel
 ============
 
+.. figure:: /_static/images/rpg-image-24.jpg
+
+   art © `Maciej Rebisz <https://www.artstation.com/mac>`_
+
+
 Traveling through space is costly, but in the 22nd century, humanity’s advancements in rocket science, nuclear fusion and material technology allow for extremely fast spacecraft and very efficient fuel. With diverse engines capable of thrust in the order of Kilo and Mega Newtons, vessels can get from planetary system to planetary system in a matter of days (instead of months or years), and/or sustain artificial gravity by maintaining constant thrust, provided the crew can afford the fuel costs.
 
 Engine types range from *Nuclear Thermal*, which uses a nuclear reactor to heat a propellant like Liquid Hydrogen or Ammonia and ejects it through the exhaust nozzle to generate thrust, to *Fusion Drives* that use Deuterium, Tritium or Trilium (₃He) for Reaction and propellant.

@@ -177,6 +177,10 @@ One of the dangers humans face when in space is oxygen deprivation. This might b
 Losing pressure
 ~~~~~~~~~~~~~~~
 
+.. figure:: /_static/images/rpg-image-22.jpg
+
+   art © `Graham Gazzard <https://www.artstation.com/artwork/nQJN96>`_
+
 Even with the right mix of gasses available, there has to be enough pressure in order to breathe. And that’s not even taking into account the myriad of problems caused to the human body in high or low pressure environments (especially if the change is abrupt!).
 
 Regular pressure used in most space habitats is 1 bar. Pressure loss can occur at the environment level or at the personal level (your vac-suit). It might happen because the habitat or vessel hull/structure was somehow punctured or exposed to vacuum. In the case of a space-suit, a gash or perforation might do it.

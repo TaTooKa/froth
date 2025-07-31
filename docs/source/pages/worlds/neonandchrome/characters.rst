@@ -1,7 +1,4 @@
-Neon and Chrome
-===============
-
-.. figure:: ../_static/images/rpg-image-13.png
+.. figure:: /_static/images/rpg-image-13.png
 
    art © `CD PROJEKT RED <https://www.cdprojektred.com>`_
 
@@ -10,15 +7,15 @@ Neon and Chrome
  *The year 20XX. MegaCorporations are more powerful than nation states. Technology is everywhere, powering the surveillance state and the consumerism machine of the inescapable technofeudalist dystopia. The billonaires and the 1-percent live like kings, while the middle class is almost extinguished. The rest are drowned in debt and poverty, under the mantra of "High Tech and Low Life". You are a cyberpunk: A societal anomaly; A glitch in the system. You fight against the megacorps and injustice while trying to survive to live another day.*
 
 Character Creation
-------------------
+==================
 
 Lifepath
-~~~~~~~~
+--------
 
 The **Lifepath** defines your character’s background, origins, aspect and personality. Follow the steps picking what you like or rolling for a randomized result.
 
 Cultural Origin
-^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~
 
 Roll d10 to get your cultural origin and pick 2 languages you know.
 
@@ -45,7 +42,7 @@ Roll d10 to get your cultural origin and pick 2 languages you know.
 +----+--------------------------------+-----------------------------------------------------------------------------------+
 
 Wardrobe Style
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Roll d12 (or d20 for greater chance at mixed styles).
 
@@ -72,7 +69,7 @@ Roll d12 (or d20 for greater chance at mixed styles).
 +-----+----------------------------------------------------------------+
 
 Hairstyle and Details
-^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~
 
 +----+--------------------------+----+----------------------+
 | d6 | Hairstyle                | d6 | Color / Decorations  |
@@ -92,7 +89,7 @@ Hairstyle and Details
 
 
 Adornments
-^^^^^^^^^^
+~~~~~~~~~~
 
 +---+------------------+----+-------------------------+
 | 1 | Tattoos          | 6  | Tongue / Face piercings |
@@ -108,7 +105,7 @@ Adornments
 
 
 Personality
-^^^^^^^^^^^
+~~~~~~~~~~~
 
 +---+--------------------------+----+--------------------------+
 | 1 | Shy / Secretive          | 6  | Stable / Serious / Stoic |
@@ -123,7 +120,7 @@ Personality
 +---+--------------------------+----+--------------------------+
 
 Mannerism
-^^^^^^^^^
+~~~~~~~~~
 
 +---+-----------------------+----+--------------------------+
 | 1 | Deep / Gravelly voice | 6  | Very loud / Laughs a lot |
@@ -138,7 +135,7 @@ Mannerism
 +---+-----------------------+----+--------------------------+
 
 Family Background
-^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 
 +---+-------------------------------------------------------------------------------------------------------------------+
 | 1 | **Urban Homeless**. Shanty towns, tent villages, dumpsters, abandoned cars and shipping containers.               |
@@ -159,7 +156,7 @@ Family Background
 +---+-------------------------------------------------------------------------------------------------------------------+
 
 Childhood Environment
-^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~
 
 Take the previous table result and add a d4. If you moved up in “class”, explain why.
 
@@ -181,7 +178,7 @@ Take the previous table result and add a d4. If you moved up in “class”, exp
 
 
 Your Crisis
-^^^^^^^^^^^
+~~~~~~~~~~~
 
 **Your Crisis** is what led you to where you are in life now.
 
@@ -201,7 +198,7 @@ Your Crisis
 
 
 Friends
-^^^^^^^
+~~~~~~~
 
 **Do you have any friends?** Roll d6, 1: No friends. 2-5: You have one friend. 6: You have two. Who are they to you?
 
@@ -220,7 +217,7 @@ Friends
 +---+-------------------------------------------------------+
 
 Enemies
-^^^^^^^
+~~~~~~~
 
 **Do you have any enemies?** Roll d6, 1: No enemies. 2-5: You have one enemy. 6: You have two. Who are they to you?
 
@@ -240,7 +237,7 @@ Enemies
 
 
 Your Tragic Love Affair
-^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~
 
 **Your Tragic Love Affair** is the one that ripped your heart out.
 
@@ -259,7 +256,7 @@ Your Tragic Love Affair
 +---+-------------------------------------------------+
 
 What You Value Most
-^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~
 
 +---+-------------+----+---------------------+
 | 1 | Money       | 7  | Vengeance           |
@@ -276,7 +273,7 @@ What You Value Most
 +---+-------------+----+---------------------+
 
 Archetype
-~~~~~~~~~
+---------
 
 Your Archetype defines your starting skills and what role you fulfill in a group of runners. Choose one:
 
@@ -299,7 +296,7 @@ Expert at *Persuasion*, Skilled at *Connections*, *Deception*.
 Expert at *Reading People*, Skilled at *Tracking*, *Intimidation*.
 
 Etiquette
-^^^^^^^^^
+~~~~~~~~~
 
 Get an etiquette-related skill depending on your Lifepath’s **Family Background** and **Childhood Environment**:
 
@@ -315,7 +312,7 @@ Get an etiquette-related skill depending on your Lifepath’s **Family Backgroun
 
 
 Other Skills
-^^^^^^^^^^^^
+~~~~~~~~~~~~
 
 Also pick another 3 skills of your choice.
 
@@ -346,7 +343,7 @@ Also pick another 3 skills of your choice.
 +--------------+-----------------+
 
 Gear
-~~~~
+----
 
 buy your gear with *CryptoBits* (฿). Everyone starts with some cheap way of accessing the Net, like a *SmartScreen* or *AR glasses*, and 8 K฿ to spend in **Gear**, **Cyberware** and **Programs**. Don’t bother tracking pocket-change transactions lower than 1 K฿, like a pack of vapes, a storage chip, a bowl of ramen, a taxi ride, etc. 
 
@@ -386,7 +383,7 @@ buy your gear with *CryptoBits* (฿). Everyone starts with some cheap way of ac
  "**Spy Drone:** +1 for your stealth/recon actions.","2 K฿"
 
 Cyberware
-~~~~~~~~~
+---------
 
 Install **Cyberware** on a *Ripperdoc* shop during Downtime, or choose what you already have during character creation.
 
@@ -419,7 +416,7 @@ Install **Cyberware** on a *Ripperdoc* shop during Downtime, or choose what you 
 
 
 Programs
-~~~~~~~~
+--------
 
 **Programs** are commands or quick hacks that anyone can run (with a *Hacking* roll) and are much faster than coding a solution in the moment. Once purchased, they are saved in your user cloud storage and are always available. 
 

@@ -395,7 +395,7 @@ buy your gear with *CryptoBits* (฿). Everyone starts with some cheap way of ac
 Cyberware
 ---------
 
-Install **Cyberware** on a *Ripperdoc* shop during Downtime, or choose what you already have during character creation.
+Install **Cyberware** on a *Ripperdoc* shop during :hoverxref:`Downtime <downtime>`, or choose what you already have during character creation.
 
 .. csv-table:: Cyberware
  :widths: 90, 10

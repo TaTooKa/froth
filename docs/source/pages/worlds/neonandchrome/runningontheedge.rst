@@ -44,9 +44,8 @@ Hacking is the process of trying to bypass electronic security systems or alteri
 
 .. csv-table:: Hacking Results
 
- "**CRITICAL FAILURE**: *Lockout* —you are kicked from the session and your position is compromised. If in “Deep mode”, gain a *Severe* Condition: “dumpshock damage”."
- "**FAILURE**. *Alert!* Choose one: you are locked out of the system OR your position is compromised. If in “Deep mode”, gain a *Moderate* Condition: “synapse scramble”."
- "**PARTIAL SUCCESS**. *Warning!* You achieve what you wanted but choose one: They are alerted of your presence and location now, OR you leave a trail that will be found later. If in “Deep mode”, gain a *Mild* Condition: “neural jolt”."
+ "**CRITICAL FAILURE**: *Alert!* Choose one: you are locked out of the system OR your position is compromised. If in “Deep mode”, gain a ``Dumpshock Damage (Moderate, -3)`` Condition."
+ "**FAILURE**. *Warning!* You achieve what you wanted but choose one: They are alerted of your presence and location now, OR you leave a trail that will be found later. If in “Deep mode”, gain a ``Neural Jolt (Mild, -1)`` Condition."
  "**SUCCESS**. You achieve what you intended to do."
  "**CRITICAL SUCCESS**. You achieve what you intended and you do it in half the time, or with increased effect."
 

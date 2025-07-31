@@ -1,6 +1,10 @@
 Combat and Damage
 -----------------
 
+.. figure:: /_static/images/rpg-image-11.jpg
+
+   art © `Aleksi Briclot <https://www.artstation.com/aleksi>`_
+
 Base Damage
 ===========
 

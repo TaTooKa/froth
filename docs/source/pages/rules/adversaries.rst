@@ -3,6 +3,10 @@
 Adversaries
 -----------
 
+.. figure:: /_static/images/rpg-image-10.jpg
+
+   art © `Wizards of the Coast <https://company.wizards.com/en>`_
+
 Adversaries (monsters, obstacles), just like characters, also have a :hoverxref:`Level <level>`, and an amount of :hoverxref:`HP <heartpoints>` that varies with that level.
 
 Adversaries can also have :hoverxref:`Bonuses or Maluses <bonusesmaluses>` that affect dice rolls or Difficulty as usual.

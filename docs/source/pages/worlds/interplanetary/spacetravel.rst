@@ -50,8 +50,25 @@ If you wish to calculate the Δv cost and transit times on your own, you can use
 
 .. epigraph:: Full Brachistochrone Transit Example
 
-*A character wants to get from the Earth system to Mars (0.52 AU) at a leisure 0.5g of acceleration. The player converts those values for the calculations into metric units and gets a distance of 7,779,089,2764m and an acceleration of 4.9 m/s². Plugging those values into the aforementioned equations solves for a Δv cost of 1,235,206 m/s (1.2M m/s) and a transit time of 251,912s (70 hours, or 2.9 days).*
+   *A character wants to get from the Earth system to Mars (0.52 AU) at a leisure 0.5g of acceleration. The player converts those values for the calculations into metric units and gets a distance of 7,779,089,2764m and an acceleration of 4.9 m/s². Plugging those values into the aforementioned equations solves for a Δv cost of 1,235,206 m/s (1.2M m/s) and a transit time of 251,912s (70 hours, or 2.9 days).*
 
 The advantages of a Full Brachistochrone are many: The crew is under stable gravity because of constant thrust, that they can set to a comfortable one and avoid all of the problems of long exposure to zero-G; Transit time is reduced, which is not only convenient for those in a hurry, but also reduces time exposure to background radiation and potential Solar Storms or Flares.
 
 The main disadvantage is one of cost (Propellants and Fusion fuel are expensive), and that even the most powerful of the available craft still have their limits, making some trips at high G prohibitive (Δv cost-wise) even at full burn (if the high-G exposure doesn’t kill the crew first!).
+
+Partial Brachistochrone Transit
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The vessel accelerates for a period of time at a constant g, then drifts in 0g for another period, then decelerates for another period at a constant g. This saves fuel (in the form of Δv) at the cost of extra time in transit.
+
+In order to calculate time and Δv cost for a Partial Brachistochrone, first decide what percentage of the trip you will be under thrust (in two segments: accelerating, then decelerating), and what percentage you will be coasting at 0g.
+
+.. math:: 
+
+   Reduced \ \Delta v \ cost = 2\sqrt{\frac{acceleration * distance * thrust\ \%}{1 - thrust\ \%}}
+
+.. math:: 
+
+   Increased \ Transit \ Time = \sqrt{\frac{distance}{acceleration * thrust\ \% * (1 - thrust\ \%)}}
+
+**Δv cost** is in m/s; **distance** is in m; **acceleration** is in m/s; **Transit time** is in s; **thrust %** is in decimal form (i.e: 30% is 0.3) for **each** thrust segment.

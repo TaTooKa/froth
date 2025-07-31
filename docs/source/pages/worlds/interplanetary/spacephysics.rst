@@ -34,9 +34,9 @@ The human anatomy (specially if grown on Earth, Mars, or other gravity wells) is
    "1 year","Bodily functions begin to collapse; You are probably blind, and are quasi-paralysed or prostrate without some sort of assistance. [#]_"
    "5 years","Your body completely collapses. You will imminently die of cardiac arrest, circulatory system collapse, ischemic stroke or similar causes."
 
- .. [#] Due to the amount of Conditions, the character becomes unplayable. Retire it and create a new one.
+.. [#] Due to the amount of Conditions, the character becomes unplayable. Retire it and create a new one.
 
- **LOW GRAVITY**: If exposed to gravity greater than 0 but lower than half your :hoverxref:`native gravity <nativegravity>`, the effects of Zero-G still apply, but take 4X the time to kick in.
+**LOW GRAVITY**: If exposed to gravity greater than 0 but lower than half your :hoverxref:`native gravity <nativegravity>`, the effects of Zero-G still apply, but take 4X the time to kick in.
 
 .. figure:: /_static/images/0G-effects.png
 

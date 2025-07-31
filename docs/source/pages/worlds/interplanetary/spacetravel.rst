@@ -140,9 +140,102 @@ Communication Delay between Planetary Systems
 
 .. warning::
 
-   This is a best-case-scenario, probably with military or government priority. Those civilians who can pay the exorbitant amounts of money to have high-priority comms could probably expect 2X or 3X these delays; most common people should probably expect 10X these figures.
+   These comm delays are at a best-case-scenario, probably with military or government priority. Those civilians who can pay the exorbitant amounts of money to have high-priority comms could probably expect 2X or 3X these delays; most common people should probably expect 10X these figures.
 
 Travel Times and DeltaV Costs
 -----------------------------
 
-TODO
+0.01g of Acceleration
+~~~~~~~~~~~~~~~~~~~~~
+
+.. list-table:: Average Travel Time and Δv Cost between planetary systems at 0.01G
+   :align: center
+   :header-rows: 1
+   :stub-columns: 1
+
+   * - 0.01g
+     - EARTH SYSTEM
+     - MARS SYSTEM
+     - ASTEROID BELT
+     - JOVIAN SYSTEM
+     - SATURNIAN SYSTEM
+   * - EARTH SYSTEM
+     - | 
+       | 〰
+       |
+     - | 494.7 h
+       | (20.6 days)
+       | Δv 174.7 km/s
+     - | 912.7 h
+       | (38.0 days)
+       | Δv 322.3 km/s
+     - | 1406.0 h
+       | (58.6 days)
+       | Δv 496.5 km/s
+     - | 2004.9 h
+       | (83.5 days)
+       | Δv 708.0 km/s
+   * - MARS SYSTEM
+     - | 494.7 h
+       | (20.6 days)
+       | Δv 174.7 km/s
+     - | 
+       | 〰
+       | 
+     - | 764.0 h
+       | (31.8 days)
+       | Δv 269.8 km/s
+     - | 1316.1 h 
+       | (54.8 days)
+       | Δv 464.8 km/s
+     - | 1942.9 h 
+       | (81.0 days)
+       | Δv 686.1 km/s
+   * - ASTEROID BELT
+     - | 912.7 h
+       | (38.0 days)
+       | Δv 322.3 km/s
+     - | 764.0 h
+       | (31.8 days)
+       | Δv 269.8 km/s
+     - | 
+       | 〰
+       | 
+     - | 1071.7 h 
+       | (44.7 days)
+       | Δv 378.5 km/s
+     - | 1787.7 h
+       | (74.5 days)
+       | Δv 631.3 km/s
+   * - JOVIAN SYSTEM
+     - | 1406.0 h
+       | (58.6 days)
+       | Δv 496.5 km/s
+     - | 1316.1 h 
+       | (54.8 days)
+       | Δv 464.8 km/s
+     - | 1071.7 h 
+       | (44.7 days)
+       | Δv 378.5 km/s
+     - | 
+       | 〰
+       | 
+     - | 1429.2 h
+       | (59.6 days)
+       | Δv 504.7 km/s
+   * - SATURNIAN SYSTEM
+     - | 2004.9 h
+       | (83.5 days)
+       | Δv 708.0 km/s
+     - | 1942.9 h 
+       | (81.0 days)
+       | Δv 686.1 km/s
+     - | 1787.7 h
+       | (74.5 days)
+       | Δv 631.3 km/s
+     - | 1429.2 h
+       | (59.6 days)
+       | Δv 504.7 km/s
+     - | 
+       | 〰
+       | 

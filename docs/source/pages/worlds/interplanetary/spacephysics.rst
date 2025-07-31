@@ -183,7 +183,7 @@ Regular pressure used in most space habitats is 1 bar. Pressure loss can occur a
 
 **For every 2 cm of hole, you will lose 10 m³ of atmo each 10 seconds**. Keep in mind that small, room-sized modules have a volume of 30 m³, medium ones range from 50 m³ to 150 m³. Larger stations are usually divided in sections by “pressure doors” or hatches, with pressure sensors that automatically seal whatever module that is below ¾ atmo.
 
-.. admonition:: Depressurization Example
+.. epigraph:: Depressurization Example
 
    Someone was stupid enough to fire a gun inside a pressurized module (with a volume of 100m³) and puncture its hull. A 4 cm hole is punched through the thin wall. This means that the compartment will lose 10 m³ of air in the first 10 seconds. 20 seconds later, when the total air is down to 70m³ (below ¾ total), the pressure door automatically closes to avoid depressurization in the rest of the vessel. If noone patches the hole, the compartment will be fully depressurized in a total of 1 minute and 40 seconds.
 

@@ -45,7 +45,9 @@ The human anatomy (specially if grown on Earth, Mars, or other gravity wells) is
    "5 years","Your body completely collapses. You will imminently die of cardiac arrest, circulatory system collapse, ischemic stroke or similar causes."
 
 
-**LOW GRAVITY**: If exposed to gravity greater than 0 but lower than half your :hoverxref:`native gravity <nativegravity>`, the effects of Zero-G still apply, but take 4X the time to kick in.
+.. admonition:: LOW GRAVITY
+
+   If exposed to gravity greater than 0 but lower than half your :hoverxref:`native gravity <nativegravity>`, the effects of Zero-G still apply, but take 4X the time to kick in.
 
 .. figure:: /_static/images/0G-effects.png
 
@@ -81,4 +83,13 @@ These effects can be countered or postponed by doing one or more of the followin
 .. tip::
 
  The Condition ``Zero-G discomfort (Mild, -1)`` (which is automatically gained by anyone exposed to Zero-G for the first time) also represents the awkwardness of operating in free-fall: The need to accustom oneself to use anchor points, hand-holds, tethers or thrusters; the miscalculations of your body movements and misjudgements in applied strength; the inexperience in constantly being upside down or bumping into everything; etc. Thus, having **Zero-G Experience** cancels this Condition altogether.
+
+HIGH GRAVITY
+~~~~~~~~~~~~
+
+Just like low or zero gravity is detrimental to human health in the long term, so is high gravity exposure… It just affects you much, much faster.
+
+There are not many places in the Solar System with High Gravity (or where other factors won’t kill you first). The only realistic way to expose oneself to High-Gs is to be in a vessel that is constantly accelerating (long periods) or doing hard maneuvers (short bursts).
+
+Each character has a :hoverxref:`native gravity <nativegravity>` they are accustomed to (because it’s how they grew, or because of years of experience). Check on the following table to see what are the effects of High-G exposure, depending on your “native gravity”:
 

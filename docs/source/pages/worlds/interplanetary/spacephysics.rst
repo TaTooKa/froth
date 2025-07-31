@@ -187,7 +187,7 @@ Regular pressure used in most space habitats is 1 bar. Pressure loss can occur a
 
    Someone was stupid enough to fire a gun inside a pressurized module (with a volume of 100m³) and puncture its hull. A 4 cm hole is punched through the thin wall. This means that the compartment will lose 10 m³ of air in the first 10 seconds. 20 seconds later, when the total air is down to 70m³ (below ¾ total), the pressure door automatically closes to avoid depressurization in the rest of the vessel. If noone patches the hole, the compartment will be fully depressurized in a total of 1 minute and 40 seconds.
 
-**Space-suits** have much less air volume circulating inside, but they also compensate by operating at much lower pressures (0.3 bar) and higher oxygen concentrations. Although most vac-suits have automated systems that increase oxygen output and sound alarms if they detect pressure loss, if the astronaut doesn’t plug or at least quickly cover the fissure, they will most likely fall unconscious in 10 seconds (see the effects *Zero Pressure* in the :hoverxref:`Effects of Pressure Loss <effectsofpressureloss>` table).
+**Space-suits** have much less air volume circulating inside, but they also compensate by operating at much lower pressures (0.3 bar) and higher oxygen concentrations. Although most vac-suits have automated systems that increase oxygen output and sound alarms if they detect pressure loss, if the astronaut doesn’t plug or at least quickly cover the fissure, they will most likely fall unconscious in 10 seconds (see the effects of *Zero Pressure* in the :hoverxref:`Effects of Pressure Loss <effectsofpressureloss>` table).
 
 Patching holes
 ^^^^^^^^^^^^^^
@@ -196,17 +196,19 @@ Most spacers have at hand a bunch of life-saving **Slap Patches**, which are fol
 
 .. _effectsofpressureloss:
 
-.. csv-table:: Effects of Pressure Loss
-   :widths: 20, 80
+.. container:: effectsofpressureloss
 
-   "¾ of Normal Pressure", "No apparent effects other than eardrums popping. Anyone not accustomed to living/working in space will automatically lose 1 HP and do an :hoverxref:`Instinct Check <instinct-checks>`. Habitats or vessels that have pressure sensors will detect pressure loss and attempt to close hatches, if available."
-   "½ of Normal Pressure", "The air in the area is becoming hard to breathe. Anyone without a respirator or vac-suit gains the ``Hard to breathe (Mild, -1)`` Condition."
-   "¼ of Normal Pressure", "The oxygen in the volume is less than required to remain conscious. If the depressurization was abrupt, everyone exposed gains the ``Asphyxiating (Moderate, -3)`` Condition. If it took a while, everyone affected automatically falls unconscious. Additionally, characters affected will lose 5 HP per minute, and gain the ``The Bends (Moderate, -3)`` Condition, as nitrogen boils out of the blood, until *Zero Pressure* is reached."
-   "Zero Pressure", "The compartment is airless and in a vacuum. Anyone exposed begins to suffer extreme pain; huge bruises begin to form all over their bodies, their blood boils, surface capillaries begin to burst, their eardrums rupture, and their noses and ears bleed. They gain ``The Bends (Moderate, -3)`` Condition if they didn’t already have it. Additionally, each character loses 1 HP per second until dead."
- 
-When someone is *“spaced”* (thrown out of an airlock without a vac-suit), they immediately begin to suffer the effects of **Zero Pressure**.
+   .. csv-table:: Effects of Pressure Loss
+      :widths: 20, 80
 
-If someone somehow survives depressurization and returns to a living environment in time, the Conditions turn into all the nasty consequences they suffered (bruising, burns, hemorrhage, deafness, etc), which take months and special treatment to recover from.
+      "¾ of Normal Pressure", "No apparent effects other than eardrums popping. Anyone not accustomed to living/working in space will automatically lose 1 HP and do an :hoverxref:`Instinct Check <instinct-checks>`. Habitats or vessels that have pressure sensors will detect pressure loss and attempt to close hatches, if available."
+      "½ of Normal Pressure", "The air in the area is becoming hard to breathe. Anyone without a respirator or vac-suit gains the ``Hard to breathe (Mild, -1)`` Condition."
+      "¼ of Normal Pressure", "The oxygen in the volume is less than required to remain conscious. If the depressurization was abrupt, everyone exposed gains the ``Asphyxiating (Moderate, -3)`` Condition. If it took a while, everyone affected automatically falls unconscious. Additionally, characters affected will lose 5 HP per minute, and gain the ``The Bends (Moderate, -3)`` Condition, as nitrogen boils out of the blood, until *Zero Pressure* is reached."
+      "Zero Pressure", "The compartment is airless and in a vacuum. Anyone exposed begins to suffer extreme pain; huge bruises begin to form all over their bodies, their blood boils, surface capillaries begin to burst, their eardrums rupture, and their noses and ears bleed. They gain ``The Bends (Moderate, -3)`` Condition if they didn’t already have it. Additionally, each character loses 1 HP per second until dead."
+    
+   When someone is *“spaced”* (thrown out of an airlock without a vac-suit), they immediately begin to suffer the effects of **Zero Pressure**.
+
+   If someone somehow survives depressurization and returns to a living environment in time, the Conditions turn into all the nasty consequences they suffered (bruising, burns, hemorrhage, deafness, etc), which take months and special treatment to recover from.
 
 Radiation
 ---------

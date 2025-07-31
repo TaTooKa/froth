@@ -24,18 +24,21 @@ ZERO GRAVITY
 The human anatomy (specially if grown on Earth, Mars, or other gravity wells) is not made for microgravity, or Zero-G. The body slowly deteriorates and it can be fatal after 5 years if no measures are taken. This is represented mechanically by the character gaining an increasing number of stacking Conditions over time.
 
 .. csv-table:: Extended effects of Zero-G in the human body
- :widths: 20, 80
+   :header: "Time in Zero-G","Effect / Condition"
+   :widths: 20, 80
 
- "**Time in Zero-G**","**Effect / Condition**"
- "instant","Fluids pool in the chest and face, making you puffy and uncomfortable. Gain ``Zero-G discomfort (Mild, -1)``"
- "1 week","Lower blood pressure and loss of potassium and liquids. Gain ``Zero-G dehydration (Mild, -1)``"
- "1 month","Muscle atrophy and reduced body mass. Gain ``Zero-G atrophy (Moderate, -3)``"
- "3 months","Bones begin to lose calcium, becoming weak and brittle. Gain ``Spaceflight osteopenia (Severe, -5)``"
- "1 year","Bodily functions begin to collapse; You are probably blind, and are quasi-paralysed or prostrate without some sort of assistance. [#]_"
- "5 years","Your body completely collapses. You will imminently die of cardiac arrest, circulatory system collapse, ischemic stroke or similar causes."
+   "instant","Fluids pool in the chest and face, making you puffy and uncomfortable. Gain ``Zero-G discomfort (Mild, -1)``"
+   "1 week","Lower blood pressure and loss of potassium and liquids. Gain ``Zero-G dehydration (Mild, -1)``"
+   "1 month","Muscle atrophy and reduced body mass. Gain ``Zero-G atrophy (Moderate, -3)``"
+   "3 months","Bones begin to lose calcium, becoming weak and brittle. Gain ``Spaceflight osteopenia (Severe, -5)``"
+   "1 year","Bodily functions begin to collapse; You are probably blind, and are quasi-paralysed or prostrate without some sort of assistance. [#]_"
+   "5 years","Your body completely collapses. You will imminently die of cardiac arrest, circulatory system collapse, ischemic stroke or similar causes."
 
  .. [#] Due to the amount of Conditions, the character becomes unplayable. Retire it and create a new one.
 
  **LOW GRAVITY**: If exposed to gravity greater than 0 but lower than half your :hoverxref:`native gravity <nativegravity>`, the effects of Zero-G still apply, but take 4X the time to kick in.
 
 .. figure:: /_static/images/0G-effects.png
+
+These effects can be countered or postponed by doing one or more of the following:
+

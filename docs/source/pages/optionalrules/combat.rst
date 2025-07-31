@@ -50,7 +50,7 @@ Place a d20 inside an opaque cup, shake it and place it face down on the table, 
 .. _instinct-checks:
 
 Instinct Checks
----------------
+===============
 
 .. figure:: /_static/images/rpg-image-15.jpg
 

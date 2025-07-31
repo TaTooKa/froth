@@ -138,3 +138,27 @@ Make a dice roll modified by any skill that might help you resist a burst of Hig
 
 Alternatively, if on a true gravity well, a person accustomed to a very low gravity (that is suffering from the higher gravity of the planet or moon they are on) can be submitted to a water-tank treatment. They are placed in a literal tank of water or similar liquid, with a respirator and/or a wetsuit. Floating in that liquid will mitigate considerably the effects of High-G exposure for them (in game terms, they ignore the effects of High-G while they are inside the tank).
  
+Pressure and Atmosphere
+-----------------------
+
+TODO
+
+Running out of oxygen
+~~~~~~~~~~~~~~~~~~~~~
+
+TODO
+
+Losing pressure
+~~~~~~~~~~~~~~~
+
+TODO
+
+Radiation
+---------
+
+TODO
+
+Temperature
+-----------
+
+TODO

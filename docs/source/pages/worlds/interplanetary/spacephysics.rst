@@ -174,7 +174,7 @@ Pressure and Atmosphere
 
 .. figure:: /_static/images/rpg-image-18.jpg
 
-   art © `Maciej Rebisz <https://www.artstation.com/mac>`_
+   art © `Maciej Rebisz <https://www.artstation.com/artwork/8BW5DE>`_
 
 For a human body to function, there’s also the need for the right pressure and atmospheric composition.
 

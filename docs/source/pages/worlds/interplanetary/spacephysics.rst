@@ -155,17 +155,19 @@ High-G Burst Check
 
 **High-G exposure** can leave lasting effects in the form of more permanent Conditions (like bruising, muscle pain, or even bone fractures) at GM discretion, using the amount of HP lost or Conditions gained as a guidance. These effects can only be partially countered with these two methods:
 
-**Crash Couch**: These are specialized implements that resemble a mixture of a bean bag and a pilot seat. They are usually equipped in military vessels or spacecraft that are expected to do High-G maneuvers. They have a cushiony viscoelastic surface and an ergonomic build that softens your body from the high forces in an active fashion, with special gyroscope sensors.
+- **Crash Couch**: These are specialized implements that resemble a mixture of a bean bag and a pilot seat. They are usually equipped in military vessels or spacecraft that are expected to do High-G maneuvers. They have a cushiony viscoelastic surface and an ergonomic build that softens your body from the high forces in an active fashion, with special gyroscope sensors.
 
-- While seated in a Crash Couch during High-G exposure, consider the effects suffered (both **long period** and **short burst** effects) to be one level lower in the previous table.
+  - While seated in a Crash Couch during High-G exposure, consider the effects suffered (both **long period** and **short burst** effects) to be one level lower in the previous table.
 
-**G-Juice**: Pilots or passengers that expect High-G exposure can inject hypodermic needle implements in their arm or neck veins. These are connected with tubes to a G-Juice dispenser [#]_, that pours this substance into the body to mitigate the discomforts of exposure to High-G. The apparatus can be connected to an expanded health monitoring system that can check the user’s vitals and administer the G-Juice as needed.
+- **G-Juice**: Pilots or passengers that expect High-G exposure can inject hypodermic needle implements in their arm or neck veins. These are connected with tubes to a G-Juice dispenser [#]_, that pours this substance into the body to mitigate the discomforts of exposure to High-G. The apparatus can be connected to an expanded health monitoring system that can check the user’s vitals and administer the G-Juice as needed.
+
+  - While connected to a G-Juice dispenser during High-G exposure, ignore the effects of the Conditions gained from High-G. You still lose HP as normal.
 
 .. [#] G-Juice can also be injected with a regular needle from a standard vial, but the dose tends to be minimal, and its effect can last 10~30 minutes tops.
 
-- While connected to a G-Juice dispenser during High-G exposure, ignore the effects of the Conditions gained from High-G. You still lose HP as normal.
+.. admonition:: Water-Tank Treatment
 
-Alternatively, if on a true gravity well, a person accustomed to a very low gravity (that is suffering from the higher gravity of the planet or moon they are on) can be submitted to a water-tank treatment. They are placed in a literal tank of water or similar liquid, with a respirator and/or a wetsuit. Floating in that liquid will mitigate considerably the effects of High-G exposure for them (in game terms, they ignore the effects of High-G while they are inside the tank).
+   Alternatively, if on a true gravity well, a person accustomed to a very low gravity (that is suffering from the higher gravity of the planet or moon they are on) can be submitted to a water-tank treatment. They are placed in a literal tank of water or similar liquid, with a respirator and/or a wetsuit. Floating in that liquid will mitigate considerably the effects of High-G exposure for them (in game terms, they ignore the effects of High-G while they are inside the tank).
  
 Pressure and Atmosphere
 -----------------------

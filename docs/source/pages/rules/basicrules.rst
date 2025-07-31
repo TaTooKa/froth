@@ -28,13 +28,15 @@ Roll **d20** + Your :hoverxref:`Level <level>` ± :hoverxref:`modifiers <bonuses
 
 .. _difficulty:
 
-**Difficulty** = **10** + **Level** of obstacle / adversary / situation, ± :hoverxref:`modifiers <bonusesmaluses>`.
+.. container:: difficulty
 
-+------------+-----+--------+------+---------+
-|    Level   | 1-3 |   4-6  |  7-9 |   10+   |
-+============+=====+========+======+=========+
-| Difficulty | Low | Medium | Hard | Extreme |
-+------------+-----+--------+------+---------+
+   **Difficulty** = **10** + **Level** of obstacle / adversary / situation, ± :hoverxref:`modifiers <bonusesmaluses>`.
+
+   +------------+-----+--------+------+---------+
+   |    Level   | 1-3 |   4-6  |  7-9 |   10+   |
+   +============+=====+========+======+=========+
+   | Difficulty | Low | Medium | Hard | Extreme |
+   +------------+-----+--------+------+---------+
 
 Positive and Negative Effect
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~

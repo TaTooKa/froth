@@ -6,7 +6,7 @@ What's expected of both Players and GM to play **FROTH** as intended.
 Player Principles
 -----------------
 
-.. figure:: ../_static/images/rpg-image-6.jpg
+.. figure:: /_static/images/rpg-image-6.jpg
    :align: center
 
    art © `Ilya Komarov <https://www.artstation.com/delowar>`_
@@ -73,7 +73,7 @@ detrimental to their plans.
 Game Master Principles
 ----------------------
 
-.. figure:: ../_static/images/rpg-image-7.jpg
+.. figure:: /_static/images/rpg-image-7.jpg
    :align: center
 
    art © `Alex Horley <https://www.deviantart.com/alexhorley/art/ThePortal-564408467>`_
@@ -85,7 +85,7 @@ unnecessary things; just follow the internal logic of the
 world, and your gut, using the basic rules provided by
 this game.
 
-**Either failure/partial/success should move the story
+**Either failure or success should move the story
 forward.** Don’t fall into the trap of “nothing happens”
 after a roll. Make it count. Make it change the state of
 the narrative one way or another. If necessary, wrap

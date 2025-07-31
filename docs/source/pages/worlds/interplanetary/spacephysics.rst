@@ -415,7 +415,7 @@ Effects of temperature on the body
 
 This table represents the effects of different temperatures on the human body and its consequences in game terms, assuming that the person is not properly protected/shielded.
 
-.. csv-table:: Heat Management
+.. csv-table:: Temperature Effects in the Human Body
    :widths: 20, 80
 
    "**Environmental Temperature**", "**Effects in the body** for *short exposure* (a few seconds up to a minute) or *long exposure* (a few minutes or more)."

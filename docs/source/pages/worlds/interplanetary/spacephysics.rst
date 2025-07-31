@@ -174,7 +174,7 @@ Pressure and Atmosphere
 
 .. figure:: /_static/images/rpg-image-18.jpg
 
-   art © `Maciej R <https://mac.artstation.com/>`_
+   art © `Maciej Rebisz <https://mac.artstation.com/>`_
 
 For a human body to function, there’s also the need for the right pressure and atmospheric composition.
 
@@ -240,8 +240,7 @@ Radiation
 
 .. figure:: /_static/images/rpg-image-19.jpg
 
-
-   art © `Maciej Rebisz <https://www.artstation.com/artwork/L3a5NR>`_
+   art © `Maciej Rebisz <https://mac.artstation.com/>`_
 
 Radiation consists of invisible, tiny atomic particles which break havoc when passing through the human body. Radiation damages DNA inside cells, giving rise to cancer in the body or even killing it in a nasty way.
 

@@ -280,6 +280,34 @@ Players must tally each specific amount of Sv their characters gain. They will a
    
    If received in a **short time span**, also gain ``Skin Blistering (Severe, -5)``."
 
+Sources of Radiation
+~~~~~~~~~~~~~~~~~~~~
+
+The 3 major sources of Radiation in space (or anywhere without a strong magnetosphere) are:
+
+- Cosmic and background radiation
+- Nuclear power plants and fusion drives
+- Solar flares and solar storms
+
+Cosmic and Background Radiation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Cosmic rays are clusters of high-energy particles that move through space at nearly the speed of light. They originate from the Sun, from outside of the Solar System in our own galaxy, and from distant galaxies. They are basically everywhere, like a constant invisible shower that you expose to whenever you are not in an underground or heavily-reinforced habitat.
+
+Since Background Radiation is only dangerous if accumulated over long periods of time, GM and players should not concern themselves with immediate effects, but consult the following table for long-term exposure [#]_, and then apply the effects when a notorious amount of Sieverts is acquired:
+
+.. [#] This means the total exposure time of a spacer during their life or career. If the individual is mostly living in small space stations or spacecraft, then count the total time exposed. If, instead, they live or work mostly in underground habitats or ones with strong radiation shielding, only count the “time of service” they were exposed to Background Radiation.
+
+.. csv-table:: Background Radiation Exposure Time
+   :widths: 50, 50
+
+   "1 month", "25 mSv"
+   "6 months", "150 mSv"
+   "1 year", "300 mSv"
+   "2 years", "600 mSv"
+   "5 years", "1.5 Sv"
+   "10 years", "3 Sv"
+   "20 years", "6 Sv"
+
 Temperature
 -----------
 

@@ -400,4 +400,52 @@ During stress or moments of high consumption of energy (think under high burn wi
 Heat Sinks
 ^^^^^^^^^^
 
-TODO
+Some spaceships, specially those fitted for warfare, also use **Heat Sinks**. These are ejectable blocks of metal or some phase-changing material that absorbs heat (like a block of ice that is heated into steam).
+
+When required, the vessel can eject said Heat Sink at once, **recovering -10° C**. A spaceship can carry as many Heat Sinks as needed, taking into account that to work properly each **weighs 1 Ton**.
+
+Some advanced Heat Sinks are reusable; they have a very basic propelling system that “breaks” closeby and can be retrieved later, or even be redirected to “dock” back into their launching hardpoint. These are of cutting-edge military technology that is not available for public use.
+
+.. admonition:: Temperature: CRITICAL
+
+   If a craft reaches **CRITICAL TEMPERATURE LEVELS** (dangerous for life aboard), the crew can still do some things to slow it down or counteract it, like turning off non-critical systems and other high-consumption functions, moving/rotating away from sunlight, venting off hot propellant or other liquids/gases, ejecting Heat Sinks, and even cycling down the reactor. These are temporary fixes that might give them a few more minutes or even hours, but heat will continue building up until they repair or bring the radiators back online, at GM’s discretion.
+
+
+Effects of temperature on the body
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This table represents the effects of different temperatures on the human body and its consequences in game terms, assuming that the person is not properly protected/shielded.
+
+.. csv-table:: Heat Management
+   :widths: 20, 80
+
+   "**Environmental Temperature**", "**Effects in the body** for *short exposure* (a few seconds up to a minute) or *long exposure* (a few minutes or more)."
+   "Less than 15° C", "*Short exposure*: Gain ``Hypothermia (Moderate, -3)``; extreme shivering.
+
+   *Long exposure*: Gain ``Frostbite (Severe, -5)`` and Immediately and for every hour of continuous exposure, lose 3 HP."
+   "Less than 0° C", "*Short exposure*: very uncomfortable shivering and muscle cramps.
+
+   *Long exposure*: Gain the ``Severe Hypothermia (-5)`` Condition."
+   "0° ~ 10° C", "*Short exposure*: uncomfortable shivering or chills.
+
+   *Long exposure*: Gain the ``Moderate Hypothermia (-3)`` Condition."
+   "15° ~ 25° C", "Comfortable range for most individuals."
+   "30° ~ 35° C", "The body begins sweating more to cool itself down.
+
+   *Short exposure*: sweating, fatigue.
+
+   *Long exposure*: Gain the ``Mild Dehydration (-1)`` Condition."
+   "40° C", "Heat stress becomes significant.
+
+   *Short exposure*: sweating, dizziness, confusion, fainting.
+
+   *Long exposure*: Gain ``Moderate Dehydration (-3)``, and Immediately and for every hour of continuous exposure, lose 3 HP."
+   "45° C", "Risk of heat exhaustion or heat stroke increases significantly. Proteins in the body begin denaturing, nerve impulses slow down, and organ function may be compromised.
+
+   *Short exposure*: sweating, nausea, dizziness, confusion, fainting.
+
+   *Long exposure*: Gain ``Heat Stroke (Severe, -5)`` and Immediately and for every hour of continuous exposure, lose 5 HP."
+   "50° C or more", "The body loses its ability to cool itself effectively. Sweating becomes insufficient, leading to a dangerous rise in core temperature. Heat stroke may cause severe damage to organs such as the brain, heart, kidneys, and liver.
+
+   *Short exposure*: sweating, nausea, dizziness, confusion, fainting.
+   *Long exposure*: Gain ``Heat Stroke (Severe, -5)`` and Immediately and for every hour of continuous exposure, lose 10 HP."

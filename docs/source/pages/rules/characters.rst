@@ -30,9 +30,9 @@ Damage and Conditions
 
 When a character is the target of a :hoverxref:`Negative Effect <effect>`, their player can choose between losing *Heart Points* (HP) or taking a :hoverxref:`Condition <conditions>`:
 
-- **Effect 5 or less**: lose that amount of HP, or receive a *Mild* Condition.
-- **Effect between 6 and 10**: lose that amount of HP, or receive a *Moderate* Condition.
-- **Effect 11 or more**: lose that amount of HP, or receive a *Severe* Condition.
+- **Effect 5 or less**: lose that amount of HP, or receive a *Mild* (-1) Condition.
+- **Effect between 6 and 10**: lose that amount of HP, or receive a *Moderate* (-3) Condition.
+- **Effect 11 or more**: lose that amount of HP, or receive a *Severe* (-5) Condition.
 
 .. _recovery:
 

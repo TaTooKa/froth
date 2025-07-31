@@ -10,6 +10,7 @@ This website hosts **MY** FROTH systems and procedures, but anyone can create th
    :hidden:
 
    pages/meta/philosophy
+   pages/meta/principles
    pages/meta/about
 
 .. toctree::

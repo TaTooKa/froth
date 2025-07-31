@@ -3,6 +3,8 @@ About F.R.O.T.H.
 
 FROTH as a concept and the FROTH systems and procedures present in this website were created by **@tatooka**.
 
+All images are copyright of their respective owners -- Credited and linked to the original artist's portfolio
+
 Touchstones and Inspiration
 ---------------------------
 
@@ -16,3 +18,4 @@ Other RPGs
 - **Knave** by Ben Milton
 - **Traveller** by Marc Miller
 - **Blackmoor** by Dave Arneson
+- **MOTHERSHIP** by Tuesday Night Games

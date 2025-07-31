@@ -42,3 +42,27 @@ Place a d20 inside an opaque cup, shake it and place it face down on the table, 
    If a character is still alive, you can give them a :hoverxref:`Condition <conditions>` that the character got instead of dying, so that they don't get out of it unscathed. The severity of the Condition is left at GM's discretion depending on the amount of HP lost and contextual circumstances.
 
    Some GMs don't give Conditions to characters that survive the **Uncertain Death** check *on purpose*—this emphasises the gamble of it: You :hoverxref:`could've taken a Condition instead of losing HP <damageandconditions>` and risking death, but you chose to risk a roll, which is *all or nothing*.
+
+.. _instinct-checks:
+
+Instinct Checks
+---------------
+
+.. figure:: /_static/images/rpg-image-15.jpg
+
+   art © `Geoffroy Thoorens <https://www.artstation.com/djahal>`_
+
+**Instinct Checks** are triggered in situations of extreme fear or pain, or life-threatening damage or danger. The result dictates if you can maintain your composure or are forced to act in a certain way. Roll and add any modifiers (skills/items/abilities/etc) [#]_ that would help keeping your cool in the specific situation:
+
+.. csv-table:: Instinct Check Results
+ :widths: 20, 80
+
+   "**CRITICAL FAILURE**", "Gain a ``Stressed (Severe, -5)`` Condition AND the GM picks your character’s behavior from  ``Fight``, ``Flight``, ``Freeze`` or ``Fawn``."
+   "**FAILURE**", "Gain a ``Troubled (Moderate, -3)`` Condition AND choose a behavior from ``Fight``, ``Flight``, ``Freeze`` or ``Fawn``."
+   "**SUCCESS**", "You maintain your composure and are not adversely affected by the situation."
+   "**CRITICAL SUCCESS**", "You maintain your composure, and gain +1 for further **Instinct Checks** during the scene."
+
+- **Fight**: lash out violently; attack anyone (friend or foe)
+- **Flight**: Escape ASAP; distance from / block the danger
+- **Freeze**: Become immobilized; in shock; unable to act
+- **Fawn**: Surrender; yield; submit to (or ally with) the enemy

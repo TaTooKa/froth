@@ -126,7 +126,21 @@ Distance between Planetary Systems
 Communication Delay between Planetary Systems
 ---------------------------------------------
 
-TODO
+.. csv-table:: Average communication delay between planetary systems in minutes
+   :align: center
+   :header-rows: 1
+   :stub-columns: 1
+
+   "","EARTH SYSTEM","MARS SYSTEM","ASTEROID BELT","JOVIAN SYSTEM","SATURNIAN SYSTEM"
+   "EARTH SYSTEM","〰","4 min","15 min","35 min","71 min"
+   "MARS SYSTEM","4 min","〰","10 min","31 min","67 min"
+   "ASTEROID BELT","15 min","10 min","〰","20 min","56 min"
+   "JOVIAN SYSTEM","35 min","31 min","20 min","〰","36 min"
+   "SATURNIAN SYSTEM","71 min","67 min","56 min","36 min","〰"
+
+.. warning::
+
+   This is a best-case-scenario, probably with military or government priority. Those civilians who can pay the exorbitant amounts of money to have high-priority comms could probably expect 2X or 3X these delays; most common people should probably expect 10X these figures.
 
 Travel Times and DeltaV Costs
 -----------------------------

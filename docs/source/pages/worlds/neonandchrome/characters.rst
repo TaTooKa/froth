@@ -357,7 +357,7 @@ buy your gear with *CryptoBits* (฿). Everyone starts with some cheap way of ac
 
 .. note::
 
-   All items are considered to be *Mundane* (+1) unless otherwise noted. Each might have bonuses or mechanics for specific situations, which are added on top of the regular bonus.
+   All items are considered to be ``Mundane (+1)`` unless otherwise noted. Each might have bonuses or mechanics for specific situations, which are added on top of the regular bonus.
 
 .. csv-table:: Armor / Wearables
  :widths: 90, 10
@@ -370,14 +370,14 @@ buy your gear with *CryptoBits* (฿). Everyone starts with some cheap way of ac
 .. csv-table:: Weapons and Mods
  :widths: 90, 10
 
- "**Katana:** very sharp. +1 for melee attack/defense.","1 K฿"
- "**Heavy Melee Weapon:** (chainsaw/sledgehammer/etc). +2 for melee attacks; can break armor. *two-handed*. *slow*. *bulky*. ","1 K฿"
- "**Taser:** *one-handed*. *concealable*. Stuns w/o permanent damage.","1 K฿"
- "**Handgun:** *one-handed*. *concealable*. -1 at *long range*.","1 K฿"
- "**Assault Rifle:** *two-handed*. +1 against groups of enemies.","2 K฿"
- "**Sniper Rifle:** *two-handed*. *bulky*. very obvious. +1 against far away targets. -1 in close combat.","2 K฿"
- "**Shotgun:** *two-handed*. +1 against close targets.","2 K฿"
- "**Launcher:** (grenade/rocket). *two-handed*. very *bulky*/*heavy*; +3 for personnel or structural attacks. Very limited ammo.","3 K฿"
+ "**Katana:** very sharp. :hoverxref:`Base DMG 2 <base-damage>`.","1 K฿"
+ "**Heavy Melee Weapon:** (chainsaw/sledgehammer/etc). :hoverxref:`Base DMG 3 <base-damage>`; can break armor. *two-handed*. *slow*. *bulky*. ","1 K฿"
+ "**Taser:** *one-handed*. *concealable*. :hoverxref:`Base DMG 1 <base-damage>`. Stuns w/o permanent damage.","1 K฿"
+ "**Handgun:** *one-handed*. *concealable*. :hoverxref:`Base DMG 1 <base-damage>`. -1 at *long range*.","1 K฿"
+ "**Assault Rifle:** *two-handed*. :hoverxref:`Base DMG 3 <base-damage>`.","2 K฿"
+ "**Sniper Rifle:** *two-handed*. *bulky*. very obvious. :hoverxref:`Base DMG 3 <base-damage>`. +1 against far away targets. -1 in close combat.","2 K฿"
+ "**Shotgun:** *two-handed*. :hoverxref:`Base DMG 3 <base-damage>`. +1 against close targets.","2 K฿"
+ "**Launcher:** (grenade/rocket). *two-handed*. very *bulky*/*heavy*; :hoverxref:`Base DMG 4 <base-damage>`. Very limited ammo.","3 K฿"
  "**Silencer:** for handguns only. Almost silent.","1 K฿"
  "**Suppressor:** for assault or sniper rifles. Less noisy.","1 K฿"
  "**Special Ammo:** choose: armor piercing/self-guided/tranq dart/incendiary/toxic/smoke. 1 clip or mag.","1 K฿"
@@ -424,7 +424,7 @@ Install **Cyberware** on a *Ripperdoc* shop during :hoverxref:`Downtime <downtim
  "**Cyber-Ears:** Improved hearing, +1 for auditory perception related actions.","1 K฿"
  " ↳ **Echolocation:** “see” through hearing.","1 K฿"
  " ↳ **Bio-stress meter:** voice/biometrics lie detector.","1 K฿"
- "**Retractable Blades:** nails/claws. +2 for melee attacks.","1 K฿"
+ "**Retractable Blades:** nails/claws. +2 for melee attacks. :hoverxref:`Base DMG 2 <base-damage>`.","1 K฿"
 
 
 Programs

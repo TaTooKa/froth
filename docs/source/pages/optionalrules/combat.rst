@@ -5,6 +5,8 @@ Combat and Damage
 
    art © `Aleksi Briclot <https://www.artstation.com/aleksi>`_
 
+.. _base-damage:
+
 Base Damage
 ===========
 

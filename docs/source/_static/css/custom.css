@@ -18,9 +18,9 @@ code {
  border: 0 !important;
  border-radius: 5px !important;
  color: black;
- /* font-style: oblique 3deg !important; */
- /* font-family: cursive !important; */
  font-family: "Schoolbell", cursive !important;
+ font-size: 1em !important;
+ font-style: oblique 5deg !important;
 }
 
 html[data-theme="dark"] code {

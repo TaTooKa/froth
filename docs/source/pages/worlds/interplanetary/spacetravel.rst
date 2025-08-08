@@ -339,3 +339,99 @@ Choose the amount of Gs of acceleration you want to burn at, and check how much 
        | 〰
        | 
 
+0.2g of Acceleration
+~~~~~~~~~~~~~~~~~~~~~
+
+.. list-table:: Average Travel Time and Δv Cost between planetary systems at 0.2G
+   :align: center
+   :header-rows: 1
+   :stub-columns: 1
+   :widths: 10, 18, 18, 18, 18, 18
+
+   * - 0.2g
+     - EARTH SYSTEM
+     - MARS SYSTEM
+     - ASTEROID BELT
+     - JOVIAN SYSTEM
+     - SATURNIAN SYSTEM
+   * - EARTH SYSTEM
+     - | 
+       | 〰
+       |
+     - | 110.6 h 
+       | (4.6 days)
+       | Δv 781.4 km/s
+     - | 204.1 h
+       | (8.5 days)
+       | Δv 1.4 Mm/s
+     - | 314.4 h
+       | (13.1 days)
+       | Δv 2.2 Mm/s
+     - | 448.3 h
+       | (18.7 days)
+       | Δv 3.2 Mm/s
+   * - MARS SYSTEM
+     - | 110.6 h
+       | (4.6 days)
+       | Δv 781.4 km/s
+     - | 
+       | 〰
+       | 
+     - | 170.8 h
+       | (7.1 days)
+       | Δv 1.2 Mm/s
+     - | 
+       | 
+       | 
+     - | 
+       | 
+       | 
+   * - ASTEROID BELT
+     - | 
+       | 
+       | 
+     - | 
+       | 
+       | 
+     - | 
+       | 〰
+       | 
+     - | 
+       | 
+       | 
+     - | 
+       | 
+       | 
+   * - JOVIAN SYSTEM
+     - | 
+       | 
+       | 
+     - | 
+       | 
+       | 
+     - | 
+       | 
+       | 
+     - | 
+       | 〰
+       | 
+     - | 
+       | 
+       | 
+   * - SATURNIAN SYSTEM
+     - | 
+       | 
+       | 
+     - | 
+       | 
+       | 
+     - | 
+       | 
+       | 
+     - | 
+       | 
+       | 
+     - | 
+       | 〰
+       | 
+

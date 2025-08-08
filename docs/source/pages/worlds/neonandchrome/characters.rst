@@ -322,7 +322,7 @@ Get an etiquette-related skill (at ``Adept (+1)`` level) depending on your Lifep
 Other Skills
 ~~~~~~~~~~~~
 
-Also pick another 3 skills at Adept (+1) level.
+Also pick another 3 skills at ``Adept (+1)`` level.
 
 +--------------+-----------------+
 | Academics    | Melee           |

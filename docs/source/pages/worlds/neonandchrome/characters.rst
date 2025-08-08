@@ -306,7 +306,7 @@ Your Archetype defines your starting skills and what role you fulfill in a group
 Etiquette
 ~~~~~~~~~
 
-Get an etiquette-related skill (at *Adept* (+1) level) depending on your Lifepath’s **Family Background** and **Childhood Environment**:
+Get an etiquette-related skill (at ``Adept (+1)`` level) depending on your Lifepath’s **Family Background** and **Childhood Environment**:
 
 +----------------------+------------------+
 | **Background**       | **Skill gained** |

@@ -34,6 +34,10 @@ Sample Weapon DMGs
 Uncertain Death
 ===============
 
+.. figure:: /_static/images/rpg-image-26.jpg
+
+   art © `Jason Fabok <https://jasonfabok.bigcartel.com/>`_
+
 When a character's :hoverxref:`HP <heartpoints>` are reduced to 0 or less (from a source of damage that could be deadly), they are defeated, taken out, fall unconcious, etc, but it is still **uncertain** if they are dead or alive.
 
 Place a d20 inside an opaque cup, shake it and place it face down on the table, without revealing the result. Once another ally goes to the character and checks their vitals, then you uncover the die and announce the result, which is modified by their current negative HP [#]_.

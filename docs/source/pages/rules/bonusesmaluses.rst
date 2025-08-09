@@ -44,7 +44,9 @@ Modifiers
 
 .. _conditions:
 
-**Conditions** are Maluses that represent negative hindrances like physical wounds, mental limitations, status effects, etc.  Examples: ``Mild laceration (-1)``, ``Moderate Embarrassment (-3)``, ``Severe Internal Bleeding (-5)``, ``Stunned (Mild, -1)``.
+**Conditions** are Maluses that represent negative hindrances like physical wounds, mental limitations, status effects, etc.  Examples: ``Mild laceration (-1)``, ``Moderate Embarrassment (-3)``, ``Severe Internal Bleeding (-5)``, ``Stunned (Mild, -1)`` [#]_.
+
+.. [#] A good rule of thumb is to limit the amount of Conditions a character can have to 1 of each type (Mild, Moderate, Severe) at any given time. If a character would gain a new Condition of a type they already have, they must take one of a higher tier. If they can't, then they can only take Damage in the form of HP loss, or be taken out if that reaches 0.
 
 .. note::
 

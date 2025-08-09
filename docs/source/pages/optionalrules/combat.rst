@@ -40,8 +40,8 @@ Place a d20 inside an opaque cup, shake it and place it face down on the table, 
 
 .. [#] The lower into the negatives the character was, the more likely they are dead. If they had exactly 0 HP, then their chances are 50/50. But if they had, for example, -4 HP, then the die result must be modified by -4, which is a -20% probability, and ends in a 30% chance of surviving.
 
-- **9 or less**: The character is dead.
-- **10 or more**: The character is unconcious, but still alive.
+- **10 or less**: The character is dead.
+- **11 or more**: The character is unconcious, but still alive.
 
 .. tip::
    

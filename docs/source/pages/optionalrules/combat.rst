@@ -55,7 +55,7 @@ Place a d20 inside an opaque cup, shake it and place it face down on the table, 
 
 .. admonition:: Less Deadly Option
 
-   If you want a more heroic or pulpy feel in which the characters are less likely to die, you can add the character's Level to the d20 result. 
+   If you want a more heroic or pulpy feel in which the characters are less likely to die, you can add the character's :hoverxref:`Level <level>` to the d20 result.
 
    For example, a Level 3 character that goes down with -5 HP would subtract 5 and add 3 to the result, for a total of -2. This still makes an **Uncertain Death** check dangerous, but in which more capable characters have a better chance of survival.
 

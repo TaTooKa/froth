@@ -53,6 +53,14 @@ Place a d20 inside an opaque cup, shake it and place it face down on the table, 
 
    Some GMs don't give Conditions to characters that survive the **Uncertain Death** check *on purpose*—this emphasises the gamble of it: You :hoverxref:`could've taken a Condition instead of losing HP <damageandconditions>` and risking death, but you chose to risk a roll, which is *all or nothing*.
 
+.. admonition:: Less Deadly Option
+
+   If you want a more heroic or pulpy feel in which the characters are less likely to die, you can add the character's Level to the d20 result. 
+
+   For example, a Level 3 character that goes down with -5 HP would subtract 5 and add 3 to the result, for a total of -2. This still makes an **Uncertain Death** check dangerous, but in which more capable characters have a better chance of survival.
+
+   This is a good option for games where characters are expected to be more resilient, like in fantasy or superhero settings.
+
 .. _instinct-checks:
 
 Instinct Checks

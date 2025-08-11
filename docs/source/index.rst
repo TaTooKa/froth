@@ -48,6 +48,12 @@ This website hosts **MY** FROTH systems and procedures, but anyone can create th
    pages/worlds/vanillafantasy/characters
 
 .. toctree::
+   :caption: Dark Fantasy
+   :hidden:
+
+   pages/worlds/darkfantasy/characters
+
+.. toctree::
    :caption: Interplanetary
    :hidden:
 
@@ -56,6 +62,18 @@ This website hosts **MY** FROTH systems and procedures, but anyone can create th
    pages/worlds/interplanetary/spacetravel
    pages/worlds/interplanetary/spacecraft
    pages/worlds/interplanetary/solsystem
+
+.. toctree::
+   :caption: Gritty Space Sci-Fi
+   :hidden:
+
+   pages/worlds/grittyspacescifi/characters
+
+.. toctree::
+   :caption: Galaxy Far Away
+   :hidden:
+
+   pages/worlds/galaxyfaraway/characters
 
 .. toctree::
    :caption: Zombie Apocalypse

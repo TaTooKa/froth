@@ -69,6 +69,10 @@ html[data-theme="dark"] img:not(.only-dark, .dark-light) {
 .tooltipster-base .tooltipster-content span.sidenote {
   display: block !important;
   clear: none !important;
-  margin: inherit !important;
+  margin: 10px !important;
   width: inherit !important;
+}
+
+.tooltipster-base .tooltipster-content .pst-scrollable-table-container {
+  overflow-x: inherit;
 }

@@ -65,3 +65,10 @@ html[data-theme="dark"] .bd-content img:not(.only-dark, .dark-light) {
 html[data-theme="dark"] img:not(.only-dark, .dark-light) {
   filter: none !important;
 }
+
+.tooltipster-base .tooltipster-content span.sidenote {
+  display: none !important;
+  clear: none !important;
+  margin: inherit !important;
+  width: inherit !important;
+}

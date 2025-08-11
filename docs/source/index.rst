@@ -48,10 +48,10 @@ This website hosts **MY** FROTH systems and procedures, but anyone can create th
    pages/worlds/vanillafantasy/characters
 
 .. toctree::
-   :caption: Dark Fantasy
+   :caption: Grimdark Fantasy
    :hidden:
 
-   pages/worlds/darkfantasy/characters
+   pages/worlds/grimdarkfantasy/characters
 
 .. toctree::
    :caption: Interplanetary

@@ -27,11 +27,14 @@ Adversary Types
 
 Adversaries come in one of three types: **Minion**, **regular** or **Nemesis**.
 
-A **Minion** is an adversary or minor obstacle that is easier to defeat or overcome. They have max HP equal to their Level.  They are useful as disposable enemies like goons and "cannon-fodder", or as simple obstacles like a stuck door, a simple lock to pick, etc.
+| A **Minion** is an adversary or minor obstacle that is easier to defeat or overcome. They have max HP equal to their Level.  They are useful as disposable enemies like goons and "cannon-fodder", or as simple obstacles like a stuck door, a simple lock to pick, etc.
+| A Minion cannot take any :hoverxref:`Conditions <conditions>`.
 
-A **regular** Adversary or obstacle, just like a normal character, has max HP equal to **10 + Level**. This is the default for "involved challenges", as it forces characters to make several attempts against them, until all of their HP are depleted.
+| A **regular** Adversary or obstacle, just like a normal character, has max HP equal to **10 + Level**. This is the default for "involved challenges", as it forces characters to make several attempts against them, until all of their HP are depleted.
+| A regular adversary can take the same amount of :hoverxref:`Conditions <conditions>` that a character can.
 
-A **Nemesis** is an important adversary that is harder to take down, or a notorious obstacle that takes much more effort to bypass. They have double the usual HP. For instance, a Dragon Nemesis of Level 4 would have 28 HP (2 x 14, which would be the default value for regular adversaries of 4th Level).
+| A **Nemesis** is an important adversary that is harder to take down, or a notorious obstacle that takes much more effort to bypass. They have double the usual HP. For instance, a Dragon Nemesis of Level 4 would have 28 HP (2 x 14, which would be the default value for regular adversaries of 4th Level).
+| A Nemesis can take double the amount of :hoverxref:`Conditions <conditions>` that a character can.
 
 .. _challenges:
 

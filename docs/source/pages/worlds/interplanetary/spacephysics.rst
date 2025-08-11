@@ -133,10 +133,10 @@ Each character has a :hoverxref:`native gravity <nativegravity>` they are accust
    "10x your native gravity, or more", "- **Short burst**: Lose 5 HP. Make a :hoverxref:`high-G burst check <highgburstcheck>`.
    - **Long period**: You cannot move ― you are prostrate in place and in severe pain. Lose 5 HP Immediately and 5 HP for every hour of continuous exposure."
 
+.. _highgburstcheck:
+
 High-G Burst Check
 ^^^^^^^^^^^^^^^^^^
-
-.. _highgburstcheck:
 
 Make a dice roll modified by any skill that might help you resist a burst of High-G, with a difficulty set by the amount of Gs resisted in relation to your native gravity [#]_. 
 

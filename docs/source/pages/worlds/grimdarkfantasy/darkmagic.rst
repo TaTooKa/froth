@@ -12,59 +12,53 @@ Spells
    
    Spells must be tattooed on the caster's body and recited at the time of execution. To create a Spell, generate a formula with a d6: 1-2: **Effect + Element**, 3-4: **Element + Form**, 5-6: **Effect + Form**. Then define it with the following tables, extrapolating function from its name.
    
-   Roll d6 twice to generate the **Effect**.
+   Roll d12 to generate the **Effect**.
    
    
-   +------------------+--------------------+
-   |        1-3       |         4-6        |
    +---+--------------+---+----------------+
-   | 1 | Transforming | 1 | Mending        |
+   | 1 | Transforming | 7 | Mending        |
    +---+--------------+---+----------------+
-   | 2 | Attracting   | 2 | Disintegrating |
+   | 2 | Attracting   | 8 | Disintegrating |
    +---+--------------+---+----------------+
-   | 3 | Paralyzing   | 3 | Repelling      |
+   | 3 | Paralyzing   | 9 | Repelling      |
    +---+--------------+---+----------------+
-   | 4 | Revealing    | 4 | Spawning       |
+   | 4 | Revealing    | 10| Spawning       |
    +---+--------------+---+----------------+
-   | 5 | Shielding    | 5 | Disrupting     |
+   | 5 | Shielding    | 11| Disrupting     |
    +---+--------------+---+----------------+
-   | 6 | Deceiving    | 6 | Corrupting     |
+   | 6 | Deceiving    | 12| Corrupting     |
    +---+--------------+---+----------------+
    
-   Roll d6 twice to generate the **Element**.
+   Roll d12 to generate the **Element**.
    
-   +-------------------+-----------------------+
-   |        1-3        |          4-6          |
    +---+---------------+---+-------------------+
-   | 1 | Acid / Poison | 1 | Air / Wind        |
+   | 1 | Acid / Poison | 7 | Air / Wind        |
    +---+---------------+---+-------------------+
-   | 2 | Mind / Soul   | 2 | Thunder / Ray     |
+   | 2 | Mind / Soul   | 8 | Thunder / Ray     |
    +---+---------------+---+-------------------+
-   | 3 | Fire / Heat   | 3 | Stone / Earth     |
+   | 3 | Fire / Heat   | 9 | Stone / Earth     |
    +---+---------------+---+-------------------+
-   | 4 | Flesh / Body  | 4 | Time / Age        |
+   | 4 | Flesh / Body  | 10| Time / Age        |
    +---+---------------+---+-------------------+
-   | 5 | Water / Ice   | 5 | Nature / Plant    |
+   | 5 | Water / Ice   | 11| Nature / Plant    |
    +---+---------------+---+-------------------+
-   | 6 | Shadow / Void | 6 | Illusion / Mirage |
+   | 6 | Shadow / Void | 12| Illusion / Mirage |
    +---+---------------+---+-------------------+
    
-   Roll d6 twice to generate the **Form**.
+   Roll d12 to generate the **Form**.
    
-   +--------------------+--------------------+
-   |         1-3        |         4-6        |
    +---+----------------+---+----------------+
-   | 1 | Armor / Shield | 1 | Cloak / Zone   |
+   | 1 | Armor / Shield | 7 | Cloak / Zone   |
    +---+----------------+---+----------------+
-   | 2 | Arrow / Bolt   | 2 | Touch / Grasp  |
+   | 2 | Arrow / Bolt   | 8 | Touch / Grasp  |
    +---+----------------+---+----------------+
-   | 3 | Aura / Sphere  | 3 | Trap / Prison  |
+   | 3 | Aura / Sphere  | 9 | Trap / Prison  |
    +---+----------------+---+----------------+
-   | 4 | Blast / Beam   | 4 | Wall / Barrier |
+   | 4 | Blast / Beam   | 10| Wall / Barrier |
    +---+----------------+---+----------------+
-   | 5 | Blade / Slash  | 5 | Vortex / Pit   |
+   | 5 | Blade / Slash  | 11| Vortex / Pit   |
    +---+----------------+---+----------------+
-   | 6 | Cloud / Fog    | 6 | Clone / Image  |
+   | 6 | Cloud / Fog    | 12| Clone / Image  |
    +---+----------------+---+----------------+
    
 ------------

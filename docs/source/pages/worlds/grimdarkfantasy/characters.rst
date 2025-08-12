@@ -1,12 +1,16 @@
 Characters
 ==========
 
-TODO
+Choose if you want a **Warrior-Type** or a **Spellcaster-Type**.
+
+**Warrior-Type**: Begin with ``Battle Expert (+3)`` and pick 2 of: an extra weapon, a shield, a helmet.
+
+**Spellcaster-Type**: Begin with ``Sorcery Expert (+3)`` and get 3 :hoverxref:`spell tattoos <spells-section>`.
 
 Skills
 ------
 
-Pick 3 skills. Two of them will be at ``Adept (+1)`` Level, and one will be at ``Expert (+3)`` Level.
+Pick 3 other skills. Two of them will be at ``Adept (+1)`` Level, and one will be at ``Expert (+3)`` Level.
 
 .. rst-class:: three-columns
 
